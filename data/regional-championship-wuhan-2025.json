@@ -12,7 +12,7 @@
     "logo": "mtg-yellow",
     "name": "MTG China Open: Wuhan",
     "standings": [
-      {"name": "Kunrui Wang", "matchpoints": 32, "money": 5000},
+      {"name": "Wang Kunrui", "matchpoints": 32, "money": 5000},
       {"name": "Haochen Zhou", "matchpoints": 28, "money": 2500},
       {"name": "Weiyang Chen", "matchpoints": 26, "money": 1250},
       {"name": "Hanbin Zhou", "matchpoints": 25, "money": 1250},
@@ -187,7 +187,7 @@
       {"name": "Yida Jiang", "matchpoints": 11},
       {"name": "蕴超 涂", "matchpoints": 10},
       {"name": "Jinghao Deng", "matchpoints": 10},
-      {"name": "Jianwei Liang", "matchpoints": 10},
+      {"name": "Liang Jianwei", "matchpoints": 10},
       {"name": "Chao Lu", "matchpoints": 10},
       {"name": "Yuhua Zhou", "matchpoints": 10},
       {"name": "Wenhao Lyu", "matchpoints": 10},

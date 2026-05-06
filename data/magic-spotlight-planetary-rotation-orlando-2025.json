@@ -12,7 +12,7 @@
     "logo": "mtg-yellow",
     "name": "Magic Spotlight: Planetary Rotation – Orlando 2025",
     "standings": [
-      {"name": "Brennan Roy", "matchpoints": 39, "money": 10000},
+      {"name": "Brennan Roy", "matchpoints": 39, "money": 10000, "deck": "MSDuLojHAE-gs36L_TlpKg"},
       {"name": "Jack Potter", "matchpoints": 36, "money": 5000},
       {"name": "Josh Moscoe", "matchpoints": 37, "money": 2500},
       {"name": "Jody Keith", "matchpoints": 36, "money": 2500},

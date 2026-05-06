@@ -1,0 +1,495 @@
+{
+  "type": "Arena Championship",
+  "topfinish": true,
+  "coverage": "https://magic.gg/events/arena-championship-11",
+  "date": "February 21-22, 2026",
+  "season": "2025-26",
+  "formats": [
+    "Standard"
+  ],
+  "medium": "Arena",
+  "id": "arena-championship-11-2025",
+  "location": "Global",
+  "logo": "mtg-yellow",
+  "name": "Arena Championship 11",
+  "standings": [
+    {
+      "name": "Marcelo Rodrigues Cavalcante",
+      "money": 15000,
+      "deck": "FPahdNka9EO1yrvtKSzlVg"
+    },
+    {
+      "name": "Daniel Weiss",
+      "money": 12000
+    },
+    {
+      "name": "Leo Lahonen",
+      "money": 10000
+    },
+    {
+      "name": "Davor Detecnik",
+      "money": 10000
+    },
+    {
+      "name": "Jeff Lin",
+      "money": 7000
+    },
+    {
+      "name": "Andrew Cuneo",
+      "money": 7000
+    },
+    {
+      "name": "Antonio Martos Donaire",
+      "money": 7000
+    },
+    {
+      "name": "Mike Sigrist",
+      "money": 7000
+    },
+    {
+      "name": "Shawn Doherty",
+      "money": 4500
+    },
+    {
+      "name": "Dylan Pratt",
+      "money": 4500
+    },
+    {
+      "name": "Arne Huschenbeth",
+      "money": 4500
+    },
+    {
+      "name": "Matthew Wright",
+      "money": 4500
+    },
+    {
+      "name": "Brandon Kohrs",
+      "money": 4500
+    },
+    {
+      "name": "Christoffer Larsen",
+      "money": 4500
+    },
+    {
+      "name": "David Astrand",
+      "money": 4500
+    },
+    {
+      "name": "Ben Zoz",
+      "money": 4500
+    },
+    {
+      "name": "Luka Mandic",
+      "money": 4000
+    },
+    {
+      "name": "Lukas Honnay",
+      "money": 4000
+    },
+    {
+      "name": "Jack Sun",
+      "money": 3000
+    },
+    {
+      "name": "Michael Meier",
+      "money": 3000
+    },
+    {
+      "name": "Linden PR",
+      "money": 3000
+    },
+    {
+      "name": "Daniel Perlmutter",
+      "money": 3000
+    },
+    {
+      "name": "Toru Horie",
+      "money": 3000
+    },
+    {
+      "name": "Vincent Halver",
+      "money": 3000
+    },
+    {
+      "name": "Alejandro Mora Romero",
+      "money": 3000
+    },
+    {
+      "name": "Soichiro Kohara",
+      "money": 3000
+    },
+    {
+      "name": "Joschi",
+      "money": 3000
+    },
+    {
+      "name": "Takanori Kamiyanagi",
+      "money": 3000
+    },
+    {
+      "name": "Taylor Cobb",
+      "money": 3000
+    },
+    {
+      "name": "Reid Fisher",
+      "money": 3000
+    },
+    {
+      "name": "Daniel Milechman",
+      "money": 2000
+    },
+    {
+      "name": "Maxime Dore",
+      "money": 2000
+    },
+    {
+      "name": "Myra Hoshino",
+      "money": 2000
+    },
+    {
+      "name": "Xuantao Zeng",
+      "money": 2000
+    },
+    {
+      "name": "Wojciech Kowalczuk",
+      "money": 2000
+    },
+    {
+      "name": "Filipe Santos",
+      "money": 2000
+    },
+    {
+      "name": "Satoshi Nakayama",
+      "money": 2000
+    },
+    {
+      "name": "Ethan Saks",
+      "money": 2000
+    },
+    {
+      "name": "Juan Ignacio Godoy",
+      "money": 2000
+    },
+    {
+      "name": "Brad Watson",
+      "money": 2000
+    },
+    {
+      "name": "Kouhei Kikuchi",
+      "money": 2000
+    },
+    {
+      "name": "Karol Nosowicz",
+      "money": 2000
+    },
+    {
+      "name": "Hongbin Sun",
+      "money": 2000
+    },
+    {
+      "name": "Arlo Zirps",
+      "money": 2000
+    },
+    {
+      "name": "Andrea Del Signore",
+      "money": 1500
+    },
+    {
+      "name": "Kenny Yeg",
+      "money": 1500
+    },
+    {
+      "name": "Haruka Murano",
+      "money": 1500
+    },
+    {
+      "name": "Shahar Shenhar",
+      "money": 1500
+    },
+    {
+      "name": "Keith Rockwood",
+      "money": 1500
+    },
+    {
+      "name": "David van Balen",
+      "money": 1500
+    },
+    {
+      "name": "Joseph Pei",
+      "money": 1500
+    },
+    {
+      "name": "Lizzie Harms",
+      "money": 1500
+    },
+    {
+      "name": "Mikko Airaksinen",
+      "money": 1500
+    },
+    {
+      "name": "Lorenzo Martini",
+      "money": 1500
+    },
+    {
+      "name": "Avi Lessure",
+      "money": 1500
+    },
+    {
+      "name": "Zhong Dong",
+      "money": 1500
+    },
+    {
+      "name": "Tikhon Timoshchenko",
+      "money": 1500
+    },
+    {
+      "name": "Marcus Handy",
+      "money": 1500
+    },
+    {
+      "name": "Andrii Protas",
+      "money": 1500
+    },
+    {
+      "name": "Jacob Aleksiuk",
+      "money": 1500
+    },
+    {
+      "name": "Ryan Donnelly",
+      "money": 1500
+    },
+    {
+      "name": "Jeremy Dolinko",
+      "money": 1500
+    },
+    {
+      "name": "Marcin Klimuszko",
+      "money": 1000
+    },
+    {
+      "name": "Kazuki Yada",
+      "money": 1000
+    },
+    {
+      "name": "Marcus Wosner",
+      "money": 1000
+    },
+    {
+      "name": "Dawid Florczyk",
+      "money": 1000
+    },
+    {
+      "name": "Jun'ichi Honda",
+      "money": 1000
+    },
+    {
+      "name": "Miro Nurmela",
+      "money": 1000
+    },
+    {
+      "name": "Leo Woiceshyn",
+      "money": 1000
+    },
+    {
+      "name": "Zack Winegrad",
+      "money": 1000
+    },
+    {
+      "name": "Autumn Burchett",
+      "money": 1000
+    },
+    {
+      "name": "Austin Bach",
+      "money": 1000
+    },
+    {
+      "name": "Lukasz Rysak",
+      "money": 1000
+    },
+    {
+      "name": "Eric Yuan",
+      "money": 1000
+    },
+    {
+      "name": "Yuxiang Su",
+      "money": 1000
+    },
+    {
+      "name": "Cal Relish",
+      "money": 1000
+    },
+    {
+      "name": "Gregory Woodard",
+      "money": 1000
+    },
+    {
+      "name": "Arthur Tron",
+      "money": 1000
+    },
+    {
+      "name": "Eric Oresick",
+      "money": 1000
+    },
+    {
+      "name": "Josue Manuel",
+      "money": 1000
+    },
+    {
+      "name": "Hosokawa Kouta",
+      "money": 1000
+    },
+    {
+      "name": "Luis Biaus",
+      "money": 1000
+    },
+    {
+      "name": "Michael Baraniecki",
+      "money": 1000
+    },
+    {
+      "name": "Toni Ramis Pascual",
+      "money": 1000
+    },
+    {
+      "name": "Scott McNamara",
+      "money": 500
+    },
+    {
+      "name": "Tamir Koren",
+      "money": 500
+    },
+    {
+      "name": "Adam Daniere",
+      "money": 500
+    },
+    {
+      "name": "Kyle Rose",
+      "money": 500
+    },
+    {
+      "name": "Anssi Myllymaki",
+      "money": 500
+    },
+    {
+      "name": "Laertis Vaso",
+      "money": 500
+    },
+    {
+      "name": "Peter Bobrick",
+      "money": 500
+    },
+    {
+      "name": "Glenn Sneddon",
+      "money": 500
+    },
+    {
+      "name": "Humberto Lebron Rivera",
+      "money": 500
+    },
+    {
+      "name": "Shota Yasooka",
+      "money": 500
+    },
+    {
+      "name": "Jaron Jones",
+      "money": 500
+    },
+    {
+      "name": "Tanaka Yusuke",
+      "money": 500
+    },
+    {
+      "name": "Jesse Piland",
+      "money": 500
+    },
+    {
+      "name": "Francesco Cardarelli",
+      "money": 500
+    },
+    {
+      "name": "Masayasu Tanahashi",
+      "money": 500
+    },
+    {
+      "name": "Jonathan Guttman",
+      "money": 500
+    },
+    {
+      "name": "Luca Alunni Guiducci",
+      "money": 500
+    },
+    {
+      "name": "Riley Hicks",
+      "money": 500
+    },
+    {
+      "name": "Seth Manfield",
+      "money": 500
+    },
+    {
+      "name": "Robert Smith",
+      "money": 500
+    },
+    {
+      "name": "Sarah Lyngvald Olsen",
+      "money": 500
+    },
+    {
+      "name": "John Holliday",
+      "money": 500
+    },
+    {
+      "name": "Mirko Gschwindt",
+      "money": 500
+    },
+    {
+      "name": "Leo Almeida",
+      "money": 500
+    },
+    {
+      "name": "Jiali Tang",
+      "money": 500
+    },
+    {
+      "name": "Vladi Lehtinen",
+      "money": 500
+    },
+    {
+      "name": "Noah Felix Leander Da Costa",
+      "money": 500
+    },
+    {
+      "name": "Jean Zarrouati",
+      "money": 500
+    },
+    {
+      "name": "Shota Takao",
+      "money": 500
+    },
+    {
+      "name": "Yotaro Obitsu",
+      "money": 500
+    },
+    {
+      "name": "Omar Valencia",
+      "money": 500
+    },
+    {
+      "name": "MissTrigger",
+      "money": 500
+    },
+    {
+      "name": "Eloi Pattaro",
+      "money": 500
+    },
+    {
+      "name": "Galen Yates",
+      "money": 500
+    },
+    {
+      "name": "Andreas Eklund",
+      "money": 500
+    }
+  ],
+  "teamsize": 1
+}

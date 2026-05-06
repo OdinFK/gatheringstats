@@ -1,0 +1,338 @@
+{
+  "type": "Magic Spotlight",
+  "coverage": "https://magic.gg/events/magic-spotlight-eclipsed-toronto-2026",
+  "date": "February 6-8, 2026",
+  "season": "2025-26",
+  "formats": [
+    "Sealed Deck",
+    "Booster Draft"
+  ],
+  "medium": "Tabletop",
+  "id": "magic-spotlight-eclipsed-toronto-2026",
+  "location": "Toronto, Canada",
+  "logo": "mtg-yellow",
+  "name": "Magic Spotlight: Eclipsed – Toronto 2026",
+  "standings": [
+    {
+      "name": "Valerie Jade",
+      "matchpoints": 36,
+      "money": 10000
+    },
+    {
+      "name": "Remi Goupil",
+      "matchpoints": 40,
+      "money": 5000
+    },
+    {
+      "name": "Eli Swafford",
+      "matchpoints": 36,
+      "money": 2500
+    },
+    {
+      "name": "Charles Wong",
+      "matchpoints": 36,
+      "money": 2500
+    },
+    {
+      "name": "Christian Calcano",
+      "matchpoints": 37,
+      "money": 1000
+    },
+    {
+      "name": "Andrey Kovalevskiy",
+      "matchpoints": 36,
+      "money": 1000
+    },
+    {
+      "name": "Dylan Pratt",
+      "matchpoints": 36,
+      "money": 1000
+    },
+    {
+      "name": "Jason Qiu",
+      "matchpoints": 36,
+      "money": 1000
+    },
+    {
+      "name": "Julian Weiswasser",
+      "matchpoints": 36,
+      "money": 750
+    },
+    {
+      "name": "Jeremy Cloyd",
+      "matchpoints": 35,
+      "money": 750
+    },
+    {
+      "name": "Jeremy Hughes",
+      "matchpoints": 34,
+      "money": 750
+    },
+    {
+      "name": "Marc Anderson",
+      "matchpoints": 33,
+      "money": 750
+    },
+    {
+      "name": "Brendon Johnson",
+      "matchpoints": 33,
+      "money": 750
+    },
+    {
+      "name": "Alexis Demers",
+      "matchpoints": 33,
+      "money": 750
+    },
+    {
+      "name": "Andy Burden",
+      "matchpoints": 33,
+      "money": 750
+    },
+    {
+      "name": "David Musick",
+      "matchpoints": 33,
+      "money": 750
+    },
+    {
+      "name": "Evan Sonnenberg-Rhim",
+      "matchpoints": 33,
+      "money": 550
+    },
+    {
+      "name": "OLIVIER POUPART",
+      "matchpoints": 33,
+      "money": 550
+    },
+    {
+      "name": "Maxime Auger",
+      "matchpoints": 33,
+      "money": 550
+    },
+    {
+      "name": "Jeffrey Pike",
+      "matchpoints": 33,
+      "money": 550
+    },
+    {
+      "name": "Alder Donovan-Cook",
+      "matchpoints": 33,
+      "money": 550
+    },
+    {
+      "name": "Brian Bonnell",
+      "matchpoints": 33,
+      "money": 550
+    },
+    {
+      "name": "Nigel Kirby",
+      "matchpoints": 33,
+      "money": 550
+    },
+    {
+      "name": "Ronald MacKenzie",
+      "matchpoints": 33,
+      "money": 550
+    },
+    {
+      "name": "Marcio Carvalho",
+      "matchpoints": 33,
+      "money": 550
+    },
+    {
+      "name": "Dillan Read",
+      "matchpoints": 33,
+      "money": 550
+    },
+    {
+      "name": "Xander Michaels",
+      "matchpoints": 33,
+      "money": 550
+    },
+    {
+      "name": "Graham Dubreuil",
+      "matchpoints": 33,
+      "money": 550
+    },
+    {
+      "name": "Robert Smith",
+      "matchpoints": 33,
+      "money": 550
+    },
+    {
+      "name": "Jake Puzycki",
+      "matchpoints": 33,
+      "money": 550
+    },
+    {
+      "name": "Sam Pratt",
+      "matchpoints": 33,
+      "money": 550
+    },
+    {
+      "name": "Fabian Dinescu",
+      "matchpoints": 33,
+      "money": 550
+    },
+    {
+      "name": "Felix Grezes",
+      "matchpoints": 31,
+      "money": 350
+    },
+    {
+      "name": "Kale Thompson",
+      "matchpoints": 31,
+      "money": 350
+    },
+    {
+      "name": "Johan Sadeghpour",
+      "matchpoints": 31,
+      "money": 350
+    },
+    {
+      "name": "Jay T",
+      "matchpoints": 31,
+      "money": 350
+    },
+    {
+      "name": "Theo Jacques-Griffin",
+      "matchpoints": 31,
+      "money": 350
+    },
+    {
+      "name": "Andrew Fiedler",
+      "matchpoints": 31,
+      "money": 350
+    },
+    {
+      "name": "Galen Yates",
+      "matchpoints": 31,
+      "money": 350
+    },
+    {
+      "name": "Arne Huschenbeth",
+      "matchpoints": 31,
+      "money": 350
+    },
+    {
+      "name": "Dana Fischer",
+      "matchpoints": 31,
+      "money": 350
+    },
+    {
+      "name": "Lucas Worrell",
+      "matchpoints": 31,
+      "money": 350
+    },
+    {
+      "name": "Nathan Huffnagle",
+      "matchpoints": 31,
+      "money": 350
+    },
+    {
+      "name": "Dante Brown-Fucci",
+      "matchpoints": 31,
+      "money": 350
+    },
+    {
+      "name": "Andy Peters",
+      "matchpoints": 31,
+      "money": 350
+    },
+    {
+      "name": "Joshua Mulloy",
+      "matchpoints": 31,
+      "money": 350
+    },
+    {
+      "name": "Joseph Fishman",
+      "matchpoints": 31,
+      "money": 350
+    },
+    {
+      "name": "Laura Robinson",
+      "matchpoints": 30,
+      "money": 350
+    },
+    {
+      "name": "Roope Metsae",
+      "matchpoints": 30,
+      "money": 350
+    },
+    {
+      "name": "Benji Solomon",
+      "matchpoints": 30,
+      "money": 350
+    },
+    {
+      "name": "Julian Saddy",
+      "matchpoints": 30,
+      "money": 350
+    },
+    {
+      "name": "Kenny Fung",
+      "matchpoints": 30,
+      "money": 350
+    },
+    {
+      "name": "Liam Etelson",
+      "matchpoints": 30,
+      "money": 350
+    },
+    {
+      "name": "Fabian Klein",
+      "matchpoints": 30,
+      "money": 350
+    },
+    {
+      "name": "Rick De Amorim",
+      "matchpoints": 30,
+      "money": 350
+    },
+    {
+      "name": "Bernardo Torres",
+      "matchpoints": 30,
+      "money": 350
+    },
+    {
+      "name": "Ben Abraham",
+      "matchpoints": 30,
+      "money": 350
+    },
+    {
+      "name": "Kevin Green",
+      "matchpoints": 30,
+      "money": 350
+    },
+    {
+      "name": "Timothy Durham",
+      "matchpoints": 30,
+      "money": 350
+    },
+    {
+      "name": "Yanwei Yu",
+      "matchpoints": 30,
+      "money": 350
+    },
+    {
+      "name": "Raymond Perez",
+      "matchpoints": 30,
+      "money": 350
+    },
+    {
+      "name": "Donald Giancoulas",
+      "matchpoints": 30,
+      "money": 350
+    },
+    {
+      "name": "Jan Ong",
+      "matchpoints": 30,
+      "money": 350
+    },
+    {
+      "name": "Mike Skeoch",
+      "matchpoints": 30,
+      "money": 350
+    }
+  ],
+  "teamsize": 1
+}

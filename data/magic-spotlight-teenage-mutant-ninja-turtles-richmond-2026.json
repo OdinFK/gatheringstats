@@ -1,0 +1,338 @@
+{
+  "type": "Magic Spotlight",
+  "coverage": "https://magic.gg/events/magic-spotlight-teenage-mutant-ninja-turtles-richmond-2026",
+  "date": "March 6-8, 2026",
+  "season": "2025-26",
+  "teamsize": 1,
+  "formats": [
+    "Standard"
+  ],
+  "medium": "Tabletop",
+  "id": "magic-spotlight-teenage-mutant-ninja-turtles-richmond-2026",
+  "location": "Richmond, Virginia, United States",
+  "logo": "mtg-yellow",
+  "name": "Magic Spotlight: Tennage Mutant Ninja Turtles – Richmond 2026",
+  "standings": [
+    {
+      "name": "John Puglisi Clark",
+      "matchpoints": 36,
+      "money": 10000,
+      "deck": "na_DSxVvS0uVCUpS56aEoA"
+    },
+    {
+      "name": "Jacob Durish",
+      "matchpoints": 37,
+      "money": 5000
+    },
+    {
+      "name": "Jesse Piland",
+      "matchpoints": 37,
+      "money": 2500
+    },
+    {
+      "name": "Michael Paluta",
+      "matchpoints": 37,
+      "money": 2500
+    },
+    {
+      "name": "Anthony Pepe",
+      "matchpoints": 37,
+      "money": 1000
+    },
+    {
+      "name": "Simon Byrne",
+      "matchpoints": 37,
+      "money": 1000
+    },
+    {
+      "name": "Ross Merriam",
+      "matchpoints": 36,
+      "money": 1000
+    },
+    {
+      "name": "Brian Zeng",
+      "matchpoints": 36,
+      "money": 1000
+    },
+    {
+      "name": "Will Kowalczyk",
+      "matchpoints": 36,
+      "money": 750
+    },
+    {
+      "name": "Josh Moscoe",
+      "matchpoints": 36,
+      "money": 750
+    },
+    {
+      "name": "Yutian Luo",
+      "matchpoints": 36,
+      "money": 750
+    },
+    {
+      "name": "Davin Frankosky",
+      "matchpoints": 34,
+      "money": 750
+    },
+    {
+      "name": "Quinn Tonole",
+      "matchpoints": 34,
+      "money": 750
+    },
+    {
+      "name": "Kenneth Ward",
+      "matchpoints": 34,
+      "money": 750
+    },
+    {
+      "name": "Cody Colston",
+      "matchpoints": 33,
+      "money": 750
+    },
+    {
+      "name": "Justin Schabel",
+      "matchpoints": 33,
+      "money": 750
+    },
+    {
+      "name": "Corey Burkhart",
+      "matchpoints": 33,
+      "money": 550
+    },
+    {
+      "name": "Adam Snook",
+      "matchpoints": 33,
+      "money": 550
+    },
+    {
+      "name": "Neil Estrada",
+      "matchpoints": 33,
+      "money": 550
+    },
+    {
+      "name": "Philip Marschall",
+      "matchpoints": 33,
+      "money": 550
+    },
+    {
+      "name": "Gavin Perry",
+      "matchpoints": 33,
+      "money": 550
+    },
+    {
+      "name": "Robert Pompa",
+      "matchpoints": 33,
+      "money": 550
+    },
+    {
+      "name": "Carter Newman",
+      "matchpoints": 33,
+      "money": 550
+    },
+    {
+      "name": "Andrew Mahieu",
+      "matchpoints": 33,
+      "money": 550
+    },
+    {
+      "name": "Joshua Willis",
+      "matchpoints": 33,
+      "money": 550
+    },
+    {
+      "name": "Joseph Nunez",
+      "matchpoints": 33,
+      "money": 550
+    },
+    {
+      "name": "Kaleb Stevens",
+      "matchpoints": 33,
+      "money": 550
+    },
+    {
+      "name": "Thomas Brusilovsky",
+      "matchpoints": 33,
+      "money": 550
+    },
+    {
+      "name": "Jack Yudt",
+      "matchpoints": 31,
+      "money": 550
+    },
+    {
+      "name": "Colin Sabor",
+      "matchpoints": 31,
+      "money": 550
+    },
+    {
+      "name": "Daniel Schriever",
+      "matchpoints": 31,
+      "money": 550
+    },
+    {
+      "name": "Jay T",
+      "matchpoints": 31,
+      "money": 550
+    },
+    {
+      "name": "Christian Valenti",
+      "matchpoints": 31,
+      "money": 350
+    },
+    {
+      "name": "Tyler Aaron Barnett",
+      "matchpoints": 31,
+      "money": 350
+    },
+    {
+      "name": "Shaheen Soorani",
+      "matchpoints": 31,
+      "money": 350
+    },
+    {
+      "name": "Marceline Orion",
+      "matchpoints": 31,
+      "money": 350
+    },
+    {
+      "name": "Riley Bennett",
+      "matchpoints": 31,
+      "money": 350
+    },
+    {
+      "name": "John Norman",
+      "matchpoints": 31,
+      "money": 350
+    },
+    {
+      "name": "James Spinelli",
+      "matchpoints": 31,
+      "money": 350
+    },
+    {
+      "name": "Nicholas Girardi",
+      "matchpoints": 31,
+      "money": 350
+    },
+    {
+      "name": "Joseph Hunt",
+      "matchpoints": 31,
+      "money": 350
+    },
+    {
+      "name": "William Grogan",
+      "matchpoints": 31,
+      "money": 350
+    },
+    {
+      "name": "Ryan Hayes",
+      "matchpoints": 31,
+      "money": 350
+    },
+    {
+      "name": "Mason Furnish",
+      "matchpoints": 30,
+      "money": 350
+    },
+    {
+      "name": "Steven Borakove",
+      "matchpoints": 30,
+      "money": 350
+    },
+    {
+      "name": "Alexander Beebe",
+      "matchpoints": 30,
+      "money": 350
+    },
+    {
+      "name": "Benjamin Meyer",
+      "matchpoints": 30,
+      "money": 350
+    },
+    {
+      "name": "Kellen Pastore",
+      "matchpoints": 30,
+      "money": 350
+    },
+    {
+      "name": "Evan Heritage",
+      "matchpoints": 30,
+      "money": 350
+    },
+    {
+      "name": "Chase Santayana",
+      "matchpoints": 30,
+      "money": 350
+    },
+    {
+      "name": "Brennan Franks",
+      "matchpoints": 30,
+      "money": 350
+    },
+    {
+      "name": "Daniel Miller",
+      "matchpoints": 30,
+      "money": 350
+    },
+    {
+      "name": "David Carstens",
+      "matchpoints": 30,
+      "money": 350
+    },
+    {
+      "name": "August Nguyen",
+      "matchpoints": 30,
+      "money": 350
+    },
+    {
+      "name": "Phillip Lucas",
+      "matchpoints": 30,
+      "money": 350
+    },
+    {
+      "name": "Adam Hernandez",
+      "matchpoints": 30,
+      "money": 350
+    },
+    {
+      "name": "Jarvis Yu",
+      "matchpoints": 30,
+      "money": 350
+    },
+    {
+      "name": "Ian Robb",
+      "matchpoints": 30,
+      "money": 350
+    },
+    {
+      "name": "Dylan Ham",
+      "matchpoints": 30,
+      "money": 350
+    },
+    {
+      "name": "Nick Schirillo",
+      "matchpoints": 30,
+      "money": 350
+    },
+    {
+      "name": "Shin'ya Saito",
+      "matchpoints": 30,
+      "money": 350
+    },
+    {
+      "name": "Ryan Mullens",
+      "matchpoints": 30,
+      "money": 350
+    },
+    {
+      "name": "Nathan Steuer",
+      "matchpoints": 30,
+      "money": 350
+    },
+    {
+      "name": "Kobi Sutton",
+      "matchpoints": 30,
+      "money": 350
+    }
+  ]
+}

@@ -12,7 +12,7 @@
     "logo": "mtg-yellow",
     "name": "Magic Spotlight: Modern – Utrecht 2025",
     "standings": [
-      {"matchpoints": 46, "name": "Raul Porojan", "money": 10000},
+      {"matchpoints": 46, "name": "Raul Porojan", "money": 10000, "deck": "XpPK1xPoy0SOdYtR616LeQ"},
       {"matchpoints": 44, "name": "Alberto Manchado", "money": 5000},
       {"matchpoints": 41, "name": "Arthur Brocsko", "money": 2500},
       {"matchpoints": 40, "name": "Wladimir Jerger", "money": 2500},

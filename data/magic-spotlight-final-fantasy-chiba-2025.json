@@ -12,7 +12,7 @@
     "logo": "mtg-yellow",
     "name": "Magic Spotlight: Final Fantasy – Chiba 2025",
     "standings": [
-      {"name": "Kazuya Hirabayashi", "matchpoints": 39, "money": 10000},
+      {"name": "Kazuya Hirabayashi", "matchpoints": 39, "money": 10000, "deck": "mRpUiy2JqkCkVgA9sNUGpw"},
       {"name": "Javier Del Pino Povedano", "matchpoints": 37, "money": 5000},
       {"name": "Ken'ichi Abe", "matchpoints": 39, "money": 2500},
       {"name": "Shinnosuke Takahama", "matchpoints": 39, "money": 2500},

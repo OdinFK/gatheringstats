@@ -12,7 +12,7 @@
     "logo": "mtg-yellow",
     "name": "ANZ Super Series Finals: Melbourne",
     "standings": [
-        {"name": "James Drake", "matchpoints": 20, "money": 5000},
+        {"name": "James Drake", "matchpoints": 20, "money": 5000, "deck": "oWPaYHpASkuWxuxCJ5MZ9g"},
         {"name": "Christopher Tong", "matchpoints": 20, "money": 2500},
         {"name": "Jinhao Yang", "matchpoints": 21, "money": 1250},
         {"name": "Max Outh-Aut", "matchpoints": 21, "money": 1250},
@@ -40,7 +40,7 @@
         {"name": "Joel McAndrew", "matchpoints": 16},
         {"name": "Oliver Berry", "matchpoints": 16},
         {"name": "Kyle Lerch", "matchpoints": 16},
-        {"name": "Bill Mladenoski", "matchpoints": 16},
+        {"name": "Blagojce Mladenoski", "matchpoints": 16},
         {"name": "Alexander Colbert", "matchpoints": 16},
         {"name": "Rowan Millers", "matchpoints": 16},
         {"name": "Yida Guo", "matchpoints": 16},

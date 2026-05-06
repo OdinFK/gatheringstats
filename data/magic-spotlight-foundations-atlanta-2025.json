@@ -12,7 +12,7 @@
     "logo": "mtg-yellow",
     "name": "Magic Spotlight: Foundations – Atlanta 2025",
     "standings": [
-      {"matchpoints": 48, "name": "Nicholas Odenheimer", "money": 10000},
+      {"matchpoints": 48, "name": "Nicholas Odenheimer", "money": 10000, "deck": "--lfT3m3REG9j4sy-CRgWQ"},
       {"matchpoints": 44, "name": "Scott McNamara", "money": 5000},
       {"matchpoints": 40, "name": "Gray Payne", "money": 2500},
       {"matchpoints": 40, "name": "Rei Zhang", "money": 2500},

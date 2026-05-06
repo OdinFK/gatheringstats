@@ -12,7 +12,7 @@
     "logo": "mtg-yellow",
     "name": "United States Regional Championships: Houston",
     "standings": [
-        {"name": "Vinnie Fino", "matchpoints": 40, "money": 20000},
+        {"name": "Vinnie Fino", "matchpoints": 40, "money": 20000, "deck": "TUiy7wgkPUCCrUwxDuqZ5A"},
         {"name": "John Puglisi Clark", "matchpoints": 37, "money": 10000},
         {"name": "Sam Clayton", "matchpoints": 39, "money": 5000},
         {"name": "Collins Mullen", "matchpoints": 37, "money": 5000},

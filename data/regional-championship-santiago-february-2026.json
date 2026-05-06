@@ -1,0 +1,894 @@
+{
+  "type": "Regional Championship",
+  "coverage": "https://magic.gg/events/south-america-magic-series-santiago-february-2026",
+  "date": "February 14-15, 2026",
+  "season": "2025-26",
+  "formats": [
+    "Standard"
+  ],
+  "medium": "Tabletop",
+  "id": "regional-championship-santiago-february-2026",
+  "location": "Santiago de Chile, Chile",
+  "logo": "mtg-yellow",
+  "name": "South America Magic Series: Santiago",
+  "standings": [
+    {
+      "name": "Joao Quege",
+      "matchpoints": 19,
+      "money": 8000,
+      "deck": "-I6WepuCNEeJd1nC0TyJ9A"
+    },
+    {
+      "name": "Isael Feitosa",
+      "matchpoints": 21,
+      "money": 6000
+    },
+    {
+      "name": "Rodrigo Pinheiro",
+      "matchpoints": 21,
+      "money": 4000
+    },
+    {
+      "name": "Matheus Crusius",
+      "matchpoints": 20,
+      "money": 4000
+    },
+    {
+      "name": "Victor Santos Esquici",
+      "matchpoints": 21,
+      "money": 1500
+    },
+    {
+      "name": "Guillermo Loli",
+      "matchpoints": 20,
+      "money": 1500
+    },
+    {
+      "name": "Carlos Torrico",
+      "matchpoints": 19,
+      "money": 1500
+    },
+    {
+      "name": "Adriano Melo",
+      "matchpoints": 19,
+      "money": 1500
+    },
+    {
+      "name": "Guilherme Merjam",
+      "matchpoints": 19,
+      "money": 1000
+    },
+    {
+      "name": "Patricio Roman",
+      "matchpoints": 19,
+      "money": 1000
+    },
+    {
+      "name": "Vinicius Pardal",
+      "matchpoints": 19,
+      "money": 1000
+    },
+    {
+      "name": "Luis Navas Flores",
+      "matchpoints": 18,
+      "money": 1000
+    },
+    {
+      "name": "Francisco Cedeno",
+      "matchpoints": 18,
+      "money": 400
+    },
+    {
+      "name": "Thiago Saporito",
+      "matchpoints": 18,
+      "money": 400
+    },
+    {
+      "name": "Lucas Andre Fernandes",
+      "matchpoints": 18,
+      "money": 400
+    },
+    {
+      "name": "Guilherme Vinicius Fragoso De Souza",
+      "matchpoints": 18,
+      "money": 400
+    },
+    {
+      "name": "Guillermo Sulimovich",
+      "matchpoints": 18,
+      "money": 150
+    },
+    {
+      "name": "Everton Julian Silva Goulart",
+      "matchpoints": 18,
+      "money": 150
+    },
+    {
+      "name": "Marco Figueroa",
+      "matchpoints": 18,
+      "money": 150
+    },
+    {
+      "name": "Marcelo Rodrigues Cavalcante",
+      "matchpoints": 18,
+      "money": 150
+    },
+    {
+      "name": "Rodrigo Lopez",
+      "matchpoints": 18,
+      "money": 150
+    },
+    {
+      "name": "Martin Dominguez",
+      "matchpoints": 18,
+      "money": 150
+    },
+    {
+      "name": "Mario Palma",
+      "matchpoints": 18,
+      "money": 150
+    },
+    {
+      "name": "Emanuel Sutter",
+      "matchpoints": 18,
+      "money": 150
+    },
+    {
+      "name": "Gabriel Fehr",
+      "matchpoints": 18,
+      "money": 150
+    },
+    {
+      "name": "Camilo Niño",
+      "matchpoints": 18,
+      "money": 150
+    },
+    {
+      "name": "Marcos Paredes",
+      "matchpoints": 18,
+      "money": 150
+    },
+    {
+      "name": "Andres Vasquez",
+      "matchpoints": 17,
+      "money": 150
+    },
+    {
+      "name": "Jorge Aguirre",
+      "matchpoints": 16,
+      "money": 150
+    },
+    {
+      "name": "Sebastian Silva",
+      "matchpoints": 16,
+      "money": 150
+    },
+    {
+      "name": "Jhohan Mauricio Herrera Molina",
+      "matchpoints": 16,
+      "money": 150
+    },
+    {
+      "name": "Ariel Cicchitti",
+      "matchpoints": 16,
+      "money": 150
+    },
+    {
+      "name": "Gabriel Martinez",
+      "matchpoints": 16
+    },
+    {
+      "name": "Julian Pastoriza",
+      "matchpoints": 15
+    },
+    {
+      "name": "Carlos Viveiros",
+      "matchpoints": 15
+    },
+    {
+      "name": "Albert Fabian Loaiza Dussan",
+      "matchpoints": 15
+    },
+    {
+      "name": "Diego Eneas Garcia",
+      "matchpoints": 15
+    },
+    {
+      "name": "Davi Mangolin Filho",
+      "matchpoints": 15
+    },
+    {
+      "name": "Thiago Souza",
+      "matchpoints": 15
+    },
+    {
+      "name": "Luis Esteban Venegas",
+      "matchpoints": 15
+    },
+    {
+      "name": "Sebastian Moncada",
+      "matchpoints": 15
+    },
+    {
+      "name": "Manuel Quiroga",
+      "matchpoints": 15
+    },
+    {
+      "name": "Freddy Paredes",
+      "matchpoints": 15
+    },
+    {
+      "name": "Jayme Carneiro Calmon Neto",
+      "matchpoints": 15
+    },
+    {
+      "name": "Nicolas Morales Macaya",
+      "matchpoints": 15
+    },
+    {
+      "name": "Rodrigo Muñoz",
+      "matchpoints": 15
+    },
+    {
+      "name": "Jonas Antunes",
+      "matchpoints": 15
+    },
+    {
+      "name": "Hernan Lobos Valenzuela",
+      "matchpoints": 15
+    },
+    {
+      "name": "Ismael Lessa",
+      "matchpoints": 15
+    },
+    {
+      "name": "Jacqueline Salvatierra",
+      "matchpoints": 15
+    },
+    {
+      "name": "Marcelo López Lagos",
+      "matchpoints": 15
+    },
+    {
+      "name": "Felipe Schnyder",
+      "matchpoints": 15
+    },
+    {
+      "name": "Emiliano Passoni",
+      "matchpoints": 15
+    },
+    {
+      "name": "Marco Lima",
+      "matchpoints": 15
+    },
+    {
+      "name": "Manuel Henao",
+      "matchpoints": 15
+    },
+    {
+      "name": "Antonio Lucas Longo",
+      "matchpoints": 15
+    },
+    {
+      "name": "Brahiam Henao",
+      "matchpoints": 15
+    },
+    {
+      "name": "Thiago Valle dos Santos",
+      "matchpoints": 15
+    },
+    {
+      "name": "Dihuen Spera",
+      "matchpoints": 15
+    },
+    {
+      "name": "Mariano de Gregorio",
+      "matchpoints": 15
+    },
+    {
+      "name": "Maximilian Kalm",
+      "matchpoints": 15
+    },
+    {
+      "name": "Julio Bejarano Espejo",
+      "matchpoints": 15
+    },
+    {
+      "name": "Adam Schwartz",
+      "matchpoints": 15
+    },
+    {
+      "name": "Axel Jamieson",
+      "matchpoints": 14
+    },
+    {
+      "name": "Lucas Lupatini",
+      "matchpoints": 14
+    },
+    {
+      "name": "Joao Jorge Sales Junior",
+      "matchpoints": 14
+    },
+    {
+      "name": "Gabriel Castelo Garcia",
+      "matchpoints": 13
+    },
+    {
+      "name": "Claudio Celis",
+      "matchpoints": 13
+    },
+    {
+      "name": "Francisco Bertomeu",
+      "matchpoints": 13
+    },
+    {
+      "name": "Andre Faustino",
+      "matchpoints": 13
+    },
+    {
+      "name": "Xandre Borges",
+      "matchpoints": 13
+    },
+    {
+      "name": "Juan Contreras Henriquez",
+      "matchpoints": 13
+    },
+    {
+      "name": "Lucas Hervas",
+      "matchpoints": 12
+    },
+    {
+      "name": "Nicolas Valdenegro",
+      "matchpoints": 12
+    },
+    {
+      "name": "Allan Almeida Reis",
+      "matchpoints": 12
+    },
+    {
+      "name": "Camilo Diaz Pineda",
+      "matchpoints": 12
+    },
+    {
+      "name": "Ricardo Ramos",
+      "matchpoints": 12
+    },
+    {
+      "name": "Gasser Abdeslam",
+      "matchpoints": 12
+    },
+    {
+      "name": "Diego Almeida",
+      "matchpoints": 12
+    },
+    {
+      "name": "Felipe Polania",
+      "matchpoints": 12
+    },
+    {
+      "name": "Rafael Kenji Marques Nishiyama",
+      "matchpoints": 12
+    },
+    {
+      "name": "Fellipe Emar",
+      "matchpoints": 12
+    },
+    {
+      "name": "Gustavo Fischer",
+      "matchpoints": 12
+    },
+    {
+      "name": "Ali Kaik",
+      "matchpoints": 12
+    },
+    {
+      "name": "Caio Araujo Santos",
+      "matchpoints": 12
+    },
+    {
+      "name": "Joao Quintino",
+      "matchpoints": 12
+    },
+    {
+      "name": "Juan Jose Zacharski",
+      "matchpoints": 12
+    },
+    {
+      "name": "Denis Cabral Barbosa Dias",
+      "matchpoints": 12
+    },
+    {
+      "name": "Pedro Paulo Albuquerque Caraciolo",
+      "matchpoints": 12
+    },
+    {
+      "name": "Juan Cruz Rodriguez Berjolis",
+      "matchpoints": 12
+    },
+    {
+      "name": "Danilo Almeida",
+      "matchpoints": 12
+    },
+    {
+      "name": "Andre Ramos Lima",
+      "matchpoints": 12
+    },
+    {
+      "name": "Agustin Diaz",
+      "matchpoints": 12
+    },
+    {
+      "name": "Carlos Morales U",
+      "matchpoints": 12
+    },
+    {
+      "name": "Gustavo Coraiola",
+      "matchpoints": 12
+    },
+    {
+      "name": "Lauro Olsen",
+      "matchpoints": 12
+    },
+    {
+      "name": "Carlos Ramirez",
+      "matchpoints": 12
+    },
+    {
+      "name": "Eric Etete",
+      "matchpoints": 12
+    },
+    {
+      "name": "Estevao Rudi Arntz",
+      "matchpoints": 12
+    },
+    {
+      "name": "Hebraim Comino Roda Zebra",
+      "matchpoints": 12
+    },
+    {
+      "name": "Juan Fuentealba",
+      "matchpoints": 12
+    },
+    {
+      "name": "Juliano Costa",
+      "matchpoints": 12
+    },
+    {
+      "name": "Rodrigo Olivos",
+      "matchpoints": 12
+    },
+    {
+      "name": "Lucas Rodriguez",
+      "matchpoints": 12
+    },
+    {
+      "name": "Rodolfo Zuin Constantino",
+      "matchpoints": 11
+    },
+    {
+      "name": "Andres Rojas",
+      "matchpoints": 11
+    },
+    {
+      "name": "Tiago Pinheiro",
+      "matchpoints": 11
+    },
+    {
+      "name": "Carvallo Tomas",
+      "matchpoints": 10
+    },
+    {
+      "name": "Lucas Campos",
+      "matchpoints": 10
+    },
+    {
+      "name": "Alejandro Mendez",
+      "matchpoints": 10
+    },
+    {
+      "name": "Omar Samir Murillo Vargas",
+      "matchpoints": 10
+    },
+    {
+      "name": "Pedro Gonzalez",
+      "matchpoints": 10
+    },
+    {
+      "name": "Dustyn Aranda",
+      "matchpoints": 10
+    },
+    {
+      "name": "Hendrik Lopez",
+      "matchpoints": 10
+    },
+    {
+      "name": "Stefan Pribnow",
+      "matchpoints": 10
+    },
+    {
+      "name": "Oscar Mendoza",
+      "matchpoints": 10
+    },
+    {
+      "name": "Julio Moreira",
+      "matchpoints": 10
+    },
+    {
+      "name": "Eduardo Carballo",
+      "matchpoints": 9
+    },
+    {
+      "name": "Agustin Colombo",
+      "matchpoints": 9
+    },
+    {
+      "name": "Luís Felippe Rossello Lima",
+      "matchpoints": 9
+    },
+    {
+      "name": "Daniel Lopez",
+      "matchpoints": 9
+    },
+    {
+      "name": "Hector Nova",
+      "matchpoints": 9
+    },
+    {
+      "name": "Mauricio Iriarte Valenzuela",
+      "matchpoints": 9
+    },
+    {
+      "name": "Guilherme Santana",
+      "matchpoints": 9
+    },
+    {
+      "name": "Thales Zaniti",
+      "matchpoints": 9
+    },
+    {
+      "name": "Andrés Camargo",
+      "matchpoints": 9
+    },
+    {
+      "name": "Luis Trelles",
+      "matchpoints": 9
+    },
+    {
+      "name": "Dario Vergara",
+      "matchpoints": 9
+    },
+    {
+      "name": "Christian Calcano",
+      "matchpoints": 9
+    },
+    {
+      "name": "Carlos Carrillo",
+      "matchpoints": 9
+    },
+    {
+      "name": "Javier Nunez",
+      "matchpoints": 9
+    },
+    {
+      "name": "Juan Jose Romero Trujillo",
+      "matchpoints": 9
+    },
+    {
+      "name": "Nicholas Goncalves Pohren",
+      "matchpoints": 9
+    },
+    {
+      "name": "Guilherme Adissy",
+      "matchpoints": 9
+    },
+    {
+      "name": "Marcos Henrique Borges Ferreira",
+      "matchpoints": 9
+    },
+    {
+      "name": "Diego Galaz",
+      "matchpoints": 9
+    },
+    {
+      "name": "Nicolas Diaz",
+      "matchpoints": 9
+    },
+    {
+      "name": "Julian Rangel",
+      "matchpoints": 9
+    },
+    {
+      "name": "Jaime Flores",
+      "matchpoints": 9
+    },
+    {
+      "name": "Bruno Volpato",
+      "matchpoints": 9
+    },
+    {
+      "name": "Cristian Acuna",
+      "matchpoints": 9
+    },
+    {
+      "name": "Adrien Venancio",
+      "matchpoints": 9
+    },
+    {
+      "name": "Joan Coussy",
+      "matchpoints": 8
+    },
+    {
+      "name": "Tiago Bittencourt",
+      "matchpoints": 8
+    },
+    {
+      "name": "Diego Ariza",
+      "matchpoints": 7
+    },
+    {
+      "name": "Pancho A. Miranda",
+      "matchpoints": 7
+    },
+    {
+      "name": "Diego Rojas",
+      "matchpoints": 7
+    },
+    {
+      "name": "Jhonatan Restrepo",
+      "matchpoints": 7
+    },
+    {
+      "name": "Francisco Gonzalez",
+      "matchpoints": 7
+    },
+    {
+      "name": "Diego Quintero",
+      "matchpoints": 7
+    },
+    {
+      "name": "Jimmyto Lara",
+      "matchpoints": 6
+    },
+    {
+      "name": "Sebastian Cantor",
+      "matchpoints": 6
+    },
+    {
+      "name": "Daniel Moncada Tabares",
+      "matchpoints": 6
+    },
+    {
+      "name": "Fernando Passos",
+      "matchpoints": 6
+    },
+    {
+      "name": "Raul Soto",
+      "matchpoints": 6
+    },
+    {
+      "name": "Daniel Fernandez",
+      "matchpoints": 6
+    },
+    {
+      "name": "Gilberto Teruel",
+      "matchpoints": 6
+    },
+    {
+      "name": "Alex Leonel Banacloy",
+      "matchpoints": 6
+    },
+    {
+      "name": "Gabriel Mattos",
+      "matchpoints": 6
+    },
+    {
+      "name": "Rudá dos Reis",
+      "matchpoints": 6
+    },
+    {
+      "name": "Vinicius da Rocha Imato Vini",
+      "matchpoints": 6
+    },
+    {
+      "name": "Mateus de Carvalho",
+      "matchpoints": 6
+    },
+    {
+      "name": "Federico Giardini",
+      "matchpoints": 6
+    },
+    {
+      "name": "Leandro Higa",
+      "matchpoints": 6
+    },
+    {
+      "name": "Camilo Rojas",
+      "matchpoints": 6
+    },
+    {
+      "name": "Walter Coquemala Filho",
+      "matchpoints": 6
+    },
+    {
+      "name": "Francisco Ignacio Andres Vargas Ortiz",
+      "matchpoints": 6
+    },
+    {
+      "name": "Thiago Odasaki",
+      "matchpoints": 6
+    },
+    {
+      "name": "Lucas Romero",
+      "matchpoints": 6
+    },
+    {
+      "name": "Thiago Giani",
+      "matchpoints": 5
+    },
+    {
+      "name": "Andres Cifuentes",
+      "matchpoints": 5
+    },
+    {
+      "name": "Caio Vinicius Errerias",
+      "matchpoints": 4
+    },
+    {
+      "name": "Agnaldo dos Santos Teixeira Junior Gnarr",
+      "matchpoints": 4
+    },
+    {
+      "name": "Eddie Dominguez",
+      "matchpoints": 4
+    },
+    {
+      "name": "Arthur Alves da Silva",
+      "matchpoints": 3
+    },
+    {
+      "name": "Luis Montana",
+      "matchpoints": 3
+    },
+    {
+      "name": "Guilherme Guedes",
+      "matchpoints": 3
+    },
+    {
+      "name": "Darwin Fuenzalida",
+      "matchpoints": 3
+    },
+    {
+      "name": "Leonardo Lambiasi",
+      "matchpoints": 3
+    },
+    {
+      "name": "Rodrigo Munoz Gomez",
+      "matchpoints": 3
+    },
+    {
+      "name": "Renan Carrion",
+      "matchpoints": 3
+    },
+    {
+      "name": "Luis Gutiérrez",
+      "matchpoints": 3
+    },
+    {
+      "name": "Vinicius Seleme",
+      "matchpoints": 3
+    },
+    {
+      "name": "Francisco Vega",
+      "matchpoints": 3
+    },
+    {
+      "name": "Rudson Rudzilla",
+      "matchpoints": 3
+    },
+    {
+      "name": "Diego Toledo",
+      "matchpoints": 3
+    },
+    {
+      "name": "Matheus Cunha",
+      "matchpoints": 3
+    },
+    {
+      "name": "Julian Prado",
+      "matchpoints": 3
+    },
+    {
+      "name": "Carlos Medina",
+      "matchpoints": 3
+    },
+    {
+      "name": "Lucas Gonzalez",
+      "matchpoints": 3
+    },
+    {
+      "name": "Vittor Santos Ferreira Lobao",
+      "matchpoints": 3
+    },
+    {
+      "name": "Gabriel Saba",
+      "matchpoints": 3
+    },
+    {
+      "name": "Jose Carlos Lanzarotti Junior",
+      "matchpoints": 3
+    },
+    {
+      "name": "Andre Hassan",
+      "matchpoints": 3
+    },
+    {
+      "name": "Pablo Cuello",
+      "matchpoints": 3
+    },
+    {
+      "name": "Bastian Munoz Pizarro",
+      "matchpoints": 2
+    },
+    {
+      "name": "Vinícius Karam",
+      "matchpoints": 1
+    },
+    {
+      "name": "Mark Naranjo G.",
+      "matchpoints": 1
+    },
+    {
+      "name": "Leonio Pereira",
+      "matchpoints": 1
+    },
+    {
+      "name": "Anderson Catunda",
+      "matchpoints": 1
+    },
+    {
+      "name": "Glauber Teixeira",
+      "matchpoints": 0
+    },
+    {
+      "name": "Jean Zveibil",
+      "matchpoints": 0
+    },
+    {
+      "name": "Felipe Machado",
+      "matchpoints": 0
+    },
+    {
+      "name": "Leandro Bujones",
+      "matchpoints": 0
+    },
+    {
+      "name": "Pablo Palmiotti",
+      "matchpoints": 0
+    },
+    {
+      "name": "Claudinei Brasil Jr",
+      "matchpoints": 0
+    },
+    {
+      "name": "Marcos Vinicius Almeida Ferreira",
+      "matchpoints": 0
+    },
+    {
+      "name": "Eron Moggio",
+      "matchpoints": 0
+    },
+    {
+      "name": "João Claudio Souza",
+      "matchpoints": 0
+    },
+    {
+      "name": "Marcos Santos",
+      "matchpoints": 0
+    },
+    {
+      "name": "Maximiliano Isaac Jimenez Catalan",
+      "matchpoints": 0
+    }
+  ],
+  "teamsize": 1
+}

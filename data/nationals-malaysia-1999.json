@@ -14,10 +14,12 @@
     "name": "Nationals Malaysia 1999",
     "standings": [
         {
-            "name": "Kevin Seng Giap Khoo"
+            "name": "Kevin Seng Giap Khoo",
+            "deck": "CiIk1rGdpk6xOABICpOmlA"
         },
         {
-            "name": "Kok Hou Yap"
+            "name": "Kok Hou Yap",
+            "report": "https://web.archive.org/web/19990820131957/http://www.newwave.org:80/tournrep/Nationals99/malaynationalstop8.html"
         },
         {
             "name": "Khai Wen Leong",

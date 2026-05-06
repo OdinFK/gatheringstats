@@ -31,25 +31,29 @@
             "money": 34000,
             "name": "Kai Budde",
             "propoints": 32,
-            "deck": "YlgdZM4Ngk-WIaxc_po2w"
+            "deck": "YlgdZM4Ngk-WIaxc_po2w",
+            "report": "https://web.archive.org/web/19991013081314/http://newwave.org:80/tournrep/Worlds99/reports/kabu990816.html"
         },
         {
             "money": 22000,
             "name": "Mark Le Pine",
             "propoints": 24,
-            "deck": "tLCnZ4FQGEqUF8GjPeJ_Ow"
+            "deck": "tLCnZ4FQGEqUF8GjPeJ_Ow",
+            "report": "https://web.archive.org/web/19991013091231/http://newwave.org:80/tournrep/Worlds99/reports/male990816.html"
         },
         {
             "money": 16000,
             "name": "Raffaele Lo Moro",
             "propoints": 16,
-            "deck": "O2KwxAxc5EmS4mUJOYsSpg"
+            "deck": "O2KwxAxc5EmS4mUJOYsSpg",
+            "report": "https://web.archive.org/web/19991013115120/http://newwave.org:80/tournrep/Worlds99/reports/ramo990816.html"
         },
         {
             "money": 13000,
             "name": "Matthew Linde",
             "propoints": 16,
-            "deck": "mAVVdXXz7kqXUd-Ae5C8kw"
+            "deck": "mAVVdXXz7kqXUd-Ae5C8kw",
+            "report": "https://web.archive.org/web/19991013095011/http://newwave.org:80/tournrep/Worlds99/reports/mali990816.html"
         },
         {
             "money": 11000,
@@ -61,7 +65,8 @@
             "money": 9500,
             "name": "Jamie Parke",
             "propoints": 12,
-            "deck": "IZQZGDTbIkyYNXsR8z4yjg"
+            "deck": "IZQZGDTbIkyYNXsR8z4yjg",
+            "report": "https://web.archive.org/web/19991013074248/http://newwave.org:80/tournrep/Worlds99/reports/japa990817.html"
         },
         {
             "money": 8250,
@@ -219,7 +224,8 @@
         {
             "money": 795,
             "name": "Rich Frangiosa",
-            "propoints": 5
+            "propoints": 5,
+            "report": "https://web.archive.org/web/19991013122957/http://newwave.org:80/tournrep/Worlds99/reports/rifr990817.html"
         },
         {
             "money": 775,
@@ -322,7 +328,8 @@
         {
             "money": 535,
             "name": "Randy Buehler",
-            "propoints": 4
+            "propoints": 4,
+            "report": ["https://web.archive.org/web/19991013103223/http://newwave.org:80/tournrep/Worlds99/reports/rabu9908162.html", "https://web.archive.org/web/19991013112018/http://newwave.org:80/tournrep/Worlds99/reports/rabu9908173.html"]
         },
         {
             "money": 530,

@@ -51,6 +51,18 @@
             "money": 500,
             "name": "Hector Fuentes",
             "propoints": 3
+        },
+        {
+            "money": 350,
+            "name": "Rudiger Klings",
+            "propoints": 2,
+            "rank": "T16"
+        },
+        {
+            "money": 250,
+            "name": "Ralph Ristedt",
+            "propoints": 1,
+            "rank": "T32"
         }
     ],
     "teamsize": 1
