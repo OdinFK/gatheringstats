@@ -1,0 +1,4198 @@
+{
+  "type": "Regional Championship",
+  "coverage": "https://magic.gg/events/ultimate-guard-european-magic-series-turin-march-2026",
+  "date": "March 6-8, 2026",
+  "season": "2025-26",
+  "teamsize": 1,
+  "formats": [
+    "Standard"
+  ],
+  "medium": "Tabletop",
+  "id": "regional-championship-turin-2026",
+  "location": "Turin, Italy",
+  "logo": "mtg-yellow",
+  "name": "Ultimate Guard European Magic Series: Turin",
+  "standings": [
+    {
+      "name": "Andrea Fortunati",
+      "matchpoints": 36,
+      "money": 20000,
+      "deck": "uK5AvfC_Rkihp5oM2dwUDA"
+    },
+    {
+      "name": "Samuele Estratti",
+      "matchpoints": 36,
+      "money": 12000
+    },
+    {
+      "name": "Victor Martinez Medina",
+      "matchpoints": 36,
+      "money": 7500
+    },
+    {
+      "name": "Jaime Gonzalo Benito",
+      "matchpoints": 36,
+      "money": 7500
+    },
+    {
+      "name": "Alejandro Mora Romero",
+      "matchpoints": 36,
+      "money": 5000
+    },
+    {
+      "name": "George Berrett",
+      "matchpoints": 36,
+      "money": 5000
+    },
+    {
+      "name": "Valentin Orru",
+      "matchpoints": 35,
+      "money": 5000
+    },
+    {
+      "name": "Matyas Kaluzny",
+      "matchpoints": 34,
+      "money": 5000
+    },
+    {
+      "name": "Alexey Paulot",
+      "matchpoints": 34,
+      "money": 2500
+    },
+    {
+      "name": "Klemen Pirc",
+      "matchpoints": 33,
+      "money": 2500
+    },
+    {
+      "name": "Max Bosma",
+      "matchpoints": 33,
+      "money": 2500
+    },
+    {
+      "name": "Carlo De Gaetano",
+      "matchpoints": 33,
+      "money": 2500
+    },
+    {
+      "name": "Guglielmo Lupi",
+      "matchpoints": 33,
+      "money": 2500
+    },
+    {
+      "name": "Michael Frappi",
+      "matchpoints": 33,
+      "money": 2500
+    },
+    {
+      "name": "Edgar Baumler",
+      "matchpoints": 31,
+      "money": 2500
+    },
+    {
+      "name": "Mikita Shcharbakou",
+      "matchpoints": 31,
+      "money": 2500
+    },
+    {
+      "name": "Jack Young",
+      "matchpoints": 31,
+      "money": 1600
+    },
+    {
+      "name": "Mattia Rizzi",
+      "matchpoints": 31,
+      "money": 1600
+    },
+    {
+      "name": "Mattia Oneto",
+      "matchpoints": 31,
+      "money": 1600
+    },
+    {
+      "name": "Gabriele Vasarri",
+      "matchpoints": 31,
+      "money": 1600
+    },
+    {
+      "name": "Lukas Schwendinger",
+      "matchpoints": 31,
+      "money": 1600
+    },
+    {
+      "name": "Diego Istillarte",
+      "matchpoints": 31,
+      "money": 1600
+    },
+    {
+      "name": "Lorenzo Trentadue",
+      "matchpoints": 31,
+      "money": 1600
+    },
+    {
+      "name": "Charles Eliatamby",
+      "matchpoints": 31,
+      "money": 1600
+    },
+    {
+      "name": "Ben Jones",
+      "matchpoints": 31,
+      "money": 1100
+    },
+    {
+      "name": "Sergio Garcia",
+      "matchpoints": 31,
+      "money": 1100
+    },
+    {
+      "name": "Pietro De Sanctis",
+      "matchpoints": 31,
+      "money": 1100
+    },
+    {
+      "name": "Mike Boulinguiez",
+      "matchpoints": 31,
+      "money": 1100
+    },
+    {
+      "name": "Diego Zaccagnini",
+      "matchpoints": 31,
+      "money": 1100
+    },
+    {
+      "name": "Miguel Cerqueira",
+      "matchpoints": 31,
+      "money": 1100
+    },
+    {
+      "name": "Aras Senyuz",
+      "matchpoints": 31,
+      "money": 1100
+    },
+    {
+      "name": "Gregorio Galeotti",
+      "matchpoints": 31,
+      "money": 1100
+    },
+    {
+      "name": "Gennaro Costanzo",
+      "matchpoints": 31,
+      "money": 1100
+    },
+    {
+      "name": "Sebastian Thaler",
+      "matchpoints": 31,
+      "money": 1100
+    },
+    {
+      "name": "Marco Orellana",
+      "matchpoints": 31,
+      "money": 1100
+    },
+    {
+      "name": "Anders Zink Munday",
+      "matchpoints": 31,
+      "money": 1100
+    },
+    {
+      "name": "Gabriel Farriol",
+      "matchpoints": 31,
+      "money": 750
+    },
+    {
+      "name": "Maciej Jezyna",
+      "matchpoints": 30,
+      "money": 750
+    },
+    {
+      "name": "Pier Paolo Moro",
+      "matchpoints": 30,
+      "money": 750
+    },
+    {
+      "name": "Edoardo Santullo",
+      "matchpoints": 30,
+      "money": 750
+    },
+    {
+      "name": "Socrates Rozakeas",
+      "matchpoints": 30,
+      "money": 750
+    },
+    {
+      "name": "Francesco Laurenzi",
+      "matchpoints": 30,
+      "money": 750
+    },
+    {
+      "name": "James Ball",
+      "matchpoints": 30,
+      "money": 750
+    },
+    {
+      "name": "Antonio Giustino",
+      "matchpoints": 30,
+      "money": 750
+    },
+    {
+      "name": "Egor Titov",
+      "matchpoints": 30,
+      "money": 750
+    },
+    {
+      "name": "Vincenzo Cusenza",
+      "matchpoints": 30,
+      "money": 750
+    },
+    {
+      "name": "Sebastian Sachse",
+      "matchpoints": 30,
+      "money": 750
+    },
+    {
+      "name": "Francesco Latorre",
+      "matchpoints": 30,
+      "money": 750
+    },
+    {
+      "name": "Masaya Hoshino",
+      "matchpoints": 30,
+      "money": 500
+    },
+    {
+      "name": "Adrian Kacperczyk-Perdyan",
+      "matchpoints": 30,
+      "money": 500
+    },
+    {
+      "name": "Andreas Nordahl",
+      "matchpoints": 30,
+      "money": 500
+    },
+    {
+      "name": "Patrik Szmatana",
+      "matchpoints": 30,
+      "money": 500
+    },
+    {
+      "name": "Tom Verzijl",
+      "matchpoints": 30,
+      "money": 500
+    },
+    {
+      "name": "Lorenzo Pollone",
+      "matchpoints": 30,
+      "money": 500
+    },
+    {
+      "name": "Michael Rossini",
+      "matchpoints": 30,
+      "money": 500
+    },
+    {
+      "name": "Timo Bertram",
+      "matchpoints": 30,
+      "money": 500
+    },
+    {
+      "name": "Sergio Garcia",
+      "matchpoints": 30,
+      "money": 500
+    },
+    {
+      "name": "Dominik Cupal",
+      "matchpoints": 30,
+      "money": 500
+    },
+    {
+      "name": "Lorenzo Terlizzi",
+      "matchpoints": 30,
+      "money": 500
+    },
+    {
+      "name": "Joshua Bausch",
+      "matchpoints": 30,
+      "money": 500
+    },
+    {
+      "name": "Alessandro Smanio",
+      "matchpoints": 28,
+      "money": 500
+    },
+    {
+      "name": "Clemens Gerteiser",
+      "matchpoints": 28,
+      "money": 500
+    },
+    {
+      "name": "Marco Capitanio",
+      "matchpoints": 27,
+      "money": 500
+    },
+    {
+      "name": "Ugutz Torre",
+      "matchpoints": 27,
+      "money": 500
+    },
+    {
+      "name": "Mate Schrick",
+      "matchpoints": 27
+    },
+    {
+      "name": "Alfonso Barcelona Cabeza",
+      "matchpoints": 27
+    },
+    {
+      "name": "Guillaume PETRI",
+      "matchpoints": 27
+    },
+    {
+      "name": "Mattia Tarquini",
+      "matchpoints": 27
+    },
+    {
+      "name": "Denis Beqiri",
+      "matchpoints": 27
+    },
+    {
+      "name": "Marco Cammilluzzi",
+      "matchpoints": 27
+    },
+    {
+      "name": "Piotr Glogowski",
+      "matchpoints": 27
+    },
+    {
+      "name": "Anže Mlakar",
+      "matchpoints": 27
+    },
+    {
+      "name": "Noam Brunel",
+      "matchpoints": 27
+    },
+    {
+      "name": "Pierre Liebsch",
+      "matchpoints": 27
+    },
+    {
+      "name": "Gaetan Verdierre",
+      "matchpoints": 27
+    },
+    {
+      "name": "Emanuele Magugliani",
+      "matchpoints": 27
+    },
+    {
+      "name": "Mattia Lido",
+      "matchpoints": 27
+    },
+    {
+      "name": "Marco Vassallo",
+      "matchpoints": 27
+    },
+    {
+      "name": "Matthieu Tassa",
+      "matchpoints": 27
+    },
+    {
+      "name": "Gabriel Sarfis",
+      "matchpoints": 27
+    },
+    {
+      "name": "Pertev Ozan Atik",
+      "matchpoints": 27
+    },
+    {
+      "name": "Jonas Erbe",
+      "matchpoints": 27
+    },
+    {
+      "name": "Alessandro Rinaldi",
+      "matchpoints": 27
+    },
+    {
+      "name": "Nikita Aseev",
+      "matchpoints": 27
+    },
+    {
+      "name": "Andrea Da Riol",
+      "matchpoints": 27
+    },
+    {
+      "name": "Maciej Olczak",
+      "matchpoints": 27
+    },
+    {
+      "name": "Niklaus Meier",
+      "matchpoints": 27
+    },
+    {
+      "name": "Jedrek Szmyd",
+      "matchpoints": 27
+    },
+    {
+      "name": "Boncho Dimitrov",
+      "matchpoints": 27
+    },
+    {
+      "name": "Spyros Novas",
+      "matchpoints": 27
+    },
+    {
+      "name": "Caleb Bjoernler",
+      "matchpoints": 27
+    },
+    {
+      "name": "Jiri Obraz",
+      "matchpoints": 27
+    },
+    {
+      "name": "Stefan Kramm",
+      "matchpoints": 27
+    },
+    {
+      "name": "Koen de Vos",
+      "matchpoints": 27
+    },
+    {
+      "name": "Adrian Alvarez Vega Vega",
+      "matchpoints": 27
+    },
+    {
+      "name": "Francesco Mariotti",
+      "matchpoints": 27
+    },
+    {
+      "name": "Przemek Oberbek",
+      "matchpoints": 27
+    },
+    {
+      "name": "Jose Bandeira",
+      "matchpoints": 27
+    },
+    {
+      "name": "Vincenzo Matteo Duraccio",
+      "matchpoints": 25
+    },
+    {
+      "name": "Jon Aingeru",
+      "matchpoints": 25
+    },
+    {
+      "name": "Milan De Laet",
+      "matchpoints": 25
+    },
+    {
+      "name": "Oscar Christensen",
+      "matchpoints": 25
+    },
+    {
+      "name": "Martin S",
+      "matchpoints": 24
+    },
+    {
+      "name": "Massimiliano Di Dio",
+      "matchpoints": 24
+    },
+    {
+      "name": "Jonathan Yuguero Holguera",
+      "matchpoints": 24
+    },
+    {
+      "name": "Davide Cappiello",
+      "matchpoints": 24
+    },
+    {
+      "name": "Predrag Markovic",
+      "matchpoints": 24
+    },
+    {
+      "name": "Maximilian Hoeglund",
+      "matchpoints": 24
+    },
+    {
+      "name": "Jakub Janac",
+      "matchpoints": 24
+    },
+    {
+      "name": "Andrea Lestini",
+      "matchpoints": 24
+    },
+    {
+      "name": "David Bovet",
+      "matchpoints": 24
+    },
+    {
+      "name": "Igor Marques",
+      "matchpoints": 24
+    },
+    {
+      "name": "Francesco Ruvolo",
+      "matchpoints": 24
+    },
+    {
+      "name": "Bruno Cerqueira",
+      "matchpoints": 24
+    },
+    {
+      "name": "Raul Freire",
+      "matchpoints": 24
+    },
+    {
+      "name": "Bram Meulders",
+      "matchpoints": 24
+    },
+    {
+      "name": "Oliver Rausch",
+      "matchpoints": 24
+    },
+    {
+      "name": "Leo Guimard",
+      "matchpoints": 24
+    },
+    {
+      "name": "Mateo Ferreira",
+      "matchpoints": 24
+    },
+    {
+      "name": "Cedric Krebs",
+      "matchpoints": 24
+    },
+    {
+      "name": "Alexander Jungnitsch",
+      "matchpoints": 24
+    },
+    {
+      "name": "Davide Miani",
+      "matchpoints": 24
+    },
+    {
+      "name": "Enrico Benigni",
+      "matchpoints": 24
+    },
+    {
+      "name": "Felix Marchel",
+      "matchpoints": 24
+    },
+    {
+      "name": "Filippo Chiappini",
+      "matchpoints": 24
+    },
+    {
+      "name": "Ricardo Dias",
+      "matchpoints": 22
+    },
+    {
+      "name": "Lukas Lazarevas",
+      "matchpoints": 21
+    },
+    {
+      "name": "Alberto Santos",
+      "matchpoints": 21
+    },
+    {
+      "name": "Talion Fawcett",
+      "matchpoints": 21
+    },
+    {
+      "name": "Albert Cordobes",
+      "matchpoints": 21
+    },
+    {
+      "name": "Daniele Apollonio",
+      "matchpoints": 21
+    },
+    {
+      "name": "Vittorio Rostagno",
+      "matchpoints": 21
+    },
+    {
+      "name": "Alessandro Lippi",
+      "matchpoints": 21
+    },
+    {
+      "name": "Lorenzo Invernizio",
+      "matchpoints": 21
+    },
+    {
+      "name": "Linus Eckhard",
+      "matchpoints": 21
+    },
+    {
+      "name": "Alessandro Napolitano",
+      "matchpoints": 21
+    },
+    {
+      "name": "Pascal Werkman",
+      "matchpoints": 18
+    },
+    {
+      "name": "Willy Edel",
+      "matchpoints": 18
+    },
+    {
+      "name": "Pavlos Fafalios",
+      "matchpoints": 18
+    },
+    {
+      "name": "Andre Compal",
+      "matchpoints": 18
+    },
+    {
+      "name": "Joel Aviles",
+      "matchpoints": 18
+    },
+    {
+      "name": "Carlos Del Mazo",
+      "matchpoints": 16
+    },
+    {
+      "name": "Luka Mandić",
+      "matchpoints": 16
+    },
+    {
+      "name": "Joao Esteves",
+      "matchpoints": 16
+    },
+    {
+      "name": "Simone Evangelisti",
+      "matchpoints": 16
+    },
+    {
+      "name": "Michele Mandelli",
+      "matchpoints": 16
+    },
+    {
+      "name": "Harry Hollingworth",
+      "matchpoints": 15
+    },
+    {
+      "name": "Jose Neves",
+      "matchpoints": 15
+    },
+    {
+      "name": "Fernando Penalba Solis",
+      "matchpoints": 15
+    },
+    {
+      "name": "Ivan Errico",
+      "matchpoints": 15
+    },
+    {
+      "name": "Emil Kalaydzhiev",
+      "matchpoints": 15
+    },
+    {
+      "name": "Dan Allen",
+      "matchpoints": 15
+    },
+    {
+      "name": "Marcelin Mein",
+      "matchpoints": 15
+    },
+    {
+      "name": "Jacopo Bartollini",
+      "matchpoints": 15
+    },
+    {
+      "name": "Colas Fievet",
+      "matchpoints": 15
+    },
+    {
+      "name": "Ibai Lihoreau",
+      "matchpoints": 15
+    },
+    {
+      "name": "Rafael Pinto",
+      "matchpoints": 15
+    },
+    {
+      "name": "Ashley Baden",
+      "matchpoints": 15
+    },
+    {
+      "name": "Matteo Di Gangi",
+      "matchpoints": 15
+    },
+    {
+      "name": "Sebastian Toelle",
+      "matchpoints": 15
+    },
+    {
+      "name": "Ian Arnold",
+      "matchpoints": 15
+    },
+    {
+      "name": "Gabriele Bianchini",
+      "matchpoints": 15
+    },
+    {
+      "name": "Elias Watsfeldt",
+      "matchpoints": 15
+    },
+    {
+      "name": "Danny Sardjan",
+      "matchpoints": 15
+    },
+    {
+      "name": "Daniel Garcia-Loygorri",
+      "matchpoints": 15
+    },
+    {
+      "name": "Rui Goncalves",
+      "matchpoints": 15
+    },
+    {
+      "name": "Amanda Cossai",
+      "matchpoints": 15
+    },
+    {
+      "name": "Noah Bacine",
+      "matchpoints": 15
+    },
+    {
+      "name": "Daniel Martinez Querol",
+      "matchpoints": 15
+    },
+    {
+      "name": "James Taylor",
+      "matchpoints": 15
+    },
+    {
+      "name": "Akseli Rantakari",
+      "matchpoints": 15
+    },
+    {
+      "name": "Roberto Gargiulo",
+      "matchpoints": 15
+    },
+    {
+      "name": "Antonio Bocchia",
+      "matchpoints": 15
+    },
+    {
+      "name": "Youri van der Zee",
+      "matchpoints": 15
+    },
+    {
+      "name": "Felix Wahlgren",
+      "matchpoints": 15
+    },
+    {
+      "name": "Paolo Ciani",
+      "matchpoints": 15
+    },
+    {
+      "name": "Daan Svirsky",
+      "matchpoints": 15
+    },
+    {
+      "name": "Christian Smith",
+      "matchpoints": 15
+    },
+    {
+      "name": "Ricardo Velez",
+      "matchpoints": 15
+    },
+    {
+      "name": "Josep Sanfeliu",
+      "matchpoints": 15
+    },
+    {
+      "name": "Jose Antonio Sanchez Palacios",
+      "matchpoints": 15
+    },
+    {
+      "name": "Fran Hergueta",
+      "matchpoints": 15
+    },
+    {
+      "name": "Thore Tennig",
+      "matchpoints": 15
+    },
+    {
+      "name": "Nistor Ionut",
+      "matchpoints": 15
+    },
+    {
+      "name": "David Gustin",
+      "matchpoints": 15
+    },
+    {
+      "name": "Martin Remi Crowley",
+      "matchpoints": 15
+    },
+    {
+      "name": "Kevin Fogarty",
+      "matchpoints": 15
+    },
+    {
+      "name": "Andrea Botti",
+      "matchpoints": 15
+    },
+    {
+      "name": "Daniele Giannini",
+      "matchpoints": 15
+    },
+    {
+      "name": "André Cunha",
+      "matchpoints": 15
+    },
+    {
+      "name": "Alessandro Perrone",
+      "matchpoints": 15
+    },
+    {
+      "name": "Antonio Bellizzi",
+      "matchpoints": 15
+    },
+    {
+      "name": "Łukasz Siwarski",
+      "matchpoints": 15
+    },
+    {
+      "name": "Toni Ramis Pascual",
+      "matchpoints": 15
+    },
+    {
+      "name": "Vittorio Viti",
+      "matchpoints": 15
+    },
+    {
+      "name": "Emanuele Falco",
+      "matchpoints": 15
+    },
+    {
+      "name": "Ali Eftekhari",
+      "matchpoints": 15
+    },
+    {
+      "name": "Alessio Basili",
+      "matchpoints": 15
+    },
+    {
+      "name": "Felix Gilles",
+      "matchpoints": 15
+    },
+    {
+      "name": "Giulio Grosso",
+      "matchpoints": 15
+    },
+    {
+      "name": "Jonas Hiltmann",
+      "matchpoints": 15
+    },
+    {
+      "name": "Lorenzo Gallina",
+      "matchpoints": 15
+    },
+    {
+      "name": "Julian Dilmi",
+      "matchpoints": 15
+    },
+    {
+      "name": "Dario Fernandez",
+      "matchpoints": 15
+    },
+    {
+      "name": "Kristoffer Roland",
+      "matchpoints": 15
+    },
+    {
+      "name": "Gonzalo Jimenez",
+      "matchpoints": 15
+    },
+    {
+      "name": "Deimion van der Sloot",
+      "matchpoints": 15
+    },
+    {
+      "name": "Maurizio Anedda",
+      "matchpoints": 15
+    },
+    {
+      "name": "Michael Kahn",
+      "matchpoints": 15
+    },
+    {
+      "name": "Jacopo Giacomoni",
+      "matchpoints": 15
+    },
+    {
+      "name": "Ask Espensonn Oren",
+      "matchpoints": 15
+    },
+    {
+      "name": "George Pericleous",
+      "matchpoints": 15
+    },
+    {
+      "name": "Schieche Henrik",
+      "matchpoints": 15
+    },
+    {
+      "name": "Rocco Vettese",
+      "matchpoints": 15
+    },
+    {
+      "name": "Javier Carro Munoz",
+      "matchpoints": 15
+    },
+    {
+      "name": "Jonas Diersen",
+      "matchpoints": 15
+    },
+    {
+      "name": "Stefano Vinci",
+      "matchpoints": 15
+    },
+    {
+      "name": "Stefano Parodi",
+      "matchpoints": 15
+    },
+    {
+      "name": "Adriano Moscato",
+      "matchpoints": 15
+    },
+    {
+      "name": "Adolfo Oncina",
+      "matchpoints": 15
+    },
+    {
+      "name": "Javier Moreno",
+      "matchpoints": 15
+    },
+    {
+      "name": "Guillem Lana Sabate",
+      "matchpoints": 15
+    },
+    {
+      "name": "Nathan McDowell",
+      "matchpoints": 15
+    },
+    {
+      "name": "Martin Jorgensen",
+      "matchpoints": 15
+    },
+    {
+      "name": "Laurent Delade",
+      "matchpoints": 15
+    },
+    {
+      "name": "Kacper Malyj",
+      "matchpoints": 15
+    },
+    {
+      "name": "Ruben Carlos Loucao de Sousa",
+      "matchpoints": 15
+    },
+    {
+      "name": "Davide Tedeschi",
+      "matchpoints": 15
+    },
+    {
+      "name": "Jacopo Di Napoli",
+      "matchpoints": 15
+    },
+    {
+      "name": "Marco Belacca",
+      "matchpoints": 15
+    },
+    {
+      "name": "Alexander Rehfeldt",
+      "matchpoints": 15
+    },
+    {
+      "name": "Jaro Kosak",
+      "matchpoints": 15
+    },
+    {
+      "name": "Oscar Sciallis",
+      "matchpoints": 15
+    },
+    {
+      "name": "Alejandro Diaz",
+      "matchpoints": 15
+    },
+    {
+      "name": "Tomasz Sodomirski",
+      "matchpoints": 15
+    },
+    {
+      "name": "Michele Sinigoi",
+      "matchpoints": 15
+    },
+    {
+      "name": "Bryant Yang",
+      "matchpoints": 15
+    },
+    {
+      "name": "Simone Lampasona",
+      "matchpoints": 15
+    },
+    {
+      "name": "Andrei Plesea",
+      "matchpoints": 15
+    },
+    {
+      "name": "Nelson Rodrigues",
+      "matchpoints": 15
+    },
+    {
+      "name": "Jan Gutheil",
+      "matchpoints": 15
+    },
+    {
+      "name": "Massimo del Prato",
+      "matchpoints": 15
+    },
+    {
+      "name": "Alessandro Rapisarda",
+      "matchpoints": 15
+    },
+    {
+      "name": "Federico Colaianni",
+      "matchpoints": 15
+    },
+    {
+      "name": "Eduard Lata",
+      "matchpoints": 15
+    },
+    {
+      "name": "Giovanni Gasbarri",
+      "matchpoints": 15
+    },
+    {
+      "name": "Stanislau Zubovich",
+      "matchpoints": 15
+    },
+    {
+      "name": "David Pereira",
+      "matchpoints": 15
+    },
+    {
+      "name": "Gianluca Lenza",
+      "matchpoints": 15
+    },
+    {
+      "name": "Gustav Holmberg",
+      "matchpoints": 15
+    },
+    {
+      "name": "Luke Merryweather",
+      "matchpoints": 15
+    },
+    {
+      "name": "Lorenzo Volontè",
+      "matchpoints": 15
+    },
+    {
+      "name": "Herbert Engleitner",
+      "matchpoints": 15
+    },
+    {
+      "name": "George Stuart",
+      "matchpoints": 15
+    },
+    {
+      "name": "Yong Claudio Ke",
+      "matchpoints": 15
+    },
+    {
+      "name": "Mehdi Khelfa",
+      "matchpoints": 15
+    },
+    {
+      "name": "Pawel Olewinski",
+      "matchpoints": 15
+    },
+    {
+      "name": "Calum Whytock",
+      "matchpoints": 15
+    },
+    {
+      "name": "Marco Melino",
+      "matchpoints": 15
+    },
+    {
+      "name": "Nuno Duarte",
+      "matchpoints": 15
+    },
+    {
+      "name": "Gerardo D'Elia",
+      "matchpoints": 15
+    },
+    {
+      "name": "Daniele Ingallinera",
+      "matchpoints": 15
+    },
+    {
+      "name": "Eldar Tagi-Zade",
+      "matchpoints": 15
+    },
+    {
+      "name": "Helena Brake",
+      "matchpoints": 15
+    },
+    {
+      "name": "Marco Feoli",
+      "matchpoints": 15
+    },
+    {
+      "name": "Filipe Sousa",
+      "matchpoints": 15
+    },
+    {
+      "name": "Pietro Maria Oltolina",
+      "matchpoints": 15
+    },
+    {
+      "name": "Mirko Gschwindt",
+      "matchpoints": 15
+    },
+    {
+      "name": "Konrad Sokolowski",
+      "matchpoints": 15
+    },
+    {
+      "name": "Brass Erik",
+      "matchpoints": 15
+    },
+    {
+      "name": "Florian Innerlohinger",
+      "matchpoints": 15
+    },
+    {
+      "name": "Andrea Rizzi",
+      "matchpoints": 15
+    },
+    {
+      "name": "Jakub Bryniarski",
+      "matchpoints": 15
+    },
+    {
+      "name": "Stefano Da Rin",
+      "matchpoints": 15
+    },
+    {
+      "name": "Antonio Paone",
+      "matchpoints": 15
+    },
+    {
+      "name": "Dario Casati",
+      "matchpoints": 15
+    },
+    {
+      "name": "Andrei Nikolov",
+      "matchpoints": 15
+    },
+    {
+      "name": "Luca Menichetti",
+      "matchpoints": 15
+    },
+    {
+      "name": "Sander Rogiers",
+      "matchpoints": 15
+    },
+    {
+      "name": "Bobbie Chen",
+      "matchpoints": 15
+    },
+    {
+      "name": "Janusz Tarczykowski",
+      "matchpoints": 13
+    },
+    {
+      "name": "Marco Drakulic",
+      "matchpoints": 13
+    },
+    {
+      "name": "Riccardo Delisi",
+      "matchpoints": 13
+    },
+    {
+      "name": "Andrea Del Signore",
+      "matchpoints": 13
+    },
+    {
+      "name": "Accorsi Mattia",
+      "matchpoints": 13
+    },
+    {
+      "name": "Ivo Silva",
+      "matchpoints": 13
+    },
+    {
+      "name": "Lorenzo Businaro",
+      "matchpoints": 13
+    },
+    {
+      "name": "Edoardo Rosadini",
+      "matchpoints": 13
+    },
+    {
+      "name": "Przemyslaw Olszewski",
+      "matchpoints": 13
+    },
+    {
+      "name": "Luna Kovacs",
+      "matchpoints": 13
+    },
+    {
+      "name": "Jose Valor Reed",
+      "matchpoints": 12
+    },
+    {
+      "name": "Edoardo Lamonaca",
+      "matchpoints": 12
+    },
+    {
+      "name": "Rory McKay",
+      "matchpoints": 12
+    },
+    {
+      "name": "Tom Law",
+      "matchpoints": 12
+    },
+    {
+      "name": "Lorenzo Ambrosini",
+      "matchpoints": 12
+    },
+    {
+      "name": "Finn Veldhoven",
+      "matchpoints": 12
+    },
+    {
+      "name": "Decio Sacco",
+      "matchpoints": 12
+    },
+    {
+      "name": "Roberto Biondi",
+      "matchpoints": 12
+    },
+    {
+      "name": "Antoine Rebeyre",
+      "matchpoints": 12
+    },
+    {
+      "name": "Carlos Merino",
+      "matchpoints": 12
+    },
+    {
+      "name": "Harm-Joost Van Kuijk",
+      "matchpoints": 12
+    },
+    {
+      "name": "Robin Meis",
+      "matchpoints": 12
+    },
+    {
+      "name": "Nikola Djukanovic",
+      "matchpoints": 12
+    },
+    {
+      "name": "David Olmos",
+      "matchpoints": 12
+    },
+    {
+      "name": "Eugeni Sanchez",
+      "matchpoints": 12
+    },
+    {
+      "name": "Antonino Metta",
+      "matchpoints": 12
+    },
+    {
+      "name": "Amelia Kozlowksa",
+      "matchpoints": 12
+    },
+    {
+      "name": "Andrea Il Grande",
+      "matchpoints": 12
+    },
+    {
+      "name": "Alessio Galie",
+      "matchpoints": 12
+    },
+    {
+      "name": "Federico Ciancia",
+      "matchpoints": 12
+    },
+    {
+      "name": "Niccolo Martinello",
+      "matchpoints": 12
+    },
+    {
+      "name": "Frank Roelofs",
+      "matchpoints": 12
+    },
+    {
+      "name": "Andreu Subirats Chalaux",
+      "matchpoints": 12
+    },
+    {
+      "name": "Davide Schiliro",
+      "matchpoints": 12
+    },
+    {
+      "name": "Thomas Lodge",
+      "matchpoints": 12
+    },
+    {
+      "name": "Ikinho 8125",
+      "matchpoints": 12
+    },
+    {
+      "name": "Dominic White",
+      "matchpoints": 12
+    },
+    {
+      "name": "Mattia Zapparoli",
+      "matchpoints": 12
+    },
+    {
+      "name": "Jussi Kajala",
+      "matchpoints": 12
+    },
+    {
+      "name": "Tom Ogink",
+      "matchpoints": 12
+    },
+    {
+      "name": "Piotr Wiktorzak",
+      "matchpoints": 12
+    },
+    {
+      "name": "Lorenzo Pucci",
+      "matchpoints": 12
+    },
+    {
+      "name": "George Worsnop",
+      "matchpoints": 12
+    },
+    {
+      "name": "Mirko Romeo",
+      "matchpoints": 12
+    },
+    {
+      "name": "Vincenzo Vinci",
+      "matchpoints": 12
+    },
+    {
+      "name": "Jeremy Berguio",
+      "matchpoints": 12
+    },
+    {
+      "name": "Martin Gilbert",
+      "matchpoints": 12
+    },
+    {
+      "name": "Raul Porojan",
+      "matchpoints": 12
+    },
+    {
+      "name": "Maurice Kurth",
+      "matchpoints": 12
+    },
+    {
+      "name": "Franco Cicchini",
+      "matchpoints": 12
+    },
+    {
+      "name": "Pedro Lemos",
+      "matchpoints": 12
+    },
+    {
+      "name": "Alessandro Specolizzi",
+      "matchpoints": 12
+    },
+    {
+      "name": "Kieren Digpal",
+      "matchpoints": 12
+    },
+    {
+      "name": "Lorenzo Lupini",
+      "matchpoints": 12
+    },
+    {
+      "name": "Alan Andrzejewski",
+      "matchpoints": 12
+    },
+    {
+      "name": "Antonio Becatti",
+      "matchpoints": 12
+    },
+    {
+      "name": "Gianluca Colangelo",
+      "matchpoints": 12
+    },
+    {
+      "name": "Perfumo Gabriele",
+      "matchpoints": 12
+    },
+    {
+      "name": "Dimitrije Vasic",
+      "matchpoints": 12
+    },
+    {
+      "name": "Juan Ignacio Godoy",
+      "matchpoints": 12
+    },
+    {
+      "name": "Rafael Costa",
+      "matchpoints": 12
+    },
+    {
+      "name": "Mirko Milan",
+      "matchpoints": 12
+    },
+    {
+      "name": "Matteo Imperiale",
+      "matchpoints": 12
+    },
+    {
+      "name": "Giuseppe Gaiotti",
+      "matchpoints": 12
+    },
+    {
+      "name": "Ryan Allsop",
+      "matchpoints": 12
+    },
+    {
+      "name": "Tomasz Dudziec",
+      "matchpoints": 12
+    },
+    {
+      "name": "Rafael Baio",
+      "matchpoints": 12
+    },
+    {
+      "name": "Andrea Grilli",
+      "matchpoints": 12
+    },
+    {
+      "name": "Antonio Neri",
+      "matchpoints": 12
+    },
+    {
+      "name": "Andrea Del Moro",
+      "matchpoints": 12
+    },
+    {
+      "name": "Francesco Settepassi",
+      "matchpoints": 12
+    },
+    {
+      "name": "Samu Katainen",
+      "matchpoints": 12
+    },
+    {
+      "name": "Eduard Cziszter",
+      "matchpoints": 12
+    },
+    {
+      "name": "Andrea Martinelli",
+      "matchpoints": 12
+    },
+    {
+      "name": "Mattia Pesenti",
+      "matchpoints": 12
+    },
+    {
+      "name": "Katharina Birnstiel",
+      "matchpoints": 12
+    },
+    {
+      "name": "Martin Sistig",
+      "matchpoints": 12
+    },
+    {
+      "name": "Dominik Konieczny",
+      "matchpoints": 12
+    },
+    {
+      "name": "Timon Bodmer",
+      "matchpoints": 12
+    },
+    {
+      "name": "Antonio Castellani",
+      "matchpoints": 12
+    },
+    {
+      "name": "Nikolin Lasku",
+      "matchpoints": 12
+    },
+    {
+      "name": "Jairo Martos Munoz",
+      "matchpoints": 12
+    },
+    {
+      "name": "Raul Rodriguez",
+      "matchpoints": 12
+    },
+    {
+      "name": "Gianpiero Menta",
+      "matchpoints": 12
+    },
+    {
+      "name": "Jonny Edmondson",
+      "matchpoints": 12
+    },
+    {
+      "name": "Antonin Branis",
+      "matchpoints": 12
+    },
+    {
+      "name": "Morgan Lebrument",
+      "matchpoints": 12
+    },
+    {
+      "name": "Erik Ploug",
+      "matchpoints": 12
+    },
+    {
+      "name": "Remi Traversi",
+      "matchpoints": 12
+    },
+    {
+      "name": "Jonatan Svendsen",
+      "matchpoints": 12
+    },
+    {
+      "name": "Gustavo Feitosa",
+      "matchpoints": 12
+    },
+    {
+      "name": "Luis Fernandez",
+      "matchpoints": 12
+    },
+    {
+      "name": "Emilio Casas",
+      "matchpoints": 12
+    },
+    {
+      "name": "Cedric Gaede",
+      "matchpoints": 12
+    },
+    {
+      "name": "Xavier Serna",
+      "matchpoints": 12
+    },
+    {
+      "name": "Daniele Sarracino",
+      "matchpoints": 12
+    },
+    {
+      "name": "Adne Rosenvinge",
+      "matchpoints": 12
+    },
+    {
+      "name": "Krzysztof Siedlecki",
+      "matchpoints": 12
+    },
+    {
+      "name": "Jacopo Ciocchetti",
+      "matchpoints": 12
+    },
+    {
+      "name": "Andrea Feo",
+      "matchpoints": 12
+    },
+    {
+      "name": "Wibke Gehweiler",
+      "matchpoints": 12
+    },
+    {
+      "name": "Kim Berle",
+      "matchpoints": 12
+    },
+    {
+      "name": "Pedro Ruano Ortega",
+      "matchpoints": 12
+    },
+    {
+      "name": "Callum McWhirter",
+      "matchpoints": 12
+    },
+    {
+      "name": "Carlos Zapata",
+      "matchpoints": 12
+    },
+    {
+      "name": "Markus Leicht",
+      "matchpoints": 12
+    },
+    {
+      "name": "Ferran Relat",
+      "matchpoints": 12
+    },
+    {
+      "name": "Simen Skrede Reigstad",
+      "matchpoints": 12
+    },
+    {
+      "name": "Raphael Montermann",
+      "matchpoints": 12
+    },
+    {
+      "name": "Matteo Lavore",
+      "matchpoints": 12
+    },
+    {
+      "name": "Eloi Perregaux-Dielf",
+      "matchpoints": 12
+    },
+    {
+      "name": "Gabriele Vistarini",
+      "matchpoints": 12
+    },
+    {
+      "name": "Giulio Pasqui",
+      "matchpoints": 12
+    },
+    {
+      "name": "Gianmarco Maggini",
+      "matchpoints": 12
+    },
+    {
+      "name": "Giulia Grillini",
+      "matchpoints": 12
+    },
+    {
+      "name": "Felix Steyrer",
+      "matchpoints": 12
+    },
+    {
+      "name": "Matteo Busi",
+      "matchpoints": 12
+    },
+    {
+      "name": "Cristian Costa",
+      "matchpoints": 12
+    },
+    {
+      "name": "Daniel Toledo",
+      "matchpoints": 12
+    },
+    {
+      "name": "Luca Raia",
+      "matchpoints": 12
+    },
+    {
+      "name": "Mick Madsen",
+      "matchpoints": 12
+    },
+    {
+      "name": "Verena Maccari",
+      "matchpoints": 12
+    },
+    {
+      "name": "Naconecinii Tudor",
+      "matchpoints": 12
+    },
+    {
+      "name": "Leo Thiemard",
+      "matchpoints": 12
+    },
+    {
+      "name": "Jamaal Farooq",
+      "matchpoints": 12
+    },
+    {
+      "name": "Alex Botto",
+      "matchpoints": 12
+    },
+    {
+      "name": "Giuseppe Matteo Santisi",
+      "matchpoints": 12
+    },
+    {
+      "name": "Tim-Ole Arps",
+      "matchpoints": 12
+    },
+    {
+      "name": "Per Ekstroem",
+      "matchpoints": 12
+    },
+    {
+      "name": "Maciej Barwik",
+      "matchpoints": 12
+    },
+    {
+      "name": "Tim Van de Putte",
+      "matchpoints": 12
+    },
+    {
+      "name": "Liam O'Donnell-Carey",
+      "matchpoints": 12
+    },
+    {
+      "name": "Federico Visentin",
+      "matchpoints": 12
+    },
+    {
+      "name": "Heiko Kroeger",
+      "matchpoints": 12
+    },
+    {
+      "name": "Adam Miklos Kovacs",
+      "matchpoints": 12
+    },
+    {
+      "name": "Michele Antonio Pasanisi",
+      "matchpoints": 12
+    },
+    {
+      "name": "Ned Atlas",
+      "matchpoints": 12
+    },
+    {
+      "name": "Markus Valori",
+      "matchpoints": 10
+    },
+    {
+      "name": "Maxime Desiront",
+      "matchpoints": 10
+    },
+    {
+      "name": "Alexander Gordon-Brown",
+      "matchpoints": 10
+    },
+    {
+      "name": "Pablo Ruiz Gonzalez",
+      "matchpoints": 10
+    },
+    {
+      "name": "Ben Pike",
+      "matchpoints": 10
+    },
+    {
+      "name": "Matteo Silvestri",
+      "matchpoints": 10
+    },
+    {
+      "name": "Todd Schutz",
+      "matchpoints": 10
+    },
+    {
+      "name": "Bartek Wojciechowski",
+      "matchpoints": 10
+    },
+    {
+      "name": "Marco Duarte",
+      "matchpoints": 10
+    },
+    {
+      "name": "Luigi Ferdinando Iazzetta",
+      "matchpoints": 10
+    },
+    {
+      "name": "Joao Russo",
+      "matchpoints": 10
+    },
+    {
+      "name": "Carlo Milanaccio",
+      "matchpoints": 10
+    },
+    {
+      "name": "Valerio Amer",
+      "matchpoints": 10
+    },
+    {
+      "name": "Matteo Bruschi",
+      "matchpoints": 10
+    },
+    {
+      "name": "Max Bracken",
+      "matchpoints": 10
+    },
+    {
+      "name": "Yiannis Economides",
+      "matchpoints": 10
+    },
+    {
+      "name": "Michele Ilari",
+      "matchpoints": 10
+    },
+    {
+      "name": "Malo Willefert",
+      "matchpoints": 10
+    },
+    {
+      "name": "Alessio Trovato",
+      "matchpoints": 10
+    },
+    {
+      "name": "Andreas Schwarzenberg",
+      "matchpoints": 10
+    },
+    {
+      "name": "Petar Zec",
+      "matchpoints": 9
+    },
+    {
+      "name": "Bora Sarioglu",
+      "matchpoints": 9
+    },
+    {
+      "name": "Dan Rose",
+      "matchpoints": 9
+    },
+    {
+      "name": "Luca Fessia",
+      "matchpoints": 9
+    },
+    {
+      "name": "Davide Volpi",
+      "matchpoints": 9
+    },
+    {
+      "name": "Dario De Biasi",
+      "matchpoints": 9
+    },
+    {
+      "name": "Rares Vasile",
+      "matchpoints": 9
+    },
+    {
+      "name": "Aljosa Novak",
+      "matchpoints": 9
+    },
+    {
+      "name": "Massimiliano Foderaro",
+      "matchpoints": 9
+    },
+    {
+      "name": "Marti Jorda Ciuraneta",
+      "matchpoints": 9
+    },
+    {
+      "name": "Hamail Cheema",
+      "matchpoints": 9
+    },
+    {
+      "name": "Oscar Garcia",
+      "matchpoints": 9
+    },
+    {
+      "name": "Daniel Maehr",
+      "matchpoints": 9
+    },
+    {
+      "name": "David Tejido",
+      "matchpoints": 9
+    },
+    {
+      "name": "Thuan Truong",
+      "matchpoints": 9
+    },
+    {
+      "name": "Guillermo Martinez-Cedillo Abajo",
+      "matchpoints": 9
+    },
+    {
+      "name": "David Rieder",
+      "matchpoints": 9
+    },
+    {
+      "name": "Nicolo Dushan Saponaro",
+      "matchpoints": 9
+    },
+    {
+      "name": "Zdenek Lysak",
+      "matchpoints": 9
+    },
+    {
+      "name": "Marco Spataro",
+      "matchpoints": 9
+    },
+    {
+      "name": "Adam Bubar",
+      "matchpoints": 9
+    },
+    {
+      "name": "Bernardo Torres",
+      "matchpoints": 9
+    },
+    {
+      "name": "Jose Marreiros",
+      "matchpoints": 9
+    },
+    {
+      "name": "Matteo Venturi",
+      "matchpoints": 9
+    },
+    {
+      "name": "Dominik Radler",
+      "matchpoints": 9
+    },
+    {
+      "name": "Robin Courtiat",
+      "matchpoints": 9
+    },
+    {
+      "name": "Alp Bugra Cal",
+      "matchpoints": 9
+    },
+    {
+      "name": "Fernando Alvarez Cobo",
+      "matchpoints": 9
+    },
+    {
+      "name": "Giulio Del Dotto",
+      "matchpoints": 9
+    },
+    {
+      "name": "Samuel Giselsson",
+      "matchpoints": 9
+    },
+    {
+      "name": "Rocco Panuccio",
+      "matchpoints": 9
+    },
+    {
+      "name": "Jamie Walsh",
+      "matchpoints": 9
+    },
+    {
+      "name": "Alessandro Mercanti",
+      "matchpoints": 9
+    },
+    {
+      "name": "Adelaide de Gennaro",
+      "matchpoints": 9
+    },
+    {
+      "name": "Gabriele Rotondaro",
+      "matchpoints": 9
+    },
+    {
+      "name": "Corvin Koerner",
+      "matchpoints": 9
+    },
+    {
+      "name": "Sajan Cherukad",
+      "matchpoints": 9
+    },
+    {
+      "name": "Simone Crivellin",
+      "matchpoints": 9
+    },
+    {
+      "name": "Inigo Sanz Torres",
+      "matchpoints": 9
+    },
+    {
+      "name": "Fabio Ardolino",
+      "matchpoints": 9
+    },
+    {
+      "name": "Ricardo Baptista",
+      "matchpoints": 9
+    },
+    {
+      "name": "Davide Rinnen",
+      "matchpoints": 9
+    },
+    {
+      "name": "Ignacio Garcia",
+      "matchpoints": 9
+    },
+    {
+      "name": "Martin Eidam",
+      "matchpoints": 9
+    },
+    {
+      "name": "Edward Hooton",
+      "matchpoints": 9
+    },
+    {
+      "name": "Yago Vera Vazquez",
+      "matchpoints": 9
+    },
+    {
+      "name": "Panagiotis Savvidis",
+      "matchpoints": 9
+    },
+    {
+      "name": "Andrea Mazzocco",
+      "matchpoints": 9
+    },
+    {
+      "name": "Carlos Sousa",
+      "matchpoints": 9
+    },
+    {
+      "name": "Daniel Arellano Morneo",
+      "matchpoints": 9
+    },
+    {
+      "name": "Alessandro Melis",
+      "matchpoints": 9
+    },
+    {
+      "name": "Lukas Walk",
+      "matchpoints": 9
+    },
+    {
+      "name": "Niccolo Possati",
+      "matchpoints": 9
+    },
+    {
+      "name": "Davide Pizzutilo",
+      "matchpoints": 9
+    },
+    {
+      "name": "Francesco Messina",
+      "matchpoints": 9
+    },
+    {
+      "name": "Giordano Distefano",
+      "matchpoints": 9
+    },
+    {
+      "name": "Nicolo Zaffaina",
+      "matchpoints": 9
+    },
+    {
+      "name": "Alessandro Parisi",
+      "matchpoints": 9
+    },
+    {
+      "name": "Ivan Von Loh",
+      "matchpoints": 9
+    },
+    {
+      "name": "Benedikt Holler",
+      "matchpoints": 9
+    },
+    {
+      "name": "Valerio Volpi",
+      "matchpoints": 9
+    },
+    {
+      "name": "Chris Theodorou (Papastamos)",
+      "matchpoints": 9
+    },
+    {
+      "name": "Andre Guilherme Oliveira",
+      "matchpoints": 9
+    },
+    {
+      "name": "Gerard Lopez Sanchez",
+      "matchpoints": 9
+    },
+    {
+      "name": "Vladi Fanotti",
+      "matchpoints": 9
+    },
+    {
+      "name": "Mattia Lopresti",
+      "matchpoints": 9
+    },
+    {
+      "name": "Tom Grange",
+      "matchpoints": 9
+    },
+    {
+      "name": "Marco Senneca",
+      "matchpoints": 9
+    },
+    {
+      "name": "Wouter Noordzij",
+      "matchpoints": 9
+    },
+    {
+      "name": "Stefano Confortini",
+      "matchpoints": 9
+    },
+    {
+      "name": "Giuseppe Miele",
+      "matchpoints": 9
+    },
+    {
+      "name": "Mattia Ritacco",
+      "matchpoints": 9
+    },
+    {
+      "name": "Lev Ducenko",
+      "matchpoints": 9
+    },
+    {
+      "name": "Oystein Diserud Venvik",
+      "matchpoints": 9
+    },
+    {
+      "name": "Jose Antonio Reine Senabre",
+      "matchpoints": 9
+    },
+    {
+      "name": "Vittorio Gravagna",
+      "matchpoints": 9
+    },
+    {
+      "name": "Gianluca Boaretto",
+      "matchpoints": 9
+    },
+    {
+      "name": "Tiago Marques",
+      "matchpoints": 9
+    },
+    {
+      "name": "Loic Savoye",
+      "matchpoints": 9
+    },
+    {
+      "name": "Javier Roa",
+      "matchpoints": 9
+    },
+    {
+      "name": "Marco d'Amata",
+      "matchpoints": 9
+    },
+    {
+      "name": "Callum Laird",
+      "matchpoints": 9
+    },
+    {
+      "name": "Francesco Vitiello",
+      "matchpoints": 9
+    },
+    {
+      "name": "Gabriele Costa",
+      "matchpoints": 9
+    },
+    {
+      "name": "Andrea Piemonti",
+      "matchpoints": 9
+    },
+    {
+      "name": "Michele Bertoni",
+      "matchpoints": 9
+    },
+    {
+      "name": "Francesco Alacca",
+      "matchpoints": 9
+    },
+    {
+      "name": "Maciej Myszkowiak",
+      "matchpoints": 9
+    },
+    {
+      "name": "Gianmarco Pizii",
+      "matchpoints": 9
+    },
+    {
+      "name": "Josue Rebollo",
+      "matchpoints": 9
+    },
+    {
+      "name": "Giulio Tragni",
+      "matchpoints": 9
+    },
+    {
+      "name": "Sean Lim",
+      "matchpoints": 9
+    },
+    {
+      "name": "Saul Aguado Perez",
+      "matchpoints": 9
+    },
+    {
+      "name": "Thomas Kannegießer",
+      "matchpoints": 9
+    },
+    {
+      "name": "Lorenzo Gruppi",
+      "matchpoints": 9
+    },
+    {
+      "name": "Filippo Zamboni",
+      "matchpoints": 9
+    },
+    {
+      "name": "Alp Bustos",
+      "matchpoints": 9
+    },
+    {
+      "name": "Benedetto Piritore",
+      "matchpoints": 9
+    },
+    {
+      "name": "Alessandro Palamara",
+      "matchpoints": 9
+    },
+    {
+      "name": "Michele Amendola",
+      "matchpoints": 9
+    },
+    {
+      "name": "Eder Atxutegi",
+      "matchpoints": 9
+    },
+    {
+      "name": "Gianluca Andreano",
+      "matchpoints": 9
+    },
+    {
+      "name": "Daniel Aranyi",
+      "matchpoints": 9
+    },
+    {
+      "name": "Matias Kornacher Melero",
+      "matchpoints": 9
+    },
+    {
+      "name": "Andrea Nicolosi",
+      "matchpoints": 9
+    },
+    {
+      "name": "Davide Ferroni",
+      "matchpoints": 9
+    },
+    {
+      "name": "Aldo Russo",
+      "matchpoints": 9
+    },
+    {
+      "name": "Alexander Gimenez Ortega",
+      "matchpoints": 9
+    },
+    {
+      "name": "Ludwig Scheuring",
+      "matchpoints": 9
+    },
+    {
+      "name": "Jaime Calapez",
+      "matchpoints": 9
+    },
+    {
+      "name": "Edoardo Bardi",
+      "matchpoints": 9
+    },
+    {
+      "name": "Thomas Mechin",
+      "matchpoints": 9
+    },
+    {
+      "name": "John Murphy",
+      "matchpoints": 9
+    },
+    {
+      "name": "Tristan Lebon",
+      "matchpoints": 9
+    },
+    {
+      "name": "Luca Perotti",
+      "matchpoints": 9
+    },
+    {
+      "name": "Callum Bousfield",
+      "matchpoints": 9
+    },
+    {
+      "name": "Aoife F",
+      "matchpoints": 9
+    },
+    {
+      "name": "Guillem Josep Forcadell Perez",
+      "matchpoints": 9
+    },
+    {
+      "name": "Matteo Soldi",
+      "matchpoints": 9
+    },
+    {
+      "name": "Gaetan Bossy",
+      "matchpoints": 9
+    },
+    {
+      "name": "Dylan Gregory-Martin",
+      "matchpoints": 9
+    },
+    {
+      "name": "Mihai Boeru",
+      "matchpoints": 9
+    },
+    {
+      "name": "Andrea Giammartini",
+      "matchpoints": 9
+    },
+    {
+      "name": "Alexander Maier",
+      "matchpoints": 9
+    },
+    {
+      "name": "Clemente Mastroianni",
+      "matchpoints": 9
+    },
+    {
+      "name": "Nilo Herrero",
+      "matchpoints": 9
+    },
+    {
+      "name": "Francesco Boutet",
+      "matchpoints": 9
+    },
+    {
+      "name": "Nicolo Botti",
+      "matchpoints": 9
+    },
+    {
+      "name": "Alessandro Ventura",
+      "matchpoints": 9
+    },
+    {
+      "name": "Eric Zhou",
+      "matchpoints": 9
+    },
+    {
+      "name": "Brian Matthijsse",
+      "matchpoints": 9
+    },
+    {
+      "name": "Marco De Togni",
+      "matchpoints": 9
+    },
+    {
+      "name": "Maxence Duroy",
+      "matchpoints": 9
+    },
+    {
+      "name": "Fabio Neroni",
+      "matchpoints": 9
+    },
+    {
+      "name": "Daniele Scatassi",
+      "matchpoints": 9
+    },
+    {
+      "name": "Bahrii Maksym",
+      "matchpoints": 9
+    },
+    {
+      "name": "Freimark Emilia",
+      "matchpoints": 9
+    },
+    {
+      "name": "Canzoneri Tommaso",
+      "matchpoints": 9
+    },
+    {
+      "name": "Gabriele Giorgeschi",
+      "matchpoints": 9
+    },
+    {
+      "name": "Tobie Hupkens",
+      "matchpoints": 9
+    },
+    {
+      "name": "Giulio Gasparetto",
+      "matchpoints": 9
+    },
+    {
+      "name": "Adrian Alonso",
+      "matchpoints": 9
+    },
+    {
+      "name": "Manuel Burrell",
+      "matchpoints": 8
+    },
+    {
+      "name": "Mattia Schito",
+      "matchpoints": 8
+    },
+    {
+      "name": "Marcel Sanchez Minguez",
+      "matchpoints": 7
+    },
+    {
+      "name": "Will Berrington",
+      "matchpoints": 7
+    },
+    {
+      "name": "Andrea Trenta",
+      "matchpoints": 7
+    },
+    {
+      "name": "Stefano Schiffo",
+      "matchpoints": 7
+    },
+    {
+      "name": "Dario Marchiani",
+      "matchpoints": 7
+    },
+    {
+      "name": "Ryan Thornton",
+      "matchpoints": 7
+    },
+    {
+      "name": "Rosario Colaianni",
+      "matchpoints": 7
+    },
+    {
+      "name": "Quintino Staffiero",
+      "matchpoints": 7
+    },
+    {
+      "name": "Patryk Chichotek Kobialka",
+      "matchpoints": 7
+    },
+    {
+      "name": "Roberto Giorgi",
+      "matchpoints": 6
+    },
+    {
+      "name": "Craig Stewart",
+      "matchpoints": 6
+    },
+    {
+      "name": "Jonatan Val",
+      "matchpoints": 6
+    },
+    {
+      "name": "Maria Tagi-Zade",
+      "matchpoints": 6
+    },
+    {
+      "name": "Arman Civan",
+      "matchpoints": 6
+    },
+    {
+      "name": "René Hubrich",
+      "matchpoints": 6
+    },
+    {
+      "name": "Alessandro Mazzi",
+      "matchpoints": 6
+    },
+    {
+      "name": "Richard Sneddon",
+      "matchpoints": 6
+    },
+    {
+      "name": "Antonio Berte",
+      "matchpoints": 6
+    },
+    {
+      "name": "Weisser Heinrich",
+      "matchpoints": 6
+    },
+    {
+      "name": "Raul Vallejo",
+      "matchpoints": 6
+    },
+    {
+      "name": "Guilherme Pires",
+      "matchpoints": 6
+    },
+    {
+      "name": "Wojciech Kowalczuk",
+      "matchpoints": 6
+    },
+    {
+      "name": "Giuliano Di Maio",
+      "matchpoints": 6
+    },
+    {
+      "name": "Michal Szaszkiewicz",
+      "matchpoints": 6
+    },
+    {
+      "name": "Mattia Pantiri",
+      "matchpoints": 6
+    },
+    {
+      "name": "Jan Pruchniewicz",
+      "matchpoints": 6
+    },
+    {
+      "name": "Andrea Somazzi",
+      "matchpoints": 6
+    },
+    {
+      "name": "Fabio Sancadas",
+      "matchpoints": 6
+    },
+    {
+      "name": "Alessandro Cecconi",
+      "matchpoints": 6
+    },
+    {
+      "name": "Jonatan Nahnfeldt",
+      "matchpoints": 6
+    },
+    {
+      "name": "Joel Calafell",
+      "matchpoints": 6
+    },
+    {
+      "name": "Joachim Kihm",
+      "matchpoints": 6
+    },
+    {
+      "name": "Rafael Ribeiro",
+      "matchpoints": 6
+    },
+    {
+      "name": "Gabriele Tribulato",
+      "matchpoints": 6
+    },
+    {
+      "name": "Thomas Raer",
+      "matchpoints": 6
+    },
+    {
+      "name": "Federico Berti",
+      "matchpoints": 6
+    },
+    {
+      "name": "Mario Paredes",
+      "matchpoints": 6
+    },
+    {
+      "name": "Tomas Krupicka",
+      "matchpoints": 6
+    },
+    {
+      "name": "Eduardo Rodriguez Vilaboy",
+      "matchpoints": 6
+    },
+    {
+      "name": "Daniel Dolci",
+      "matchpoints": 6
+    },
+    {
+      "name": "Patrik Sokol",
+      "matchpoints": 6
+    },
+    {
+      "name": "Tom Mueller",
+      "matchpoints": 6
+    },
+    {
+      "name": "Cim Knutsen",
+      "matchpoints": 6
+    },
+    {
+      "name": "Daniele Pettenuzzo",
+      "matchpoints": 6
+    },
+    {
+      "name": "Meloni Martinez Luca",
+      "matchpoints": 6
+    },
+    {
+      "name": "Rennie Calum",
+      "matchpoints": 6
+    },
+    {
+      "name": "Fabrizio Farci",
+      "matchpoints": 6
+    },
+    {
+      "name": "Alexander Rosdahl",
+      "matchpoints": 6
+    },
+    {
+      "name": "Odisseas Michalopoulos",
+      "matchpoints": 6
+    },
+    {
+      "name": "Canio Straziuso",
+      "matchpoints": 6
+    },
+    {
+      "name": "Alessio Fedi",
+      "matchpoints": 6
+    },
+    {
+      "name": "Julien Chiarvesio",
+      "matchpoints": 6
+    },
+    {
+      "name": "Corrado De Sio",
+      "matchpoints": 6
+    },
+    {
+      "name": "Pierantonio Galgano",
+      "matchpoints": 6
+    },
+    {
+      "name": "Nick Arnold",
+      "matchpoints": 6
+    },
+    {
+      "name": "Sting Marek Frank Valgus",
+      "matchpoints": 6
+    },
+    {
+      "name": "Sacha Copigny",
+      "matchpoints": 6
+    },
+    {
+      "name": "David Simon",
+      "matchpoints": 6
+    },
+    {
+      "name": "Hazard Alex",
+      "matchpoints": 6
+    },
+    {
+      "name": "Tudor Marin",
+      "matchpoints": 6
+    },
+    {
+      "name": "Sven Schmidt",
+      "matchpoints": 6
+    },
+    {
+      "name": "Michele Delpiazzo",
+      "matchpoints": 6
+    },
+    {
+      "name": "Alexandru Stefanescu",
+      "matchpoints": 6
+    },
+    {
+      "name": "Markel Aguirre",
+      "matchpoints": 6
+    },
+    {
+      "name": "Andrea Ambrosano",
+      "matchpoints": 6
+    },
+    {
+      "name": "Boris Stojkovic",
+      "matchpoints": 6
+    },
+    {
+      "name": "Jen Lampic",
+      "matchpoints": 6
+    },
+    {
+      "name": "Asger Lundblad",
+      "matchpoints": 6
+    },
+    {
+      "name": "Lukas Jaklovsky",
+      "matchpoints": 6
+    },
+    {
+      "name": "Michael Herzner",
+      "matchpoints": 6
+    },
+    {
+      "name": "Nikolas Passaris",
+      "matchpoints": 6
+    },
+    {
+      "name": "Lars Rodrigues de Miranda",
+      "matchpoints": 6
+    },
+    {
+      "name": "Manuel Salimbeni",
+      "matchpoints": 6
+    },
+    {
+      "name": "Ismael Lovegrove",
+      "matchpoints": 6
+    },
+    {
+      "name": "Nicola Castellari",
+      "matchpoints": 6
+    },
+    {
+      "name": "Athanasios Vasileiadis",
+      "matchpoints": 6
+    },
+    {
+      "name": "Enrique Costa del Viso",
+      "matchpoints": 6
+    },
+    {
+      "name": "Luka Pantar",
+      "matchpoints": 6
+    },
+    {
+      "name": "Luke Vassallo",
+      "matchpoints": 6
+    },
+    {
+      "name": "Matthias Blum",
+      "matchpoints": 6
+    },
+    {
+      "name": "Mattia Zocco",
+      "matchpoints": 6
+    },
+    {
+      "name": "Dawid Florczyk",
+      "matchpoints": 6
+    },
+    {
+      "name": "Serna Raul",
+      "matchpoints": 6
+    },
+    {
+      "name": "Cristiano Bontorno",
+      "matchpoints": 6
+    },
+    {
+      "name": "Christian Gullberg-Hansen",
+      "matchpoints": 6
+    },
+    {
+      "name": "Thor Hakon Lindstad",
+      "matchpoints": 6
+    },
+    {
+      "name": "Filippo Dello Iacovo",
+      "matchpoints": 6
+    },
+    {
+      "name": "Bjoern Laurell",
+      "matchpoints": 6
+    },
+    {
+      "name": "Riccardo Bragato",
+      "matchpoints": 6
+    },
+    {
+      "name": "Dennis Schmidt",
+      "matchpoints": 6
+    },
+    {
+      "name": "Alejandro Camarasa Ibanez",
+      "matchpoints": 6
+    },
+    {
+      "name": "Aria Paco",
+      "matchpoints": 6
+    },
+    {
+      "name": "Marco Fabrizi",
+      "matchpoints": 6
+    },
+    {
+      "name": "Angelo Tricase",
+      "matchpoints": 6
+    },
+    {
+      "name": "Rafal Arendt",
+      "matchpoints": 6
+    },
+    {
+      "name": "Matteo Barca",
+      "matchpoints": 6
+    },
+    {
+      "name": "Roberto Nespolino",
+      "matchpoints": 6
+    },
+    {
+      "name": "Esther Trujillo",
+      "matchpoints": 6
+    },
+    {
+      "name": "Olof Gunneriusson",
+      "matchpoints": 6
+    },
+    {
+      "name": "Lee Medhurst",
+      "matchpoints": 6
+    },
+    {
+      "name": "Lauge de Place",
+      "matchpoints": 6
+    },
+    {
+      "name": "Vaquero Kevin",
+      "matchpoints": 6
+    },
+    {
+      "name": "Diogo Santos",
+      "matchpoints": 6
+    },
+    {
+      "name": "Francesco Giresi",
+      "matchpoints": 6
+    },
+    {
+      "name": "Vid Gruden",
+      "matchpoints": 6
+    },
+    {
+      "name": "Ilias Stogiannos",
+      "matchpoints": 6
+    },
+    {
+      "name": "Markus Bierbacher",
+      "matchpoints": 6
+    },
+    {
+      "name": "Alberto Cohen",
+      "matchpoints": 6
+    },
+    {
+      "name": "Valeriy Anton",
+      "matchpoints": 6
+    },
+    {
+      "name": "Thomas Drucke",
+      "matchpoints": 6
+    },
+    {
+      "name": "Kamen Kamenov",
+      "matchpoints": 6
+    },
+    {
+      "name": "Roberto Debenedetti",
+      "matchpoints": 6
+    },
+    {
+      "name": "Joao Zigue Sampaio",
+      "matchpoints": 6
+    },
+    {
+      "name": "Stefano Berardi",
+      "matchpoints": 6
+    },
+    {
+      "name": "Steven Minelli",
+      "matchpoints": 6
+    },
+    {
+      "name": "Maurizio D'Antonio",
+      "matchpoints": 6
+    },
+    {
+      "name": "Andrea Gaffi",
+      "matchpoints": 6
+    },
+    {
+      "name": "Mamede Rafael",
+      "matchpoints": 6
+    },
+    {
+      "name": "Ciuca Razvan",
+      "matchpoints": 6
+    },
+    {
+      "name": "John Tapat",
+      "matchpoints": 6
+    },
+    {
+      "name": "Lorenzo Di Cola",
+      "matchpoints": 6
+    },
+    {
+      "name": "Michael Baalham",
+      "matchpoints": 6
+    },
+    {
+      "name": "Lucas Hyttel",
+      "matchpoints": 6
+    },
+    {
+      "name": "Enrique Juan Esteve",
+      "matchpoints": 6
+    },
+    {
+      "name": "Valerio Nevischi",
+      "matchpoints": 6
+    },
+    {
+      "name": "Thomas Munk",
+      "matchpoints": 6
+    },
+    {
+      "name": "Juli Terrats",
+      "matchpoints": 6
+    },
+    {
+      "name": "Lucas Devogel",
+      "matchpoints": 6
+    },
+    {
+      "name": "Till Weismann",
+      "matchpoints": 6
+    },
+    {
+      "name": "Michele Marconi",
+      "matchpoints": 6
+    },
+    {
+      "name": "Enrico Boscaro",
+      "matchpoints": 6
+    },
+    {
+      "name": "Giacomo Stefanello",
+      "matchpoints": 6
+    },
+    {
+      "name": "Jonathan Fedi",
+      "matchpoints": 6
+    },
+    {
+      "name": "Mikel Bacaicoa",
+      "matchpoints": 6
+    },
+    {
+      "name": "Vojtech Cerny",
+      "matchpoints": 6
+    },
+    {
+      "name": "Alexandre Torres i Alonso",
+      "matchpoints": 6
+    },
+    {
+      "name": "Marco Dei Lazzaretti",
+      "matchpoints": 6
+    },
+    {
+      "name": "Daniel Barriuso",
+      "matchpoints": 6
+    },
+    {
+      "name": "Jonah Strommenger",
+      "matchpoints": 6
+    },
+    {
+      "name": "Akos Miskeri",
+      "matchpoints": 6
+    },
+    {
+      "name": "Pierre Marzano",
+      "matchpoints": 6
+    },
+    {
+      "name": "Gianmarco Carosi",
+      "matchpoints": 6
+    },
+    {
+      "name": "Shortland Kerryn",
+      "matchpoints": 6
+    },
+    {
+      "name": "Giulia Micheroli",
+      "matchpoints": 6
+    },
+    {
+      "name": "Christian Tschanz",
+      "matchpoints": 6
+    },
+    {
+      "name": "Carl Meinung",
+      "matchpoints": 6
+    },
+    {
+      "name": "Stef Elings",
+      "matchpoints": 6
+    },
+    {
+      "name": "Alberto Galicia",
+      "matchpoints": 6
+    },
+    {
+      "name": "Tommaso Massarelli",
+      "matchpoints": 6
+    },
+    {
+      "name": "Fabio Pace",
+      "matchpoints": 6
+    },
+    {
+      "name": "Jacob Borrowdale",
+      "matchpoints": 6
+    },
+    {
+      "name": "Daniel Bjerkan",
+      "matchpoints": 6
+    },
+    {
+      "name": "Yat Ka Leung",
+      "matchpoints": 6
+    },
+    {
+      "name": "Augustin Mousset",
+      "matchpoints": 6
+    },
+    {
+      "name": "Kraaijvanger Ramon",
+      "matchpoints": 6
+    },
+    {
+      "name": "Adrian Rosas",
+      "matchpoints": 6
+    },
+    {
+      "name": "Giacomo Gasperina",
+      "matchpoints": 6
+    },
+    {
+      "name": "Javier Dominguez",
+      "matchpoints": 6
+    },
+    {
+      "name": "Emanuele Giordano",
+      "matchpoints": 6
+    },
+    {
+      "name": "Andrea Angelinetta",
+      "matchpoints": 6
+    },
+    {
+      "name": "Jacopo Raimondi",
+      "matchpoints": 6
+    },
+    {
+      "name": "Luca Curro",
+      "matchpoints": 6
+    },
+    {
+      "name": "Cristiano Salvati",
+      "matchpoints": 6
+    },
+    {
+      "name": "Ioannis Mourelatos",
+      "matchpoints": 6
+    },
+    {
+      "name": "Martin Lamberty",
+      "matchpoints": 6
+    },
+    {
+      "name": "Nikolay Stoynev",
+      "matchpoints": 6
+    },
+    {
+      "name": "Mattia Basilicò",
+      "matchpoints": 6
+    },
+    {
+      "name": "Drew Martin",
+      "matchpoints": 6
+    },
+    {
+      "name": "Juan Jose Reviejo",
+      "matchpoints": 6
+    },
+    {
+      "name": "Jack Varnham",
+      "matchpoints": 6
+    },
+    {
+      "name": "Alessandro Valentino Sala",
+      "matchpoints": 6
+    },
+    {
+      "name": "Jakub Noganowicz",
+      "matchpoints": 6
+    },
+    {
+      "name": "Emanuel Attar Hamadani",
+      "matchpoints": 5
+    },
+    {
+      "name": "Olivier Shu",
+      "matchpoints": 5
+    },
+    {
+      "name": "Ander Lopez Herrera",
+      "matchpoints": 4
+    },
+    {
+      "name": "Lorenzo Testa",
+      "matchpoints": 4
+    },
+    {
+      "name": "Sergio Preto",
+      "matchpoints": 4
+    },
+    {
+      "name": "Miguel Baldwin",
+      "matchpoints": 4
+    },
+    {
+      "name": "Ivan Redondo Diaz",
+      "matchpoints": 4
+    },
+    {
+      "name": "Dan Stokes",
+      "matchpoints": 4
+    },
+    {
+      "name": "Stefano Matotea",
+      "matchpoints": 4
+    },
+    {
+      "name": "Gunnar Moeller",
+      "matchpoints": 3
+    },
+    {
+      "name": "Mikael Segerlund",
+      "matchpoints": 3
+    },
+    {
+      "name": "Angel Moreno Sanchez",
+      "matchpoints": 3
+    },
+    {
+      "name": "Francesco Ghelli",
+      "matchpoints": 3
+    },
+    {
+      "name": "Lauri Toernstroem",
+      "matchpoints": 3
+    },
+    {
+      "name": "Ville Pietiläinen",
+      "matchpoints": 3
+    },
+    {
+      "name": "Jamie Popay",
+      "matchpoints": 3
+    },
+    {
+      "name": "Lorenzo Nicoli",
+      "matchpoints": 3
+    },
+    {
+      "name": "Stefano Tozzi",
+      "matchpoints": 3
+    },
+    {
+      "name": "Kenari Rosas Olivera",
+      "matchpoints": 3
+    },
+    {
+      "name": "Louis Grensing",
+      "matchpoints": 3
+    },
+    {
+      "name": "Bauke Schenkelaars",
+      "matchpoints": 3
+    },
+    {
+      "name": "Simone Locciola",
+      "matchpoints": 3
+    },
+    {
+      "name": "Jan Wappler",
+      "matchpoints": 3
+    },
+    {
+      "name": "Jordi Breitkopf",
+      "matchpoints": 3
+    },
+    {
+      "name": "Josip Leskovic",
+      "matchpoints": 3
+    },
+    {
+      "name": "Antonino Ammirata",
+      "matchpoints": 3
+    },
+    {
+      "name": "Andrea Ludovico De Luca",
+      "matchpoints": 3
+    },
+    {
+      "name": "Stjepan Tkalec",
+      "matchpoints": 3
+    },
+    {
+      "name": "Bendik Johansson",
+      "matchpoints": 3
+    },
+    {
+      "name": "Matthias Oernolfsson",
+      "matchpoints": 3
+    },
+    {
+      "name": "Miguel Valente",
+      "matchpoints": 3
+    },
+    {
+      "name": "Charilaos Kaliakatsos",
+      "matchpoints": 3
+    },
+    {
+      "name": "Miguel Angel Mora Hung",
+      "matchpoints": 3
+    },
+    {
+      "name": "Dom Harry",
+      "matchpoints": 3
+    },
+    {
+      "name": "Ole Lave",
+      "matchpoints": 3
+    },
+    {
+      "name": "Giacomo Nardi",
+      "matchpoints": 3
+    },
+    {
+      "name": "Simao Duarte",
+      "matchpoints": 3
+    },
+    {
+      "name": "Carlos Moral",
+      "matchpoints": 3
+    },
+    {
+      "name": "Oskar Micheli",
+      "matchpoints": 3
+    },
+    {
+      "name": "Markel Garcia",
+      "matchpoints": 3
+    },
+    {
+      "name": "Matias Jesus",
+      "matchpoints": 3
+    },
+    {
+      "name": "Charles Delpeuch",
+      "matchpoints": 3
+    },
+    {
+      "name": "Goncalo Magalhaes Diogo",
+      "matchpoints": 3
+    },
+    {
+      "name": "Bartosz Bojarowski",
+      "matchpoints": 3
+    },
+    {
+      "name": "Sean Goddard",
+      "matchpoints": 3
+    },
+    {
+      "name": "Fernando Palmero García",
+      "matchpoints": 3
+    },
+    {
+      "name": "Gianluca Merlino",
+      "matchpoints": 3
+    },
+    {
+      "name": "Matthew Baxendale",
+      "matchpoints": 3
+    },
+    {
+      "name": "Ricardo Zapta Romero",
+      "matchpoints": 3
+    },
+    {
+      "name": "Andreas Reling",
+      "matchpoints": 3
+    },
+    {
+      "name": "Max Lehmacher",
+      "matchpoints": 3
+    },
+    {
+      "name": "Afonso Dargent",
+      "matchpoints": 3
+    },
+    {
+      "name": "Jorge Ortiz de Landazuri",
+      "matchpoints": 3
+    },
+    {
+      "name": "Carmine Molinario",
+      "matchpoints": 3
+    },
+    {
+      "name": "Javier Faustino",
+      "matchpoints": 3
+    },
+    {
+      "name": "Alferes Guilherme",
+      "matchpoints": 3
+    },
+    {
+      "name": "Victor De Marco",
+      "matchpoints": 3
+    },
+    {
+      "name": "Samwel Mueller",
+      "matchpoints": 3
+    },
+    {
+      "name": "Ricardo Naujokat",
+      "matchpoints": 3
+    },
+    {
+      "name": "Yago De Martin",
+      "matchpoints": 3
+    },
+    {
+      "name": "Francisco Castanheira",
+      "matchpoints": 3
+    },
+    {
+      "name": "Giordano Nolfo",
+      "matchpoints": 3
+    },
+    {
+      "name": "Hrvoje Brundic",
+      "matchpoints": 3
+    },
+    {
+      "name": "Betim Kai Gecaj",
+      "matchpoints": 3
+    },
+    {
+      "name": "Amit Portnoy",
+      "matchpoints": 3
+    },
+    {
+      "name": "Josef Zivec",
+      "matchpoints": 3
+    },
+    {
+      "name": "Aurelio Ballestero Allueva",
+      "matchpoints": 3
+    },
+    {
+      "name": "Matteo Cossia",
+      "matchpoints": 3
+    },
+    {
+      "name": "Gustav Johansson",
+      "matchpoints": 3
+    },
+    {
+      "name": "Gavin Thacker",
+      "matchpoints": 3
+    },
+    {
+      "name": "Hakan Erkan",
+      "matchpoints": 3
+    },
+    {
+      "name": "Adrien Lefevre",
+      "matchpoints": 3
+    },
+    {
+      "name": "Sergio Gimenez",
+      "matchpoints": 3
+    },
+    {
+      "name": "Giulia Gasperi",
+      "matchpoints": 3
+    },
+    {
+      "name": "Luca Loffredo",
+      "matchpoints": 3
+    },
+    {
+      "name": "Maurizio Parolisi",
+      "matchpoints": 3
+    },
+    {
+      "name": "Arthur Brocsko",
+      "matchpoints": 3
+    },
+    {
+      "name": "Tobias Frey",
+      "matchpoints": 3
+    },
+    {
+      "name": "Nicholas Brown",
+      "matchpoints": 3
+    },
+    {
+      "name": "Marco Mastrorilli",
+      "matchpoints": 3
+    },
+    {
+      "name": "Sergio Navalpotro",
+      "matchpoints": 3
+    },
+    {
+      "name": "Filip Eriksson",
+      "matchpoints": 3
+    },
+    {
+      "name": "Marc Russell",
+      "matchpoints": 3
+    },
+    {
+      "name": "Felice Manganiello",
+      "matchpoints": 3
+    },
+    {
+      "name": "Tobias Hedlund",
+      "matchpoints": 3
+    },
+    {
+      "name": "Leonardo Tomei",
+      "matchpoints": 3
+    },
+    {
+      "name": "Alex Stok",
+      "matchpoints": 3
+    },
+    {
+      "name": "Matteo Versari",
+      "matchpoints": 3
+    },
+    {
+      "name": "Matteo Cotrona",
+      "matchpoints": 3
+    },
+    {
+      "name": "Igor Calvet Martinez",
+      "matchpoints": 3
+    },
+    {
+      "name": "Ioannis Kyriazis",
+      "matchpoints": 3
+    },
+    {
+      "name": "Giovanni Avino",
+      "matchpoints": 3
+    },
+    {
+      "name": "Maxim Moncalvo",
+      "matchpoints": 3
+    },
+    {
+      "name": "Leon Jablanovec",
+      "matchpoints": 3
+    },
+    {
+      "name": "Thodoris Zeggos",
+      "matchpoints": 3
+    },
+    {
+      "name": "Liliana Gawerda",
+      "matchpoints": 3
+    },
+    {
+      "name": "Gennaro Leo",
+      "matchpoints": 3
+    },
+    {
+      "name": "Luca Verdiani",
+      "matchpoints": 3
+    },
+    {
+      "name": "Mattia di Pierno",
+      "matchpoints": 3
+    },
+    {
+      "name": "Christoforos Lampadarios",
+      "matchpoints": 3
+    },
+    {
+      "name": "Otto Van de gaer",
+      "matchpoints": 3
+    },
+    {
+      "name": "Dylan Wilfart",
+      "matchpoints": 3
+    },
+    {
+      "name": "Andrea Borrelli",
+      "matchpoints": 3
+    },
+    {
+      "name": "Daniel Munoz Ballesteros",
+      "matchpoints": 3
+    },
+    {
+      "name": "Giovanni Mancini",
+      "matchpoints": 3
+    },
+    {
+      "name": "Benjamin Aithaj-Kaddour",
+      "matchpoints": 3
+    },
+    {
+      "name": "Marius Heck",
+      "matchpoints": 3
+    },
+    {
+      "name": "Tomas Larriba",
+      "matchpoints": 3
+    },
+    {
+      "name": "Pier Matteo Murro",
+      "matchpoints": 3
+    },
+    {
+      "name": "Federico Zacchini",
+      "matchpoints": 3
+    },
+    {
+      "name": "Ivan Luque Moreno",
+      "matchpoints": 3
+    },
+    {
+      "name": "Dino Pezic",
+      "matchpoints": 3
+    },
+    {
+      "name": "Vincenzo Lanzetta",
+      "matchpoints": 3
+    },
+    {
+      "name": "Hannes Brandstetter",
+      "matchpoints": 3
+    },
+    {
+      "name": "Robert Banas",
+      "matchpoints": 3
+    },
+    {
+      "name": "Andrija Novakovic",
+      "matchpoints": 3
+    },
+    {
+      "name": "Douglas Penman",
+      "matchpoints": 3
+    },
+    {
+      "name": "Julian Riedener",
+      "matchpoints": 3
+    },
+    {
+      "name": "Giulio Sannino",
+      "matchpoints": 3
+    },
+    {
+      "name": "Jose Cristhian Roman Gonzalez",
+      "matchpoints": 3
+    },
+    {
+      "name": "Ricardo Sanchez Garrido",
+      "matchpoints": 3
+    },
+    {
+      "name": "Erin Barbera",
+      "matchpoints": 3
+    },
+    {
+      "name": "Luca Pedica",
+      "matchpoints": 3
+    },
+    {
+      "name": "Mario Ricardo",
+      "matchpoints": 3
+    },
+    {
+      "name": "Gerald Wurmauer",
+      "matchpoints": 3
+    },
+    {
+      "name": "Matteo Palma",
+      "matchpoints": 3
+    },
+    {
+      "name": "Florian Thoennes",
+      "matchpoints": 3
+    },
+    {
+      "name": "Clair Cafardy",
+      "matchpoints": 3
+    },
+    {
+      "name": "Lorenzo Conza",
+      "matchpoints": 3
+    },
+    {
+      "name": "Alessandro Dolce",
+      "matchpoints": 3
+    },
+    {
+      "name": "Anca Pasarin",
+      "matchpoints": 3
+    },
+    {
+      "name": "Murray Duncan",
+      "matchpoints": 3
+    },
+    {
+      "name": "Bertelli Elia",
+      "matchpoints": 3
+    },
+    {
+      "name": "Patrizio Spadoni",
+      "matchpoints": 3
+    },
+    {
+      "name": "Alexander Bracks",
+      "matchpoints": 3
+    },
+    {
+      "name": "Albert Queralt Garriga",
+      "matchpoints": 3
+    },
+    {
+      "name": "Duarte Barquinha",
+      "matchpoints": 3
+    },
+    {
+      "name": "Marco De Stefano",
+      "matchpoints": 3
+    },
+    {
+      "name": "Daniel Clark",
+      "matchpoints": 3
+    },
+    {
+      "name": "Riccardo Cristofaro",
+      "matchpoints": 3
+    },
+    {
+      "name": "Krzysztof Nowicki",
+      "matchpoints": 3
+    },
+    {
+      "name": "Sandro Silva",
+      "matchpoints": 3
+    },
+    {
+      "name": "Oscar Gonzalez",
+      "matchpoints": 3
+    },
+    {
+      "name": "Jordi Carrasco",
+      "matchpoints": 3
+    },
+    {
+      "name": "Raphael Rieu-Helft",
+      "matchpoints": 3
+    },
+    {
+      "name": "Anthony Daugeron",
+      "matchpoints": 3
+    },
+    {
+      "name": "Sergio Sancho Martin",
+      "matchpoints": 3
+    },
+    {
+      "name": "Tobia Daniele Nappi",
+      "matchpoints": 3
+    },
+    {
+      "name": "Conor Fitzgerald",
+      "matchpoints": 3
+    },
+    {
+      "name": "Francesco Eleuteri",
+      "matchpoints": 1
+    },
+    {
+      "name": "Luis Ignacio Azocar Marques",
+      "matchpoints": 1
+    },
+    {
+      "name": "Miguel Martin Vivar",
+      "matchpoints": 1
+    },
+    {
+      "name": "Mohamad Faez Tarabichi",
+      "matchpoints": 0
+    },
+    {
+      "name": "Filip Krajnovic",
+      "matchpoints": 0
+    },
+    {
+      "name": "Caricato Luca",
+      "matchpoints": 0
+    },
+    {
+      "name": "Nuno Arnaud",
+      "matchpoints": 0
+    },
+    {
+      "name": "Omar Vallejo Pacheco",
+      "matchpoints": 0
+    },
+    {
+      "name": "Davide Zago",
+      "matchpoints": 0
+    },
+    {
+      "name": "Christoffer Larsen",
+      "matchpoints": 0
+    },
+    {
+      "name": "Timothee Blondiaux",
+      "matchpoints": 0
+    },
+    {
+      "name": "Serhiy Deymundt",
+      "matchpoints": 0
+    },
+    {
+      "name": "Domenico Zambito",
+      "matchpoints": 0
+    },
+    {
+      "name": "Oleksii Akinfiiev",
+      "matchpoints": 0
+    },
+    {
+      "name": "Norberto Fortini",
+      "matchpoints": 0
+    },
+    {
+      "name": "Edward Cushion",
+      "matchpoints": 0
+    },
+    {
+      "name": "Piotr Rebizant",
+      "matchpoints": 0
+    },
+    {
+      "name": "Gabriel Nassif",
+      "matchpoints": 0
+    },
+    {
+      "name": "David Gonzalez Romero Playmobil",
+      "matchpoints": 0
+    },
+    {
+      "name": "Paul Murray",
+      "matchpoints": 0
+    },
+    {
+      "name": "Olivier Geffroy",
+      "matchpoints": 0
+    },
+    {
+      "name": "Maxime Narran",
+      "matchpoints": 0
+    },
+    {
+      "name": "Michele Pirastru",
+      "matchpoints": 0
+    },
+    {
+      "name": "Simone Caputi",
+      "matchpoints": 0
+    },
+    {
+      "name": "Jorge Gil Losilla",
+      "matchpoints": 0
+    },
+    {
+      "name": "Teemu Alanko",
+      "matchpoints": 0
+    },
+    {
+      "name": "Lorenzo Ciaffaroni",
+      "matchpoints": 0
+    },
+    {
+      "name": "Alberto Sánchez Díaz",
+      "matchpoints": 0
+    },
+    {
+      "name": "Michail Paraschos",
+      "matchpoints": 0
+    },
+    {
+      "name": "Tiziano Boni",
+      "matchpoints": 0
+    },
+    {
+      "name": "Erik Rydberg",
+      "matchpoints": 0
+    },
+    {
+      "name": "Andrew Jaquith",
+      "matchpoints": 0
+    },
+    {
+      "name": "Ilya Gutsko",
+      "matchpoints": 0
+    },
+    {
+      "name": "Jan Van Limbeck",
+      "matchpoints": 0
+    },
+    {
+      "name": "Alessandro Gemelli",
+      "matchpoints": 0
+    },
+    {
+      "name": "Occhipinti Simone",
+      "matchpoints": 0
+    },
+    {
+      "name": "Stefano Spurio",
+      "matchpoints": 0
+    },
+    {
+      "name": "Gianluca Soriano",
+      "matchpoints": 0
+    },
+    {
+      "name": "Patrick Casella",
+      "matchpoints": 0
+    },
+    {
+      "name": "Giuseppe Mazza",
+      "matchpoints": 0
+    },
+    {
+      "name": "Alejandro Olea García",
+      "matchpoints": 0
+    },
+    {
+      "name": "Liam Allan",
+      "matchpoints": 0
+    },
+    {
+      "name": "Diego Mayo Gavela",
+      "matchpoints": 0
+    },
+    {
+      "name": "Aeryn McCann",
+      "matchpoints": 0
+    },
+    {
+      "name": "Marc Aeberhard",
+      "matchpoints": 0
+    },
+    {
+      "name": "Mattias Jorstedt",
+      "matchpoints": 0
+    },
+    {
+      "name": "Giacomo Fiorucci",
+      "matchpoints": 0
+    },
+    {
+      "name": "Filip Skornicki",
+      "matchpoints": 0
+    },
+    {
+      "name": "Tarkan Koc",
+      "matchpoints": 0
+    },
+    {
+      "name": "Nicolai Bilek",
+      "matchpoints": 0
+    },
+    {
+      "name": "Jean Duarte",
+      "matchpoints": 0
+    },
+    {
+      "name": "Matteo Daniel",
+      "matchpoints": 0
+    },
+    {
+      "name": "Foti Pantazi",
+      "matchpoints": 0
+    },
+    {
+      "name": "Riccardo Angiuli",
+      "matchpoints": 0
+    },
+    {
+      "name": "Robert Heredia Aixala",
+      "matchpoints": 0
+    },
+    {
+      "name": "Anna Robson",
+      "matchpoints": 0
+    },
+    {
+      "name": "Bernardo Santos",
+      "matchpoints": 0
+    },
+    {
+      "name": "Emmanuel Polizzi",
+      "matchpoints": 0
+    },
+    {
+      "name": "David Reinholz",
+      "matchpoints": 0
+    },
+    {
+      "name": "Frederik Zikmund",
+      "matchpoints": 0
+    },
+    {
+      "name": "Emil Falkhjerta",
+      "matchpoints": 0
+    },
+    {
+      "name": "Lotfi Boudeghdegh",
+      "matchpoints": 0
+    },
+    {
+      "name": "Raido Kahm",
+      "matchpoints": 0
+    },
+    {
+      "name": "Eliott Boussaud",
+      "matchpoints": 0
+    },
+    {
+      "name": "Jakob Jacobsen",
+      "matchpoints": 0
+    },
+    {
+      "name": "Mattia Tardiani",
+      "matchpoints": 0
+    },
+    {
+      "name": "Giovanni Iannarelli",
+      "matchpoints": 0
+    },
+    {
+      "name": "Aleksa Glisovic",
+      "matchpoints": 0
+    },
+    {
+      "name": "Brando de Leonardis",
+      "matchpoints": 0
+    },
+    {
+      "name": "Ari Faggin",
+      "matchpoints": 0
+    },
+    {
+      "name": "Marcello Banfi",
+      "matchpoints": 0
+    },
+    {
+      "name": "Alvaro Fernandez Torres",
+      "matchpoints": 0
+    },
+    {
+      "name": "Edoardo Arata",
+      "matchpoints": 0
+    },
+    {
+      "name": "Immanuel Gerschenson",
+      "matchpoints": 0
+    },
+    {
+      "name": "Fabien Zellweger",
+      "matchpoints": 0
+    },
+    {
+      "name": "David Yang",
+      "matchpoints": 0
+    },
+    {
+      "name": "Patrick Grcic",
+      "matchpoints": 0
+    },
+    {
+      "name": "Chieregato Alessandro",
+      "matchpoints": 0
+    },
+    {
+      "name": "Andre Rodrigues",
+      "matchpoints": 0
+    },
+    {
+      "name": "Goncalo Braganca",
+      "matchpoints": 0
+    },
+    {
+      "name": "Luis Gobern",
+      "matchpoints": 0
+    },
+    {
+      "name": "Cédric Leizour",
+      "matchpoints": 0
+    },
+    {
+      "name": "José Martinho",
+      "matchpoints": 0
+    },
+    {
+      "name": "Jan Ksandr",
+      "matchpoints": 0
+    },
+    {
+      "name": "Andre Santos",
+      "matchpoints": 0
+    },
+    {
+      "name": "Maksim Rusinov",
+      "matchpoints": 0
+    },
+    {
+      "name": "Victor Garrido",
+      "matchpoints": 0
+    },
+    {
+      "name": "Chloe Debesson",
+      "matchpoints": 0
+    },
+    {
+      "name": "Felix Maurin",
+      "matchpoints": 0
+    },
+    {
+      "name": "Nico Di Donato",
+      "matchpoints": 0
+    },
+    {
+      "name": "Marco Cesatti",
+      "matchpoints": 0
+    },
+    {
+      "name": "Sven Dijt",
+      "matchpoints": 0
+    },
+    {
+      "name": "Gøran Frost",
+      "matchpoints": 0
+    },
+    {
+      "name": "Francisco Jose Gonzalez Hidalgo",
+      "matchpoints": 0
+    },
+    {
+      "name": "Lukas Roditsch",
+      "matchpoints": 0
+    },
+    {
+      "name": "Johannes Kapitza",
+      "matchpoints": 0
+    },
+    {
+      "name": "Nathan Toffolo",
+      "matchpoints": 0
+    },
+    {
+      "name": "Arch Dota",
+      "matchpoints": 0
+    },
+    {
+      "name": "Ryan Ninesling",
+      "matchpoints": 0
+    },
+    {
+      "name": "Charalampos Kikidis",
+      "matchpoints": 0
+    },
+    {
+      "name": "Luca D'Arrigo",
+      "matchpoints": 0
+    },
+    {
+      "name": "Sarunas Liobikas",
+      "matchpoints": 0
+    },
+    {
+      "name": "Akshay Biju",
+      "matchpoints": 0
+    },
+    {
+      "name": "Joan Garcia Esquerdo",
+      "matchpoints": 0
+    },
+    {
+      "name": "Alexander Stilz",
+      "matchpoints": 0
+    },
+    {
+      "name": "Filippo Allocca",
+      "matchpoints": 0
+    },
+    {
+      "name": "Erik Engstroem",
+      "matchpoints": 0
+    },
+    {
+      "name": "Florian Taferner",
+      "matchpoints": 0
+    },
+    {
+      "name": "Pesach Israeli",
+      "matchpoints": 0
+    },
+    {
+      "name": "Konstantin Hittenberger",
+      "matchpoints": 0
+    },
+    {
+      "name": "Daniele Migliaccio",
+      "matchpoints": 0
+    },
+    {
+      "name": "Luca Biondi",
+      "matchpoints": 0
+    },
+    {
+      "name": "Joao Goncalves",
+      "matchpoints": 0
+    },
+    {
+      "name": "Miguel da Cruz Simoes",
+      "matchpoints": 0
+    },
+    {
+      "name": "Luca Stasi",
+      "matchpoints": 0
+    },
+    {
+      "name": "Eren Kacmaz",
+      "matchpoints": 0
+    },
+    {
+      "name": "Mark Bosma",
+      "matchpoints": 0
+    },
+    {
+      "name": "Christoffer Lyngsaa",
+      "matchpoints": 0
+    },
+    {
+      "name": "Emilio Polidoro",
+      "matchpoints": 0
+    },
+    {
+      "name": "Elia Cantini",
+      "matchpoints": 0
+    },
+    {
+      "name": "Nino Alessi",
+      "matchpoints": 0
+    },
+    {
+      "name": "Shawn Hu",
+      "matchpoints": 0
+    },
+    {
+      "name": "Ruben Acosta Vilches",
+      "matchpoints": 0
+    },
+    {
+      "name": "Jean-Baptiste Farion",
+      "matchpoints": 0
+    },
+    {
+      "name": "Aristotle Rosaldo",
+      "matchpoints": 0
+    },
+    {
+      "name": "Federico Del Basso",
+      "matchpoints": 0
+    },
+    {
+      "name": "Luca Rosara Marozzi",
+      "matchpoints": 0
+    }
+  ]
+}

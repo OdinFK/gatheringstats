@@ -6,15 +6,15 @@
   "teamsize": 1,
   "formats": [
     "Standard",
-    "ECL Booster Draft"
+    "Booster Draft"
   ],
   "medium": "Tabletop",
   "id": "pro-tour-lorwyn-eclipsed-2026",
   "location": "Richmond, Virginia, United States",
   "site": "Greater Richmond Convention Center",
   "structure": [
-    "Day 1: Booster Draft (3x Lorwyn Eclipsed); 3 rounds of in-pod Swiss play; 5 rounds of Swiss (Standard); cut to 12 points",
-    "Day 2: Booster Draft; 3 rounds of in-pod Swiss play; 5 rounds of Swiss (Standard); cut to Top 8",
+    "Day 1: Booster Draft (3x Lorwyn Eclipsed), 3 rounds; 5 rounds (Standard); cut to 12 points",
+    "Day 2: Booster Draft, 3 rounds; 5 rounds (Standard); cut to Top 8",
     "Day 3: Bo5 single elimination (Standard)",
     "---",
     "Standard legal sets: Wilds of Eldraine – Lorwyn Eclipsed, Foundations (13 sets)",
@@ -489,7 +489,7 @@
       "amp": 21
     },
     {
-      "name": "Jacob Rabaey",
+      "name": "Jacob Mitchell-Rabaey",
       "matchpoints": 28,
       "poy": 4,
       "money": 1250,
@@ -1259,7 +1259,7 @@
       "amp": 12
     },
     {
-      "name": "Matyáš Kalužný",
+      "name": "Matyas Kaluzny",
       "matchpoints": 18,
       "poy": 1,
       "money": 1000,

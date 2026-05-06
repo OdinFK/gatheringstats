@@ -13,10 +13,10 @@
     "location": "Renton, Washington, United States",
     "site": "Wizards of the Coast Tournament Center",
     "structure": [
-        "Day 1: One Booster Draft (4th Edition + ?) followed by 3 rounds of in-pod play and 3 rounds of out-pod play; points noted down, but day 2 started from a blank slate",
+        "Day 1: One Booster Draft (4th Edition, Homelands) followed by 3 rounds of in-pod play and 3 rounds of out-pod play; points noted down, but day 2 started from a blank slate",
         "Day 2: 6 rounds (Standard); points noted down, but day 3 started from a blank slate",
         "Day 3: Legacy; cut to Top 8 (from the sum of all three days' points)",
-        "Day 4: Team Competition (Team Sealed)",
+        "Day 4: Team Competition (Team Sealed with four 4th Edition Starters)",
         "Day 5: Single elimination (Standard)",
         "---",
         "Standard legal sets: Fallen Empires – Alliances, 4th Edition, Chronicles (6 sets)",
@@ -349,7 +349,8 @@
         {
             "money": 400,
             "name": "Stephan Valkyser",
-            "propoints": 1
+            "propoints": 1,
+            "report": "https://web.archive.org/web/20010228181842/http://www.dorf.rwth-aachen.de/~david/AachenFantastics/reports/Stephan_Worlds_96.html"
         },
         {
             "money": 400,

@@ -15,7 +15,7 @@
     "standings": [
         {"name": "Peer Kröger"},
         {"name": "Oliver Krebs"},
-        {"name": "Stephan Valkyser"},
+        {"name": "Stephan Valkyser", "report": "https://web.archive.org/web/19991110032952/http://www.dorf.rwth-aachen.de/~david/AachenFantastics/reports/Stephan_German_Nationals_96.html"},
         {"name": "Henning Rimkus"},
         {"name": "Oliver Wermann"},
         {"name": "Norman Wagner"},

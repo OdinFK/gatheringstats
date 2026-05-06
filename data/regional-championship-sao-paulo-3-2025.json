@@ -12,7 +12,7 @@
     "logo": "mtg-yellow",
     "name": "South America Magic Series: São Paulo",
     "standings": [
-        {"name": "Julio Bejarano Espejo", "matchpoints": 25, "money": 8000},
+        {"name": "Julio Bejarano Espejo", "matchpoints": 25, "money": 8000, "deck": "GEfT5I6LfUCWeDnfmDkiMQ"},
         {"name": "João Jorge Sales Junior", "matchpoints": 22, "money": 6000},
         {"name": "Luis Esteban Venegas", "matchpoints": 23, "money": 4000},
         {"name": "Nicolas de Prada", "matchpoints": 22, "money": 4000},
@@ -80,7 +80,7 @@
         {"name": "Victor Manuel Lobo Botero", "matchpoints": 15},
         {"name": "Carlos Errerias", "matchpoints": 15},
         {"name": "Giovanny Reyes", "matchpoints": 15},
-        {"name": "Lucas Fernandes", "matchpoints": 15},
+        {"name": "Lucas Andre Fernandes", "matchpoints": 15},
         {"name": "Hernán Lobos Valenzuela", "matchpoints": 15},
         {"name": "Lucas Travagli", "matchpoints": 15},
         {"name": "Juan Cerda", "matchpoints": 15},

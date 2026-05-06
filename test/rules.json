@@ -17,7 +17,7 @@
     },
     {
       "canonical": "Rick Hup Beng Lee",
-      "variants": ["Rick hup beng Lee"]
+      "variants": ["Rick hup beng Lee", "Rick Lee"]
     },
     {
       "canonical": "Redmond James Lim",
@@ -1177,7 +1177,7 @@
     },
     {
       "canonical": "Luca Curro",
-      "variants": ["Luca Currò"]
+      "variants": ["Luca Currò", "Luca Currò"]
     },
     {
       "canonical": "Victor Monge Cuartero",
@@ -1325,7 +1325,7 @@
     },
     {
       "canonical": "Robert Heredia Aixala",
-      "variants": ["Robert Heredia Aixalà"]
+      "variants": ["Robert Heredia Aixalà", "Robert Heredia Aixala Aixalà"]
     },
     {
       "canonical": "Aleksa Glisovic",
@@ -1353,7 +1353,7 @@
     },
     {
       "canonical": "Matyas Kaluzny",
-      "variants": ["Matyáš Kalužný"]
+      "variants": ["Matyáš Kalužný", "Matyáš Kalužný"]
     },
     {
       "canonical": "Raul Villar",
@@ -1608,7 +1608,7 @@
       "variants": ["Daniel Białas"]
     },
     {
-      "canonical": "Martin Joergensen",
+      "canonical": "Martin Jorgensen",
       "variants": ["Martin Jørgensen"]
     },
     {
@@ -1685,7 +1685,7 @@
     },
     {
       "canonical": "Christian Gullberg-Hansen",
-      "variants": ["christian gullberg-hansen"]
+      "variants": ["christian gullberg-hansen", "Christian Gullberg"]
     },
     {
       "canonical": "Markus Schmittbuettner",
@@ -1829,11 +1829,11 @@
     },
     {
       "canonical": "Filip Krajnovic",
-      "variants": ["FILIP KRAJNOVIĆ"]
+      "variants": ["FILIP KRAJNOVIĆ", "Filip Krajnović"]
     },
     {
       "canonical": "Ricardo Sanchez Garrido",
-      "variants": ["Ricardo Sánchez"]
+      "variants": ["Ricardo Sánchez", "Ricardo Sánchez Garrido"]
     },
     {
       "canonical": "Jahn Brueggemann",
@@ -2117,7 +2117,7 @@
     },
     {
       "canonical": "Guillem Lana Sabate",
-      "variants": ["Guillem"]
+      "variants": ["Guillem Lana", "Guillem Lana Sabate Lana"]
     },
     {
       "canonical": "Stephanos Economides",
@@ -2224,8 +2224,8 @@
       "variants": ["Dan Milechman"]
     },
     {
-      "canonical": "Geoff Mullin",
-      "variants": ["Geoffrey Mullin"]
+      "canonical": "Geoffrey Mullin",
+      "variants": ["Geoff Mullin"]
     },
     {
       "canonical": "Gabriel Ebodied",
@@ -3152,8 +3152,8 @@
       "variants": ["Matt Sperling"]
     },
     {
-      "canonical": "Jacob Rabaey",
-      "variants": ["Jacob Mitchell-Rabaey"]
+      "canonical": "Jacob Mitchell-Rabaey",
+      "variants": ["Jacob Rabaey"]
     },
     {
       "canonical": "Dominic Harvey",
@@ -3172,7 +3172,7 @@
       "variants": ["Joseph Puglisi"]
     },
     {
-      "canonical": "Robert Wagner Krankel",
+      "canonical": "Robert Wagner-Krankel",
       "variants": ["Robert Wagner Krankel", "Rob Wagner-Krankel", "Rob Wagner Krankel"]
     },
     {
@@ -3248,10 +3248,6 @@
       "variants": ["Lefteris Tsigaridis"]
     },
     {
-      "canonical": "Rick Hup Beng Lee",
-      "variants": ["Rick Lee"]
-    },
-    {
       "canonical": "Ruizi Lin",
       "variants": ["Lin Ruizi"]
     },
@@ -3306,6 +3302,1074 @@
     {
       "canonical": "Zachary Viscosi",
       "variants": ["Zach Viscosi"]
+    },
+    {
+      "canonical": "Ronald MacKenzie",
+      "variants": ["Ron MacKenzie"]
+    },
+    {
+      "canonical": "Roope Metsae",
+      "variants": ["Roope Metsä"]
+    },
+    {
+      "canonical": "Timothy Durham",
+      "variants": ["Tim Durham"]
+    },
+    {
+      "canonical": "Satoshi Nakayama",
+      "variants": ["nakayama satoshi"]
+    },
+    {
+      "canonical": "Kouhei Kikuchi",
+      "variants": ["Kohei Kikuchi"]
+    },
+    {
+      "canonical": "Jun'ichi Honda",
+      "variants": ["Junichi Honda"]
+    },
+    {
+      "canonical": "Gregory Woodard",
+      "variants": ["Greg Woodard"]
+    },
+    {
+      "canonical": "Michael Baraniecki",
+      "variants": ["Mike Baraniecki"]
+    },
+    {
+      "canonical": "Robert Smith",
+      "variants": ["Rob Smith"]
+    },
+    {
+      "canonical": "Yotaro Obitsu",
+      "variants": ["Youtarou Obitsu"]
+    },
+    {
+      "canonical": "Carolyn Pardee",
+      "variants": ["Carolyn Kavanagh"]
+    },
+    {
+      "canonical": "Andres Vasquez",
+      "variants": ["Andres Vásquez"]
+    },
+    {
+      "canonical": "Sebastian Silva",
+      "variants": ["Sebastián Silva"]
+    },
+    {
+      "canonical": "Gabriel Martinez",
+      "variants": ["gabriel martinez"]
+    },
+    {
+      "canonical": "Jhohan Mauricio Herrera Molina",
+      "variants": ["Jhohan Herrera"]
+    },
+    {
+      "canonical": "Albert Fabian Loaiza Dussan",
+      "variants": ["Albert Fabián Loaiza dussan"]
+    },
+    {
+      "canonical": "Hernan Lobos Valenzuela",
+      "variants": ["Hernán Lobos Valenzuela", "Hernán Lobos", "Hernan Lobos"]
+    },
+    {
+      "canonical": "Joao Jorge Sales Junior",
+      "variants": ["João Jorge Sales Junior"]
+    },
+    {
+      "canonical": "Andre Faustino",
+      "variants": ["André Faustino"]
+    },
+    {
+      "canonical": "Juan Contreras Henriquez",
+      "variants": ["Juan Contreras henriquez"]
+    },
+    {
+      "canonical": "Lucas Hervas",
+      "variants": ["Lucas Hervás"]
+    },
+    {
+      "canonical": "Camilo Diaz Pineda",
+      "variants": ["camilo Diaz Pineda"]
+    },
+    {
+      "canonical": "Joao Quintino",
+      "variants": ["joao quintino"]
+    },
+    {
+      "canonical": "Rodrigo Olivos",
+      "variants": ["RODRIGO OLIVOS"]
+    },
+    {
+      "canonical": "Gustavo Coraiola",
+      "variants": ["GUSTAVO CORAIOLA"]
+    },
+    {
+      "canonical": "Andre Ramos Lima",
+      "variants": ["André Ramos Lima"]
+    },
+    {
+      "canonical": "Andres Rojas",
+      "variants": ["Andrés Rojas"]
+    },
+    {
+      "canonical": "Estevao Rudi Arntz",
+      "variants": ["Estêvão Rudi Arntz"]
+    },
+    {
+      "canonical": "Tiago Pinheiro",
+      "variants": ["TIAGO PINHEIRO"]
+    },
+    {
+      "canonical": "Alejandro Mendez",
+      "variants": ["Alejandro Méndez"]
+    },
+    {
+      "canonical": "Omar Samir Murillo Vargas",
+      "variants": ["OMAR SAMIR MURILLO VARGAS"]
+    },
+    {
+      "canonical": "Hendrik Lopez",
+      "variants": ["Hendrik López"]
+    },
+    {
+      "canonical": "Guilherme Santana",
+      "variants": ["GUILHERME SANTANA"]
+    },
+    {
+      "canonical": "Dario Vergara",
+      "variants": ["Darío Vergara"]
+    },
+    {
+      "canonical": "Javier Nunez",
+      "variants": ["Javier Núñez"]
+    },
+    {
+      "canonical": "Juan Jose Romero Trujillo",
+      "variants": ["Juan José Romero Trujillo"]
+    },
+    {
+      "canonical": "Cristian Acuna",
+      "variants": ["Cristian Acuña"]
+    },
+    {
+      "canonical": "Julian Rangel",
+      "variants": ["julian rangel"]
+    },
+    {
+      "canonical": "Gilberto Teruel",
+      "variants": ["GILBERTO TERUEL"]
+    },
+    {
+      "canonical": "Francisco Ignacio Andres Vargas Ortiz",
+      "variants": ["Francisco ignacio andres Vargas ortiz"]
+    },
+    {
+      "canonical": "Thiago Giani",
+      "variants": ["THIAGO GIANI"]
+    },
+    {
+      "canonical": "Caio Vinicius Errerias",
+      "variants": ["Caio Errerias"]
+    },
+    {
+      "canonical": "Luis Montana",
+      "variants": ["Luis Montaña"]
+    },
+    {
+      "canonical": "Rodrigo Munoz Gomez",
+      "variants": ["Rodrigo Muñoz Gómez"]
+    },
+    {
+      "canonical": "Luis Gutierrez",
+      "variants": ["Luis Gutiérrez"]
+    },
+    {
+      "canonical": "Vittor Santos Ferreira Lobao",
+      "variants": ["Vittor santos ferreira Lobão"]
+    },
+    {
+      "canonical": "Jose Carlos Lanzarotti Junior",
+      "variants": ["José Carlos Lanzarotti Junior"]
+    },
+    {
+      "canonical": "Bastian Munoz Pizarro",
+      "variants": ["Bastian Muñoz Pizarro"]
+    },
+    {
+      "canonical": "Leandro Bujones",
+      "variants": ["leandro bujones"]
+    },
+    {
+      "canonical": "Maximiliano Isaac Jimenez Catalan",
+      "variants": ["Maximiliano Isaac Jiménez Catalán"]
+    },
+    {
+      "canonical": "Michael Gallichet",
+      "variants": ["Mike Gallichet"]
+    },
+    {
+      "canonical": "Gregory Schafer",
+      "variants": ["Greg Schafer"]
+    },
+    {
+      "canonical": "James Emerick",
+      "variants": ["J.D. Emerick"]
+    },
+    {
+      "canonical": "Christopher Arnold",
+      "variants": ["Chris Arnold"]
+    },
+    {
+      "canonical": "William Lowry",
+      "variants": ["Will Lowry"]
+    },
+    {
+      "canonical": "Robert Moss",
+      "variants": ["Rob Moss"]
+    },
+    {
+      "canonical": "Daniel Schriever",
+      "variants": ["Dan Schriever"]
+    },
+    {
+      "canonical": "Ken Adams",
+      "variants": ["Kenneth Adams"]
+    },
+    {
+      "canonical": "Joshua Glantzman",
+      "variants": ["Josh Glantzman"]
+    },
+    {
+      "canonical": "Thomas Hertfelder",
+      "variants": ["Tom Hertfelder"]
+    },
+    {
+      "canonical": "Zachery Boblitt",
+      "variants": ["Zach Boblitt"]
+    },
+    {
+      "canonical": "Damon Den Beste",
+      "variants": ["Damon DenBeste"]
+    },
+    {
+      "canonical": "Joe Beam",
+      "variants": ["Joey Beam"]
+    },
+    {
+      "canonical": "Daniel White",
+      "variants": ["Dan White"]
+    },
+    {
+      "canonical": "Jesus Ramos",
+      "variants": ["Jesús Ramos"]
+    },
+    {
+      "canonical": "Joshua Thomas",
+      "variants": ["Josh Thomas"]
+    },
+    {
+      "canonical": "Nicholas Maley",
+      "variants": ["Nick Maley"]
+    },
+    {
+      "canonical": "William Newsome",
+      "variants": ["Will Newsome"]
+    },
+    {
+      "canonical": "Davi Dezerto Ribeiro Borges",
+      "variants": ["Davi Ribeiro"]
+    },
+    {
+      "canonical": "Aras Senyuz",
+      "variants": ["Aras Şenyüz"]
+    },
+    {
+      "canonical": "Sergio Garcia",
+      "variants": ["Sergio García"]
+    },
+    {
+      "canonical": "Mate Schrick",
+      "variants": ["Máté Schrick"]
+    },
+    {
+      "canonical": "Jedrek Szmyd",
+      "variants": ["Jędrek Szmyd"]
+    },
+    {
+      "canonical": "Niklaus Meier",
+      "variants": ["Meier Niklaus"]
+    },
+    {
+      "canonical": "Jakub Janac",
+      "variants": ["Jakub Janáč"]
+    },
+    {
+      "canonical": "Cedric Krebs",
+      "variants": ["Cédric Krebs"]
+    },
+    {
+      "canonical": "Andre Compal",
+      "variants": ["André Compal"]
+    },
+    {
+      "canonical": "Joao Esteves",
+      "variants": ["João Esteves"]
+    },
+    {
+      "canonical": "Harry Hollingworth",
+      "variants": ["Hollingworth Harry"]
+    },
+    {
+      "canonical": "Gonzalo Jimenez",
+      "variants": ["Gonzalo Jiménez"]
+    },
+    {
+      "canonical": "Riccardo Delisi",
+      "variants": ["Delisi Riccardo"]
+    },
+    {
+      "canonical": "Luna Kovacs",
+      "variants": ["Luna Kovács"]
+    },
+    {
+      "canonical": "Alessio Galie",
+      "variants": ["Alessio Galiè"]
+    },
+    {
+      "canonical": "Federico Ciancia",
+      "variants": ["Federico Alberto Ciancia"]
+    },
+    {
+      "canonical": "Jeremy Berguio",
+      "variants": ["Berguio Jérémy"]
+    },
+    {
+      "canonical": "Dimitrije Vasic",
+      "variants": ["Vasic Dimitrije"]
+    },
+    {
+      "canonical": "Per Ekstroem",
+      "variants": ["Per Ekström"]
+    },
+    {
+      "canonical": "Heiko Kroeger",
+      "variants": ["Heiko Kröger"]
+    },
+    {
+      "canonical": "Aljosa Novak",
+      "variants": ["Aljoša Novak"]
+    },
+    {
+      "canonical": "Daniel Maehr",
+      "variants": ["Daniel Mähr"]
+    },
+    {
+      "canonical": "Jose Marreiros",
+      "variants": ["José Marreiros"]
+    },
+    {
+      "canonical": "Corvin Koerner",
+      "variants": ["Corvin Körner"]
+    },
+    {
+      "canonical": "Inigo Sanz Torres",
+      "variants": ["Íñigo Sanz Torres"]
+    },
+    {
+      "canonical": "Yago Vera Vazquez",
+      "variants": ["Yago Vera Vázquez"]
+    },
+    {
+      "canonical": "Niccolo Possati",
+      "variants": ["Niccolò Possati"]
+    },
+    {
+      "canonical": "Nicolo Zaffaina",
+      "variants": ["Nicolò Zaffaina"]
+    },
+    {
+      "canonical": "Oystein Diserud Venvik",
+      "variants": ["Øystein Diserud Venvik"]
+    },
+    {
+      "canonical": "Jose Antonio Reine Senabre",
+      "variants": ["Jose Antonio Reiné Senabre"]
+    },
+    {
+      "canonical": "Matias Kornacher Melero",
+      "variants": ["Matías Kornacher Melero"]
+    },
+    {
+      "canonical": "Guillem Josep Forcadell Perez",
+      "variants": ["Guillem Josep Forcadell Pérez"]
+    },
+    {
+      "canonical": "Patryk Chichotek Kobialka",
+      "variants": ["Patryk Chichotek Kobiałka"]
+    },
+    {
+      "canonical": "Mario Paredes",
+      "variants": ["Mário Paredes"]
+    },
+    {
+      "canonical": "Tomas Krupicka",
+      "variants": ["Tomáš Krupička"]
+    },
+    {
+      "canonical": "Meloni Martinez Luca",
+      "variants": ["Meloni Martínez Luca"]
+    },
+    {
+      "canonical": "Jen Lampic",
+      "variants": ["Jen Lampič"]
+    },
+    {
+      "canonical": "Asger Lundblad",
+      "variants": ["Asger Thorsboe Lundblad"]
+    },
+    {
+      "canonical": "Serna Raul",
+      "variants": ["Serna Raúl"]
+    },
+    {
+      "canonical": "Thor Hakon Lindstad",
+      "variants": ["Thor Håkon Lindstad"]
+    },
+    {
+      "canonical": "Bjoern Laurell",
+      "variants": ["Björn Laurell"]
+    },
+    {
+      "canonical": "Alejandro Camarasa Ibanez",
+      "variants": ["Alejandro Camarasa Ibañez"]
+    },
+    {
+      "canonical": "Rafal Arendt",
+      "variants": ["Arendt Rafał"]
+    },
+    {
+      "canonical": "Joao Zigue Sampaio",
+      "variants": ["João Zigue Sampaio"]
+    },
+    {
+      "canonical": "Vojtech Cerny",
+      "variants": ["Vojtěch Černý"]
+    },
+    {
+      "canonical": "Alexandre Torres i Alonso",
+      "variants": ["Alex Torres i Alonso"]
+    },
+    {
+      "canonical": "Akos Miskeri",
+      "variants": ["Ákos Miskéri"]
+    },
+    {
+      "canonical": "Ivan Redondo Diaz",
+      "variants": ["Iván Redondo Díaz"]
+    },
+    {
+      "canonical": "Gunnar Moeller",
+      "variants": ["Gunnar Möller"]
+    },
+    {
+      "canonical": "Bauke Schenkelaars",
+      "variants": ["Bauke Schenkelars"]
+    },
+    {
+      "canonical": "Matthias Oernolfsson",
+      "variants": ["Matthías Örnólfsson"]
+    },
+    {
+      "canonical": "Jorge Ortiz de Landazuri",
+      "variants": ["Jorge Ortiz de Landázuri"]
+    },
+    {
+      "canonical": "Samwel Mueller",
+      "variants": ["Samwel Müller"]
+    },
+    {
+      "canonical": "Hrvoje Brundic",
+      "variants": ["Brundic Hrvoje"]
+    },
+    {
+      "canonical": "Daniel Munoz Ballesteros",
+      "variants": ["Daniel Muñoz Ballesteros"]
+    },
+    {
+      "canonical": "Benjamin Aithaj-Kaddour",
+      "variants": ["Benjamin Ait Haj Kaddour"]
+    },
+    {
+      "canonical": "Tomas Larriba",
+      "variants": ["Tomás Larriba"]
+    },
+    {
+      "canonical": "Dino Pezic",
+      "variants": ["Dino Pezić"]
+    },
+    {
+      "canonical": "Robert Banas",
+      "variants": ["Robert Banaś"]
+    },
+    {
+      "canonical": "Andrija Novakovic",
+      "variants": ["Andrija Novaković"]
+    },
+    {
+      "canonical": "Miguel Martin Vivar",
+      "variants": ["Miguel Martín Vivar"]
+    },
+    {
+      "canonical": "David Gonzalez Romero",
+      "variants": ["David Gonzalez Romero Playmobil"]
+    },
+    {
+      "canonical": "Chloe Debesson",
+      "variants": ["Chloé Debesson"]
+    },
+    {
+      "canonical": "Luca D'Arrigo",
+      "variants": ["D’Arrigo Luca"]
+    },
+    {
+      "canonical": "Joan Garcia Esquerdo",
+      "variants": ["Joan García"]
+    },
+    {
+      "canonical": "Erik Engstroem",
+      "variants": ["Erik Engström"]
+    },
+    {
+      "canonical": "Ruben Acosta Vilches",
+      "variants": ["Rubén Acosta Vilches"]
+    },
+    {
+      "canonical": "Remi Traversi",
+      "variants": ["Rémi Traversi"]
+    },
+    {
+      "canonical": "Cedric Gaede",
+      "variants": ["Cedric Gäde"]
+    },
+    {
+      "canonical": "Adne Rosenvinge",
+      "variants": ["Ådne Rosenvinge"]
+    },
+    {
+      "canonical": "Zheng-Zeng Tseng",
+      "variants": ["Zhengzeng Tseng", "Zeng-Tseng Zheng"]
+    },
+    {
+      "canonical": "Kho Sek-un",
+      "variants": ["Se̍k-un Khó͘", "Se̍k-un Khó͘"]
+    },
+    {
+      "canonical": "Juan Miguel Sierra Hermosa",
+      "variants": ["Juanmi Sierra"]
+    },
+    {
+      "canonical": "Ivan Sandoval",
+      "variants": ["Iván Sandoval"]
+    },
+    {
+      "canonical": "Carlos Martinez Silhy",
+      "variants": ["Carlos Martinez"]
+    },
+    {
+      "canonical": "Raul Osvaldo Rodriguez Abeldamo",
+      "variants": ["Raul Osvaldo Rodriguez Abeldaño"]
+    },
+    {
+      "canonical": "Dagoberto Israel Silva Aranda",
+      "variants": ["Dagoberto Silva"]
+    },
+    {
+      "canonical": "German Becerril Alarcon",
+      "variants": ["Germán Becerril Alarcón"]
+    },
+    {
+      "canonical": "Jose Eduardo Gordillo Cardona",
+      "variants": ["José Eduardo Gordillo Cardona"]
+    },
+    {
+      "canonical": "Emmanuel Mendez",
+      "variants": ["Emmanuel Méndez"]
+    },
+    {
+      "canonical": "Daisuke Hara Gonzalez",
+      "variants": ["Daisuke Hará González"]
+    },
+    {
+      "canonical": "Israel Martinez Mata",
+      "variants": ["Israel Martínez Mata"]
+    },
+    {
+      "canonical": "Martin Cedeno",
+      "variants": ["Martin Cedeño"]
+    },
+    {
+      "canonical": "Marco Daniel R Rodriguez Perez",
+      "variants": ["MarcoDanielR RodriguezPerez"]
+    },
+    {
+      "canonical": "Sebastian Quintana",
+      "variants": ["Sebastian Senshi Quintana"]
+    },
+    {
+      "canonical": "Emmanuel Anchia",
+      "variants": ["Emmanuel Anchía"]
+    },
+    {
+      "canonical": "Rodrigo Alvarez Arevalo",
+      "variants": ["Rodrigo Álvarez Arévalo"]
+    },
+    {
+      "canonical": "Jose Isidro Rivera",
+      "variants": ["José Isidro Rivera"]
+    },
+    {
+      "canonical": "Jorge Cardenas Covarrubias",
+      "variants": ["Jorge Cárdenas Covarrubias"]
+    },
+    {
+      "canonical": "Imgard Nicolas Paredes Yanez",
+      "variants": ["Imgard Nicolas Paredes Yañez"]
+    },
+    {
+      "canonical": "Alexis Garcia",
+      "variants": ["Alexis García"]
+    },
+    {
+      "canonical": "Dante Gabriel Gonzalez Illescas",
+      "variants": ["Dante Gabriel Gonzalez illescas"]
+    },
+    {
+      "canonical": "Bruno Ramirez de Arellano Garcia",
+      "variants": ["Bruno Ramírez de Arellano García"]
+    },
+    {
+      "canonical": "Sebastian Olivares Garcia",
+      "variants": ["Sebastián Olivares García"]
+    },
+    {
+      "canonical": "Pablo Alberto Ordonez Cisneros",
+      "variants": ["Pablo Alberto Ordoñez Cisneros"]
+    },
+    {
+      "canonical": "Rafael Ernesto Martinez Soriano",
+      "variants": ["Rafael Ernesto Martínez Soriano"]
+    },
+    {
+      "canonical": "Luis Mondragon",
+      "variants": ["Luis Mondragón"]
+    },
+    {
+      "canonical": "Jose Jairo Rosales Reyes",
+      "variants": ["José Jairo Rosales Reyes"]
+    },
+    {
+      "canonical": "Arleni Netsai Sauri Rosado",
+      "variants": ["Arleni Netsaí Sauri Rosado"]
+    },
+    {
+      "canonical": "Bernabe Perez Popocatl",
+      "variants": ["Bernabe Perez Popocat"]
+    },
+    {
+      "canonical": "Ricardo Pliego Angeles",
+      "variants": ["Ricardo Pliego Ángeles"]
+    },
+    {
+      "canonical": "Juan Francisco Valladares Rodriguez",
+      "variants": ["Juan Francisco Valladares Rodríguez"]
+    },
+    {
+      "canonical": "Daniel Isaias",
+      "variants": ["Daniel Isaías"]
+    },
+    {
+      "canonical": "Jose Alberto Cedeno Turcios",
+      "variants": ["José Alberto Cedeño Turcios"]
+    },
+    {
+      "canonical": "Victor Alejandro Lemus Herrejon",
+      "variants": ["Víctor Alejandro Lemus Herrejón"]
+    },
+    {
+      "canonical": "Diego Fresan Sanchez",
+      "variants": ["Diego Fresán Sánchez"]
+    },
+    {
+      "canonical": "Alfredo Aaron Angeles Servin",
+      "variants": ["Alfredo Aaron Ángeles Servín"]
+    },
+    {
+      "canonical": "Shin'ya Saito",
+      "variants": ["Shinya Saito"]
+    },
+    {
+      "canonical": "Zhenying Peng",
+      "variants": ["Zhen Ying Peng"]
+    },
+    {
+      "canonical": "Ying Zhehao",
+      "variants": ["Zhehao Ying"]
+    },
+    {
+      "canonical": "Zhuang Lingzheng",
+      "variants": ["Lingzheng Zhuang"]
+    },
+    {
+      "canonical": "Ding Yi",
+      "variants": ["Yi Ding"]
+    },
+    {
+      "canonical": "Dong Sui",
+      "variants": ["Sui Dong"]
+    },
+    {
+      "canonical": "Hong-Xuan Chen",
+      "variants": ["Hongxuan Chen"]
+    },
+    {
+      "canonical": "Zi-Nan Xu",
+      "variants": ["ZiNan Xu"]
+    },
+    {
+      "canonical": "Wei Chengyi",
+      "variants": ["Chengyi Wei"]
+    },
+    {
+      "canonical": "Yang Shen",
+      "variants": ["Shen Yang"]
+    },
+    {
+      "canonical": "Hua-Lin Bai",
+      "variants": ["Bai Hualin"]
+    },
+    {
+      "canonical": "Qian Yu",
+      "variants": ["Yu Qian"]
+    },
+    {
+      "canonical": "Gao Yi",
+      "variants": ["Yi Gao"]
+    },
+    {
+      "canonical": "Guan-Yi Wang",
+      "variants": ["Guanyi Wang"]
+    },
+    {
+      "canonical": "Bin Jia",
+      "variants": ["Jia Bin"]
+    },
+    {
+      "canonical": "Hua-Chao Song",
+      "variants": ["Huachao Song"]
+    },
+    {
+      "canonical": "Mao Dun",
+      "variants": ["Dun Mao"]
+    },
+    {
+      "canonical": "Huang Hangtao",
+      "variants": ["Huang hangtao"]
+    },
+    {
+      "canonical": "Blagojce Mladenoski",
+      "variants": ["Bill Mladenoski"]
+    },
+    {
+      "canonical": "Conor Giblin",
+      "variants": ["Conor G"]
+    },
+    {
+      "canonical": "Adrian Capilitan",
+      "variants": ["Adrian Rex Capilitan"]
+    },
+    {
+      "canonical": "Yuya Tase",
+      "variants": ["Tase Yuya"]
+    },
+    {
+      "canonical": "Koji Mizunoe",
+      "variants": ["Koji Mizunoue"]
+    },
+    {
+      "canonical": "Kantaro Takano",
+      "variants": ["Takanō Kantarō"]
+    },
+    {
+      "canonical": "Shyouichi Imaoka",
+      "variants": ["Syoichi Imaoka", "Syouichi Imaoka"]
+    },
+    {
+      "canonical": "Kou Changsu",
+      "variants": ["Changsu Kou"]
+    },
+    {
+      "canonical": "Kouta Ehara",
+      "variants": ["Kota Ehara"]
+    },
+    {
+      "canonical": "Yu Terasawa",
+      "variants": ["Yuu Terasawa"]
+    },
+    {
+      "canonical": "Toru Horie",
+      "variants": ["Horie Tooru"]
+    },
+    {
+      "canonical": "Masaki Oi",
+      "variants": ["Masaki Ooi"]
+    },
+    {
+      "canonical": "Koichi Kudo",
+      "variants": ["Kouichi Kudou"]
+    },
+    {
+      "canonical": "Teppei Miki",
+      "variants": ["Miki Teppei Miki"]
+    },
+    {
+      "canonical": "Ryoichi Mita",
+      "variants": ["Ryouichi Mita"]
+    },
+    {
+      "canonical": "Kyoung-Soo Kim",
+      "variants": ["Kyoungsoo Kim"]
+    },
+    {
+      "canonical": "Kouhei Watanabe",
+      "variants": ["Kohei Watanabe"]
+    },
+    {
+      "canonical": "Yuuki Yamazaki",
+      "variants": ["Yuki Yamazaki"]
+    },
+    {
+      "canonical": "Albert Budisanjaya",
+      "variants": ["Benedictus Albert Budisanjaya"]
+    },
+    {
+      "canonical": "Quinton Lip",
+      "variants": ["Quinton Lip Zhao Jian"]
+    },
+    {
+      "canonical": "Huang Yung-Ming",
+      "variants": ["Yung-Ming Huang"]
+    },
+    {
+      "canonical": "Zen Miyaji-Thorne",
+      "variants": ["Zen Takahashi"]
+    },
+    {
+      "canonical": "Lee Shi Tian",
+      "variants": ["Shi Tian Lee"]
+    },
+    {
+      "canonical": "Noe Offman",
+      "variants": ["Noé Offman"]
+    },
+    {
+      "canonical": "Xin-Rong Chen",
+      "variants": ["Xinrong Chen"]
+    },
+    {
+      "canonical": "Philip Silberman",
+      "variants": ["Phil Silberman"]
+    },
+    {
+      "canonical": "Marcelo Rodrigues Cavalcante",
+      "variants": ["Marcelo Cavalcante"]
+    },
+    {
+      "canonical": "Alexander von Stange",
+      "variants": ["Alex von Stange"]
+    },
+    {
+      "canonical": "Edgar Emmanuel Rangel Paez",
+      "variants": ["Edgar Emmanuel Rangel Páez", "Edgar Rangel"]
+    },
+    {
+      "canonical": "Joshua Saruga",
+      "variants": ["Josh Saruga"]
+    },
+    {
+      "canonical": "Michael Byrd",
+      "variants": ["Mike Byrd"]
+    },
+    {
+      "canonical": "Jonathan Lobo Melamed",
+      "variants": ["Jonathan Melamed"]
+    },
+    {
+      "canonical": "Kenneth Oswald",
+      "variants": ["Kenny Oswald"]
+    },
+    {
+      "canonical": "Sajan Cherukad",
+      "variants": ["Cherukad Sajan"]
+    },
+    {
+      "canonical": "Christopher Kral",
+      "variants": ["Chris Kral"]
+    },
+    {
+      "canonical": "Miitri Suorsa",
+      "variants": ["Suorsa Miitri"]
+    },
+    {
+      "canonical": "Mark Lawrence Tubola",
+      "variants": ["Mark Tubola"]
+    },
+    {
+      "canonical": "Daniela Isabel Castillo Santos",
+      "variants": ["Isabel Castillo"]
+    },
+    {
+      "canonical": "Carlos Martinez Silhy",
+      "variants": ["Carlos Martinez"]
+    },
+    {
+      "canonical": "Luis Esteban Venegas",
+      "variants": ["Luis Venegas"]
+    },
+    {
+      "canonical": "Jonathan Stange",
+      "variants": ["Jonny Stange"]
+    },
+    {
+      "canonical": "Mauricio Iriarte Valenzuela",
+      "variants": ["Mauricio Iriarte"]
+    },
+    {
+      "canonical": "Jaime Gonzalo Benito",
+      "variants": ["Jaime Gonzalo"]
+    },
+    {
+      "canonical": "Alfredo Aaron Angeles Servin",
+      "variants": ["Alfredo Aaron Ángeles Servín", "Aaron Angeles"]
+    },
+    {
+      "canonical": "Nicolas Morales Macaya",
+      "variants": ["Nicolás Morales Macaya"]
+    },
+    {
+      "canonical": "Nick Osterude",
+      "variants": ["Nicholas Osterude"]
+    },
+    {
+      "canonical": "Johnathan Ng Hei Wo",
+      "variants": ["Hei Wo Ng"]
+    },
+    {
+      "canonical": "Michael Young",
+      "variants": ["Michael NK Young"]
+    },
+    {
+      "canonical": "Mario Alejandro Flores Silva",
+      "variants": ["Mario Flores"]
+    },
+    {
+      "canonical": "Pedro Henrique Flores",
+      "variants": ["Pedro Flores"]
+    },
+    {
+      "canonical": "Cristian Rodríguez Palacios",
+      "variants": ["Cristian Rodríguez"]
+    },
+    {
+      "canonical": "Jungin Song",
+      "variants": ["Chris Song"]
+    },
+    {
+      "canonical": "Gregory Johnson",
+      "variants": ["Greg Johnson"]
+    },
+    {
+      "canonical": "Helena Brake",
+      "variants": ["Helena Jackson"]
+    },
+    {
+      "canonical": "Daniel Qu",
+      "variants": ["Dan Qu"]
+    },
+    {
+      "canonical": "Adria Martin",
+      "variants": ["Adrià Martín"]
+    },
+    {
+      "canonical": "Lucas Andre Fernandes",
+      "variants": ["Lucas André", "Lucas Ferandes", "Lucas André Fernandes"]
+    },
+    {
+      "canonical": "Renan Correa",
+      "variants": ["Renan Corrêa"]
+    },
+    {
+      "canonical": "Liang Jianwei",
+      "variants": ["Jianwei Liang"]
+    },
+    {
+      "canonical": "Liu Guanlin",
+      "variants": ["Guanlin Liu"]
+    },
+    {
+      "canonical": "Erick Manuel Lopez Basulto",
+      "variants": ["Erick Lopez"]
+    },
+    {
+      "canonical": "Viking Unden",
+      "variants": ["Viking Undén"]
+    },
+    {
+      "canonical": "Stefano Fiore",
+      "variants": ["Stefano Di Fiore", "Stefano di Fiore"]
+    },
+    {
+      "canonical": "Marcos Henrique Borges Ferreira",
+      "variants": ["Marcos Ferreira"]
+    },
+    {
+      "canonical": "Noureddine Gharbaqui Mesa",
+      "variants": ["Norddin Mesa"]
+    },
+    {
+      "canonical": "Nickolas Smithmyer",
+      "variants": ["Nick Smithmyer"]
+    },
+    {
+      "canonical": "Carlos Oliveros",
+      "variants": ["Carlos Oliveros Guntín"]
+    },
+    {
+      "canonical": "",
+      "variants": [""]
+    },
+    {
+      "canonical": "",
+      "variants": [""]
+    },
+    {
+      "canonical": "",
+      "variants": [""]
+    },
+    {
+      "canonical": "",
+      "variants": [""]
+    },
+    {
+      "canonical": "",
+      "variants": [""]
+    },
+    {
+      "canonical": "",
+      "variants": [""]
+    },
+    {
+      "canonical": "",
+      "variants": [""]
     },
     {
       "canonical": "",

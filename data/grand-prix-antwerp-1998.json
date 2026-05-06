@@ -16,7 +16,8 @@
         {
             "money": 1700,
             "name": "Stephan Valkyser",
-            "propoints": 6
+            "propoints": 6,
+            "report": "https://web.archive.org/web/19991004183718/http://www.dorf.rwth-aachen.de/%7Edavid/AachenFantastics/reports/Stephan_GP_Antwerp_98_(English).html"
         },
         {
             "money": 1200,
@@ -99,7 +100,7 @@
         },
         {
             "money": 150,
-            "name": "Franz Heidbüchel"
+            "name": "Franz Heidbüchel", "report": "https://web.archive.org/web/20000520183233/http://www.dorf.rwth-aachen.de/~david/AachenFantastics/reports/Franz_GP_Antwerp_98.html"
         },
         {
             "money": 150,

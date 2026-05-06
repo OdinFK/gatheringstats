@@ -1,0 +1,974 @@
+{
+  "type": "Regional Championship",
+  "coverage": "https://magic.gg/events/mtg-china-open-changsha-march-2026",
+  "date": "March 13-15, 2026",
+  "season": "2025-26",
+  "teamsize": 1,
+  "formats": [
+    "Standard"
+  ],
+  "medium": "Tabletop",
+  "id": "regional-championship-changsha-2026",
+  "location": "Changsha, China",
+  "logo": "mtg-yellow",
+  "name": "MTG China Open: Changsha",
+  "standings": [
+    {
+      "name": "Muhan Yu",
+      "matchpoints": 22,
+      "money": 5000,
+      "deck": "EBj8jna2R0iCJQ_fjUa-OA"
+    },
+    {
+      "name": "Jiao Hongchen",
+      "matchpoints": 22,
+      "money": 2500
+    },
+    {
+      "name": "Chang Zheng",
+      "matchpoints": 24,
+      "money": 1250
+    },
+    {
+      "name": "Yang Shi",
+      "matchpoints": 22,
+      "money": 1250
+    },
+    {
+      "name": "Zhenying Peng",
+      "matchpoints": 23,
+      "money": 1000
+    },
+    {
+      "name": "Tan Gao",
+      "matchpoints": 22,
+      "money": 1000
+    },
+    {
+      "name": "Ying Zhehao",
+      "matchpoints": 22,
+      "money": 1000
+    },
+    {
+      "name": "Johnathan Ng Hei Wo",
+      "matchpoints": 22,
+      "money": 1000
+    },
+    {
+      "name": "Di Wang",
+      "matchpoints": 21,
+      "money": 350
+    },
+    {
+      "name": "Wenbo Li",
+      "matchpoints": 21,
+      "money": 350
+    },
+    {
+      "name": "Xiaoyu Guo",
+      "matchpoints": 21,
+      "money": 350
+    },
+    {
+      "name": "Ziyi Guo",
+      "matchpoints": 19,
+      "money": 350
+    },
+    {
+      "name": "Pengzhou Chen",
+      "matchpoints": 19,
+      "money": 350
+    },
+    {
+      "name": "Yinan Zhang",
+      "matchpoints": 19,
+      "money": 350
+    },
+    {
+      "name": "Jun Zhang",
+      "matchpoints": 19,
+      "money": 350
+    },
+    {
+      "name": "Li Kaiyuan",
+      "matchpoints": 19,
+      "money": 350
+    },
+    {
+      "name": "Zeyuan Li",
+      "matchpoints": 19,
+      "money": 200
+    },
+    {
+      "name": "Hanzhi Li",
+      "matchpoints": 19,
+      "money": 200
+    },
+    {
+      "name": "Yulong Shu",
+      "matchpoints": 19,
+      "money": 200
+    },
+    {
+      "name": "Wei Liang Wang",
+      "matchpoints": 19,
+      "money": 200
+    },
+    {
+      "name": "Jiajun Xu",
+      "matchpoints": 19,
+      "money": 200
+    },
+    {
+      "name": "Jun Lin",
+      "matchpoints": 19,
+      "money": 200
+    },
+    {
+      "name": "Zihao Chen",
+      "matchpoints": 19,
+      "money": 200
+    },
+    {
+      "name": "Wenhao Lyu",
+      "matchpoints": 19,
+      "money": 200
+    },
+    {
+      "name": "Yijie Xu",
+      "matchpoints": 19,
+      "money": 200
+    },
+    {
+      "name": "Fengwen Gu",
+      "matchpoints": 19,
+      "money": 200
+    },
+    {
+      "name": "Zhuang Lingzheng",
+      "matchpoints": 19,
+      "money": 200
+    },
+    {
+      "name": "CC Chan",
+      "matchpoints": 19,
+      "money": 200
+    },
+    {
+      "name": "Ouyang Lin",
+      "matchpoints": 19,
+      "money": 200
+    },
+    {
+      "name": "Ding Yi",
+      "matchpoints": 19,
+      "money": 200
+    },
+    {
+      "name": "Rui Zhou",
+      "matchpoints": 19,
+      "money": 200
+    },
+    {
+      "name": "Wang Kunrui",
+      "matchpoints": 18,
+      "money": 200
+    },
+    {
+      "name": "Jiang Yiren",
+      "matchpoints": 18
+    },
+    {
+      "name": "晔 朱",
+      "matchpoints": 18
+    },
+    {
+      "name": "Yuxiang Su",
+      "matchpoints": 18
+    },
+    {
+      "name": "萱佶 王",
+      "matchpoints": 18
+    },
+    {
+      "name": "Gongbo Zhuang",
+      "matchpoints": 18
+    },
+    {
+      "name": "Shiwen Duan",
+      "matchpoints": 18
+    },
+    {
+      "name": "天琦 李",
+      "matchpoints": 18
+    },
+    {
+      "name": "Sai Ho Leung",
+      "matchpoints": 18
+    },
+    {
+      "name": "Yang Feng",
+      "matchpoints": 18
+    },
+    {
+      "name": "Jie Zhang",
+      "matchpoints": 18
+    },
+    {
+      "name": "博然 高",
+      "matchpoints": 18
+    },
+    {
+      "name": "Zheng Wang",
+      "matchpoints": 18
+    },
+    {
+      "name": "Chen Fang",
+      "matchpoints": 18
+    },
+    {
+      "name": "Yuheng Jiang",
+      "matchpoints": 18
+    },
+    {
+      "name": "王杰 潘",
+      "matchpoints": 18
+    },
+    {
+      "name": "Yi Zhao",
+      "matchpoints": 18
+    },
+    {
+      "name": "扬翼 占",
+      "matchpoints": 18
+    },
+    {
+      "name": "Bowen Wu",
+      "matchpoints": 16
+    },
+    {
+      "name": "南 张",
+      "matchpoints": 16
+    },
+    {
+      "name": "Ting Hin Cheng",
+      "matchpoints": 16
+    },
+    {
+      "name": "Dong Sui",
+      "matchpoints": 16
+    },
+    {
+      "name": "Mo Que",
+      "matchpoints": 16
+    },
+    {
+      "name": "Zihua Wang",
+      "matchpoints": 16
+    },
+    {
+      "name": "Jinglin Chen",
+      "matchpoints": 16
+    },
+    {
+      "name": "Quan Lu",
+      "matchpoints": 16
+    },
+    {
+      "name": "Jinghao Shi",
+      "matchpoints": 16
+    },
+    {
+      "name": "Mengyang Lou",
+      "matchpoints": 15
+    },
+    {
+      "name": "Hao Wang",
+      "matchpoints": 15
+    },
+    {
+      "name": "鸿耀 陈",
+      "matchpoints": 15
+    },
+    {
+      "name": "Dui Hao",
+      "matchpoints": 15
+    },
+    {
+      "name": "Qi Wentao",
+      "matchpoints": 15
+    },
+    {
+      "name": "Yimin Zhi",
+      "matchpoints": 15
+    },
+    {
+      "name": "Kam Cheong Siu",
+      "matchpoints": 15
+    },
+    {
+      "name": "Chun Him To",
+      "matchpoints": 15
+    },
+    {
+      "name": "Yaodong Du",
+      "matchpoints": 15
+    },
+    {
+      "name": "Duan Lihao",
+      "matchpoints": 15
+    },
+    {
+      "name": "钧乐 杨",
+      "matchpoints": 15
+    },
+    {
+      "name": "Hongbao Song",
+      "matchpoints": 15
+    },
+    {
+      "name": "Tunzai Hai",
+      "matchpoints": 15
+    },
+    {
+      "name": "Hao Lin Wang",
+      "matchpoints": 15
+    },
+    {
+      "name": "Shuyang Zhao",
+      "matchpoints": 15
+    },
+    {
+      "name": "罗 肖屹",
+      "matchpoints": 15
+    },
+    {
+      "name": "嘉雯 龚",
+      "matchpoints": 15
+    },
+    {
+      "name": "Hong-xuan Chen",
+      "matchpoints": 15
+    },
+    {
+      "name": "张 凯",
+      "matchpoints": 15
+    },
+    {
+      "name": "Zi-Nan Xu",
+      "matchpoints": 15
+    },
+    {
+      "name": "Chen Shihao",
+      "matchpoints": 15
+    },
+    {
+      "name": "Wei Chengyi",
+      "matchpoints": 15
+    },
+    {
+      "name": "Victor Leung",
+      "matchpoints": 15
+    },
+    {
+      "name": "Raphael Rong",
+      "matchpoints": 15
+    },
+    {
+      "name": "Yang Shen",
+      "matchpoints": 15
+    },
+    {
+      "name": "Yuxuan Xie",
+      "matchpoints": 15
+    },
+    {
+      "name": "Yuan Zhang",
+      "matchpoints": 15
+    },
+    {
+      "name": "Jiayang You",
+      "matchpoints": 15
+    },
+    {
+      "name": "Mang Zhang",
+      "matchpoints": 15
+    },
+    {
+      "name": "Xie Zhan",
+      "matchpoints": 15
+    },
+    {
+      "name": "Chang Liu",
+      "matchpoints": 13
+    },
+    {
+      "name": "Yang Yinqiu",
+      "matchpoints": 13
+    },
+    {
+      "name": "Lei Yu",
+      "matchpoints": 13
+    },
+    {
+      "name": "Zhou Ai",
+      "matchpoints": 13
+    },
+    {
+      "name": "Yiwei Mao",
+      "matchpoints": 13
+    },
+    {
+      "name": "Qian Yu",
+      "matchpoints": 13
+    },
+    {
+      "name": "Hua-Lin Bai",
+      "matchpoints": 12
+    },
+    {
+      "name": "Hao Feng",
+      "matchpoints": 12
+    },
+    {
+      "name": "Junyu Si",
+      "matchpoints": 12
+    },
+    {
+      "name": "Sonny Zhou",
+      "matchpoints": 12
+    },
+    {
+      "name": "Ma Mofan",
+      "matchpoints": 12
+    },
+    {
+      "name": "Xiangxue Song",
+      "matchpoints": 12
+    },
+    {
+      "name": "智博 任",
+      "matchpoints": 12
+    },
+    {
+      "name": "Zhengtao Wang",
+      "matchpoints": 12
+    },
+    {
+      "name": "苏童 黄",
+      "matchpoints": 12
+    },
+    {
+      "name": "Zhiming Chen",
+      "matchpoints": 12
+    },
+    {
+      "name": "Mingyang Chen",
+      "matchpoints": 12
+    },
+    {
+      "name": "恩惠 杨",
+      "matchpoints": 12
+    },
+    {
+      "name": "Dang Qi",
+      "matchpoints": 12
+    },
+    {
+      "name": "Ka Wai Tsang",
+      "matchpoints": 12
+    },
+    {
+      "name": "纪新 刘",
+      "matchpoints": 12
+    },
+    {
+      "name": "健龙 李",
+      "matchpoints": 12
+    },
+    {
+      "name": "Hongjia Hu",
+      "matchpoints": 12
+    },
+    {
+      "name": "恺 吴",
+      "matchpoints": 12
+    },
+    {
+      "name": "Yida Jiang",
+      "matchpoints": 12
+    },
+    {
+      "name": "Pengyi Jiao",
+      "matchpoints": 12
+    },
+    {
+      "name": "明昊 高",
+      "matchpoints": 12
+    },
+    {
+      "name": "Dan Andrew",
+      "matchpoints": 10
+    },
+    {
+      "name": "海峰 杨",
+      "matchpoints": 10
+    },
+    {
+      "name": "Xu Yucheng",
+      "matchpoints": 9
+    },
+    {
+      "name": "Qinghua Zeng",
+      "matchpoints": 9
+    },
+    {
+      "name": "松泽 李",
+      "matchpoints": 9
+    },
+    {
+      "name": "Yifu Yao",
+      "matchpoints": 9
+    },
+    {
+      "name": "Jack Liu",
+      "matchpoints": 9
+    },
+    {
+      "name": "Toutou#07541 Yang",
+      "matchpoints": 9
+    },
+    {
+      "name": "望洋 曾",
+      "matchpoints": 9
+    },
+    {
+      "name": "沁辉 刘",
+      "matchpoints": 9
+    },
+    {
+      "name": "剑雨 秦",
+      "matchpoints": 9
+    },
+    {
+      "name": "泓博 邱",
+      "matchpoints": 9
+    },
+    {
+      "name": "淦 严",
+      "matchpoints": 9
+    },
+    {
+      "name": "Yung En Hanani Cha",
+      "matchpoints": 9
+    },
+    {
+      "name": "Zhengyang Zhou",
+      "matchpoints": 9
+    },
+    {
+      "name": "Tan Jingshen",
+      "matchpoints": 9
+    },
+    {
+      "name": "Xiwei Yao",
+      "matchpoints": 9
+    },
+    {
+      "name": "凯兴 汪",
+      "matchpoints": 9
+    },
+    {
+      "name": "Meng Fanxuan",
+      "matchpoints": 9
+    },
+    {
+      "name": "Guanhua Wen",
+      "matchpoints": 9
+    },
+    {
+      "name": "Gao Yi",
+      "matchpoints": 9
+    },
+    {
+      "name": "Ho Wa",
+      "matchpoints": 9
+    },
+    {
+      "name": "Guan-Yi Wang",
+      "matchpoints": 9
+    },
+    {
+      "name": "Yetian Jing",
+      "matchpoints": 9
+    },
+    {
+      "name": "安国 梁",
+      "matchpoints": 9
+    },
+    {
+      "name": "欣若 季",
+      "matchpoints": 9
+    },
+    {
+      "name": "安澜 胡",
+      "matchpoints": 8
+    },
+    {
+      "name": "振瀚 林",
+      "matchpoints": 7
+    },
+    {
+      "name": "Jiarui Li",
+      "matchpoints": 7
+    },
+    {
+      "name": "益豪 李",
+      "matchpoints": 7
+    },
+    {
+      "name": "旭晨 张",
+      "matchpoints": 7
+    },
+    {
+      "name": "笑彬 鞠",
+      "matchpoints": 7
+    },
+    {
+      "name": "Ang Li",
+      "matchpoints": 7
+    },
+    {
+      "name": "Yi Han",
+      "matchpoints": 7
+    },
+    {
+      "name": "Chao Lu",
+      "matchpoints": 6
+    },
+    {
+      "name": "洪水 陈",
+      "matchpoints": 6
+    },
+    {
+      "name": "Li Chen",
+      "matchpoints": 6
+    },
+    {
+      "name": "Maxior Polydor",
+      "matchpoints": 6
+    },
+    {
+      "name": "Qing Lei",
+      "matchpoints": 6
+    },
+    {
+      "name": "Fu Yu",
+      "matchpoints": 6
+    },
+    {
+      "name": "崔 轩",
+      "matchpoints": 6
+    },
+    {
+      "name": "韩 倪",
+      "matchpoints": 6
+    },
+    {
+      "name": "Jun Deng",
+      "matchpoints": 6
+    },
+    {
+      "name": "Jiantao Mo",
+      "matchpoints": 6
+    },
+    {
+      "name": "Yuxuan Zhang",
+      "matchpoints": 6
+    },
+    {
+      "name": "Yuxiang Hao",
+      "matchpoints": 6
+    },
+    {
+      "name": "Jiaming Zheng",
+      "matchpoints": 6
+    },
+    {
+      "name": "Ruikan Chen",
+      "matchpoints": 6
+    },
+    {
+      "name": "Bolong Sun",
+      "matchpoints": 6
+    },
+    {
+      "name": "Chuan Sun",
+      "matchpoints": 6
+    },
+    {
+      "name": "Yuning Liu",
+      "matchpoints": 6
+    },
+    {
+      "name": "Xing Gao",
+      "matchpoints": 6
+    },
+    {
+      "name": "Gao Meng",
+      "matchpoints": 6
+    },
+    {
+      "name": "翔 宇文",
+      "matchpoints": 6
+    },
+    {
+      "name": "Jianian Wang",
+      "matchpoints": 6
+    },
+    {
+      "name": "Yiyuan Ma",
+      "matchpoints": 6
+    },
+    {
+      "name": "Xiangjun Dai",
+      "matchpoints": 6
+    },
+    {
+      "name": "Kronos Kronos",
+      "matchpoints": 6
+    },
+    {
+      "name": "永哲 周",
+      "matchpoints": 6
+    },
+    {
+      "name": "纪诚 傅",
+      "matchpoints": 6
+    },
+    {
+      "name": "Hu Keming",
+      "matchpoints": 6
+    },
+    {
+      "name": "Chao Xu",
+      "matchpoints": 6
+    },
+    {
+      "name": "Sheng Chen",
+      "matchpoints": 6
+    },
+    {
+      "name": "Weiqin Zhang",
+      "matchpoints": 5
+    },
+    {
+      "name": "Lei Wang",
+      "matchpoints": 4
+    },
+    {
+      "name": "Jackie Chen",
+      "matchpoints": 3
+    },
+    {
+      "name": "智力 曹",
+      "matchpoints": 3
+    },
+    {
+      "name": "Yuhua Zhou",
+      "matchpoints": 3
+    },
+    {
+      "name": "Bin Jia",
+      "matchpoints": 3
+    },
+    {
+      "name": "Yuntao Dai",
+      "matchpoints": 3
+    },
+    {
+      "name": "Zhipeng Sun",
+      "matchpoints": 3
+    },
+    {
+      "name": "Hua-Chao Song",
+      "matchpoints": 3
+    },
+    {
+      "name": "Yi Yang",
+      "matchpoints": 3
+    },
+    {
+      "name": "Chen Xin",
+      "matchpoints": 3
+    },
+    {
+      "name": "伟 王",
+      "matchpoints": 3
+    },
+    {
+      "name": "建伦 郝",
+      "matchpoints": 3
+    },
+    {
+      "name": "Henning Wang",
+      "matchpoints": 3
+    },
+    {
+      "name": "Nick Woodard",
+      "matchpoints": 3
+    },
+    {
+      "name": "家慰 答",
+      "matchpoints": 3
+    },
+    {
+      "name": "Yuchen Liu",
+      "matchpoints": 3
+    },
+    {
+      "name": "Chen Zhengxuan",
+      "matchpoints": 3
+    },
+    {
+      "name": "Qingyuan Liu",
+      "matchpoints": 3
+    },
+    {
+      "name": "Hongtao Zhang",
+      "matchpoints": 3
+    },
+    {
+      "name": "券 左",
+      "matchpoints": 3
+    },
+    {
+      "name": "Zhongzheng Chen",
+      "matchpoints": 3
+    },
+    {
+      "name": "Tianyou Wu",
+      "matchpoints": 3
+    },
+    {
+      "name": "Xiaoyang Xu",
+      "matchpoints": 3
+    },
+    {
+      "name": "Tsz Kin Chan",
+      "matchpoints": 3
+    },
+    {
+      "name": "Bu Yi",
+      "matchpoints": 3
+    },
+    {
+      "name": "Yiduo Fan",
+      "matchpoints": 3
+    },
+    {
+      "name": "Zhiqi Xiao",
+      "matchpoints": 3
+    },
+    {
+      "name": "Haodong Sun",
+      "matchpoints": 2
+    },
+    {
+      "name": "Edwin Guan",
+      "matchpoints": 2
+    },
+    {
+      "name": "Xiaoqi Qin",
+      "matchpoints": 1
+    },
+    {
+      "name": "Wenhan Hu",
+      "matchpoints": 0
+    },
+    {
+      "name": "Lunyi Wang",
+      "matchpoints": 0
+    },
+    {
+      "name": "凌宇 李",
+      "matchpoints": 0
+    },
+    {
+      "name": "煜贺 王",
+      "matchpoints": 0
+    },
+    {
+      "name": "Guisheng Xiao",
+      "matchpoints": 0
+    },
+    {
+      "name": "Yuanjun Li",
+      "matchpoints": 0
+    },
+    {
+      "name": "Xicheng Wang",
+      "matchpoints": 0
+    },
+    {
+      "name": "承佑 姚",
+      "matchpoints": 0
+    },
+    {
+      "name": "嘉诚 杨",
+      "matchpoints": 0
+    },
+    {
+      "name": "Henry Oei",
+      "matchpoints": 0
+    },
+    {
+      "name": "Jiaxi Yan",
+      "matchpoints": 0
+    },
+    {
+      "name": "Liu Guanlin",
+      "matchpoints": 0
+    },
+    {
+      "name": "Kunxiang Niu",
+      "matchpoints": 0
+    },
+    {
+      "name": "YeCheng Li",
+      "matchpoints": 0
+    },
+    {
+      "name": "盛浩 黄",
+      "matchpoints": 0
+    },
+    {
+      "name": "Yuxiang Qin",
+      "matchpoints": 0
+    },
+    {
+      "name": "Fan Zhang",
+      "matchpoints": 0
+    },
+    {
+      "name": "Zihao Ji",
+      "matchpoints": 0
+    },
+    {
+      "name": "Chen Han",
+      "matchpoints": 0
+    },
+    {
+      "name": "Mao Dun",
+      "matchpoints": 0
+    },
+    {
+      "name": "Yuan Si",
+      "matchpoints": 0
+    },
+    {
+      "name": "Huang Hangtao",
+      "matchpoints": 0
+    }
+  ]
+}

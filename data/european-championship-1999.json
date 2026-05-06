@@ -15,11 +15,13 @@
     "standings": [
         {
             "money": 11500,
-            "name": "Nicolai Herzog"
+            "name": "Nicolai Herzog",
+            "deck": "FQx4qfdqaUqmHIJDYPPuNg"
         },
         {
             "money": 7000,
-            "name": "Dirk Baberowski"
+            "name": "Dirk Baberowski",
+            "report": "https://web.archive.org/web/20000925105251/http://www.outpost-online.de/english/reports/dirkberlin.htm"
         },
         {
             "money": 4600,
@@ -100,9 +102,30 @@
             "rank": 40
         },
         {
+            "money": 325,
+            "name": "Mikko Snygg",
+            "rank": 44
+        },
+        {
+            "name": "Stephan Valkyser",
+            "rank": 45,
+            "money": 315,
+            "report": "https://web.archive.org/web/19991008180607/http://www.dorf.rwth-aachen.de/~david/AachenFantastics/reports/Stephan_EC_99.html"
+        },
+        {
+            "money": 265,
+            "name": "Michael Nessler",
+            "rank": 51
+        },
+        {
             "money": 255,
             "name": "Philip Card",
             "rank": 53
+        },
+        {
+            "money": 245,
+            "name": "Karoly Liptak",
+            "rank": 55
         },
         {
             "money": 215,
@@ -115,6 +138,10 @@
             "rank": 62
         },
         {
+            "name": "Ivan Garcia-Gonzalez",
+            "rank": 71
+        },
+        {
             "name": "Daniel Paskins",
             "rank": 73,
             "report": "https://web.archive.org/web/20010118042100/http://www.thedojo.com/t991/t2.990715dpa.shtml"
@@ -122,6 +149,18 @@
         {
             "name": "Emmanuel Vernay",
             "rank": 87
+        },
+        {
+            "name": "Ivan Stanoev",
+            "rank": 88
+        },
+        {
+            "name": "Florent Jeudon",
+            "rank": 90
+        },
+        {
+            "name": "Marcin Goral Horecki",
+            "rank": 110
         },
         {
             "name": "Florian Dworak",
@@ -252,23 +291,11 @@
             "rank": "Day 2"
         },
         {
-            "name": "Ivan Garcia-Gonzalez",
-            "rank": "Day 2"
-        },
-        {
             "name": "Bram Snepvangers",
             "rank": "Day 2"
         },
         {
-            "name": "Mikko Snygg",
-            "rank": "Day 2"
-        },
-        {
             "name": "Romain Glodt",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Stephan Valkyser",
             "rank": "Day 2"
         },
         {
@@ -308,14 +335,6 @@
             "rank": "Day 2"
         },
         {
-            "name": "Michael Nessler",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Ivan Stanoev",
-            "rank": "Day 2"
-        },
-        {
             "name": "Jim Herold",
             "rank": "Day 2"
         },
@@ -329,10 +348,6 @@
         },
         {
             "name": "Robert Jurkovic",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Karoly Liptak",
             "rank": "Day 2"
         },
         {
@@ -433,14 +448,6 @@
         },
         {
             "name": "Bjorn Jocumsen",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Marcin Goral Horecki",
-            "rank": "Day 2"
-        },
-        {
-            "name": "Florent Jeudon",
             "rank": "Day 2"
         },
         {

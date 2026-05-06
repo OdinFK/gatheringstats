@@ -12,7 +12,7 @@
     "logo": "mtg-yellow",
     "name": "Central America Magic Series Regional Championship: Guadalajara",
     "standings": [
-        {"name": "Vinicio Sanchez Delgado", "matchpoints": 20, "money": 4000},
+        {"name": "Vinicio Sanchez Delgado", "matchpoints": 20, "money": 4000, "deck": "tgDruU9fCU-M7JNrTG2Ulg"},
         {"name": "Pedro Molina", "matchpoints": 20, "money": 2000},
         {"name": "Carlos Martinez Silhy", "matchpoints": 20, "money": 1000},
         {"name": "Alfredo Aaron Ángeles Servín", "matchpoints": 19, "money": 1000},

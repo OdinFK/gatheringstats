@@ -12,7 +12,7 @@
     "logo": "mtg-yellow",
     "name": "Magic Spotlight: Spider-Man – Baltimore 2025",
     "standings": [
-      {"name": "Alexandre MacIsaac", "matchpoints": 36, "money": 10000},
+      {"name": "Alexandre MacIsaac", "matchpoints": 36, "money": 10000, "deck": "5CLpf1GaIk-nYOPgUQvOGg"},
       {"name": "Etai Kurtzman", "matchpoints": 37, "money": 5000},
       {"name": "Nam Dang", "matchpoints": 37, "money": 2500},
       {"name": "Joseph Puglisi Clark", "matchpoints": 36, "money": 2500},

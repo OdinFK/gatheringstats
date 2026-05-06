@@ -1,0 +1,770 @@
+{
+  "type": "Regional Championship",
+  "coverage": "https://magic.gg/events/central-america-magic-series-regional-championship-mexico-city-march-2026",
+  "date": "March 7-8, 2026",
+  "season": "2025-26",
+  "teamsize": 1,
+  "formats": [
+    "Standard"
+  ],
+  "medium": "Tabletop",
+  "id": "regional-championship-mexico-city-march-2026",
+  "location": "Mexico City, Mexico",
+  "logo": "mtg-yellow",
+  "name": "The Gathering Showdown: Mexico City",
+  "standings": [
+    {
+      "name": "Jorge Lopez",
+      "matchpoints": 21,
+      "money": 4000,
+      "deck": "Bb_QMnNYJU2VTW5DPKHm5A"
+    },
+    {
+      "name": "Ivan Saenz",
+      "matchpoints": 19,
+      "money": 2000
+    },
+    {
+      "name": "Daniela Isabel Castillo Santos",
+      "matchpoints": 19,
+      "money": 1000
+    },
+    {
+      "name": "Carlos Martinez Silhy",
+      "matchpoints": 19,
+      "money": 1000
+    },
+    {
+      "name": "Edgar Emmanuel Rangel Páez",
+      "matchpoints": 22,
+      "money": 550
+    },
+    {
+      "name": "Juan Miguel Sierra Hermosa",
+      "matchpoints": 21,
+      "money": 550
+    },
+    {
+      "name": "Julio Cesar Soto",
+      "matchpoints": 21,
+      "money": 550
+    },
+    {
+      "name": "Rainman Sian",
+      "matchpoints": 20,
+      "money": 550
+    },
+    {
+      "name": "Juan Alfredo Torres",
+      "matchpoints": 18,
+      "money": 300
+    },
+    {
+      "name": "Ericksson Moran",
+      "matchpoints": 18,
+      "money": 300
+    },
+    {
+      "name": "Paul Villalobos",
+      "matchpoints": 18,
+      "money": 300
+    },
+    {
+      "name": "Pedro Molina",
+      "matchpoints": 18,
+      "money": 300
+    },
+    {
+      "name": "Ivan Sandoval",
+      "matchpoints": 18,
+      "money": 300
+    },
+    {
+      "name": "Juan Carlos Servin Gomez",
+      "matchpoints": 18,
+      "money": 300
+    },
+    {
+      "name": "Luis Felipe Sanchez Cuevas",
+      "matchpoints": 18,
+      "money": 300
+    },
+    {
+      "name": "Ricardo Landeta",
+      "matchpoints": 18,
+      "money": 300
+    },
+    {
+      "name": "Raul Osvaldo Rodriguez Abeldaño",
+      "matchpoints": 18,
+      "money": 150
+    },
+    {
+      "name": "Alberto Toscano",
+      "matchpoints": 18,
+      "money": 150
+    },
+    {
+      "name": "Danieer Alexis Galvez Barradas",
+      "matchpoints": 18,
+      "money": 150
+    },
+    {
+      "name": "Dagoberto Israel Silva Aranda",
+      "matchpoints": 18,
+      "money": 150
+    },
+    {
+      "name": "Luis Alejandro Romero Ramirez",
+      "matchpoints": 18,
+      "money": 150
+    },
+    {
+      "name": "Li Mendez",
+      "matchpoints": 18,
+      "money": 150
+    },
+    {
+      "name": "Jeff Melgar",
+      "matchpoints": 18,
+      "money": 150
+    },
+    {
+      "name": "German Becerril Alarcon",
+      "matchpoints": 16,
+      "money": 150
+    },
+    {
+      "name": "Ivan Martinez",
+      "matchpoints": 16,
+      "money": 150
+    },
+    {
+      "name": "Jose Eduardo Gordillo Cardona",
+      "matchpoints": 16,
+      "money": 150
+    },
+    {
+      "name": "Daniel Alvarez",
+      "matchpoints": 16,
+      "money": 150
+    },
+    {
+      "name": "Emmanuel Mendez",
+      "matchpoints": 16,
+      "money": 150
+    },
+    {
+      "name": "Hermilo Flores Davila",
+      "matchpoints": 15,
+      "money": 150
+    },
+    {
+      "name": "Uriel Cuitlahuac Reyna Valencia",
+      "matchpoints": 15,
+      "money": 150
+    },
+    {
+      "name": "Alejandro Pereira",
+      "matchpoints": 15,
+      "money": 150
+    },
+    {
+      "name": "Pablo Duque",
+      "matchpoints": 15,
+      "money": 150
+    },
+    {
+      "name": "Carlo Alan Chávez García",
+      "matchpoints": 15
+    },
+    {
+      "name": "Cesar Israel Gomez Jacome",
+      "matchpoints": 15
+    },
+    {
+      "name": "Archibal Raziel Sánchez Peralta",
+      "matchpoints": 15
+    },
+    {
+      "name": "Francisco Fernando Gosch Acosta",
+      "matchpoints": 15
+    },
+    {
+      "name": "Pedro Bermudez",
+      "matchpoints": 15
+    },
+    {
+      "name": "Esdras Mares",
+      "matchpoints": 15
+    },
+    {
+      "name": "Alejandro Alfonso de los Santos Zatarain",
+      "matchpoints": 15
+    },
+    {
+      "name": "Daisuke Hara Gonzalez",
+      "matchpoints": 15
+    },
+    {
+      "name": "Josue Martil",
+      "matchpoints": 15
+    },
+    {
+      "name": "Dikson Avila Rojas",
+      "matchpoints": 15
+    },
+    {
+      "name": "Joaquin Roberto Soto Castillo",
+      "matchpoints": 15
+    },
+    {
+      "name": "Angel Geovanni Briones Medina",
+      "matchpoints": 15
+    },
+    {
+      "name": "Fernando Dominguez Roldán",
+      "matchpoints": 15
+    },
+    {
+      "name": "Gerardo Ortiz Falcon",
+      "matchpoints": 15
+    },
+    {
+      "name": "Oscar Hiram Barba Gutierrez",
+      "matchpoints": 15
+    },
+    {
+      "name": "Isaac Martinez",
+      "matchpoints": 15
+    },
+    {
+      "name": "Israel Martinez Mata",
+      "matchpoints": 15
+    },
+    {
+      "name": "Victor Manuel Suasnavar Alvizar",
+      "matchpoints": 15
+    },
+    {
+      "name": "Martin Cedeno",
+      "matchpoints": 15
+    },
+    {
+      "name": "Victor Ordaz",
+      "matchpoints": 15
+    },
+    {
+      "name": "Juan Carlos Sanchez Strassburger",
+      "matchpoints": 15
+    },
+    {
+      "name": "Marcelo Cruz",
+      "matchpoints": 15
+    },
+    {
+      "name": "Alexander Rosales",
+      "matchpoints": 15
+    },
+    {
+      "name": "Ameth Ivan Moran Villatoro",
+      "matchpoints": 15
+    },
+    {
+      "name": "Cristian Ponce",
+      "matchpoints": 14
+    },
+    {
+      "name": "Mario Alejandro Flores Silva",
+      "matchpoints": 13
+    },
+    {
+      "name": "Jorge Solis",
+      "matchpoints": 13
+    },
+    {
+      "name": "Eduardo Castillo",
+      "matchpoints": 13
+    },
+    {
+      "name": "Marlon Jacob Avila Gutierrez",
+      "matchpoints": 13
+    },
+    {
+      "name": "Pablo Barrientos Angeles",
+      "matchpoints": 13
+    },
+    {
+      "name": "Rolando Mendez Aguilar",
+      "matchpoints": 13
+    },
+    {
+      "name": "Marco Daniel R Rodriguez Perez",
+      "matchpoints": 12
+    },
+    {
+      "name": "Aaron Berrocal",
+      "matchpoints": 12
+    },
+    {
+      "name": "Mario Nava",
+      "matchpoints": 12
+    },
+    {
+      "name": "Allan Ayapan",
+      "matchpoints": 12
+    },
+    {
+      "name": "Oscar Lobo",
+      "matchpoints": 12
+    },
+    {
+      "name": "Daniel Gallardo Carrillo",
+      "matchpoints": 12
+    },
+    {
+      "name": "Julio Potes",
+      "matchpoints": 12
+    },
+    {
+      "name": "Jesús Solano",
+      "matchpoints": 12
+    },
+    {
+      "name": "Bernardo Bordinhao Aranda",
+      "matchpoints": 12
+    },
+    {
+      "name": "Brian Lopez",
+      "matchpoints": 12
+    },
+    {
+      "name": "Christopher Rubi Salazar",
+      "matchpoints": 12
+    },
+    {
+      "name": "Sergio Erick Medina Guerrero",
+      "matchpoints": 12
+    },
+    {
+      "name": "Ismael Isassi",
+      "matchpoints": 12
+    },
+    {
+      "name": "Ivan Oro",
+      "matchpoints": 12
+    },
+    {
+      "name": "Javier Legaspi",
+      "matchpoints": 12
+    },
+    {
+      "name": "Rodolfo Juarez",
+      "matchpoints": 12
+    },
+    {
+      "name": "Itziar Cardona",
+      "matchpoints": 12
+    },
+    {
+      "name": "Alejandro Mellado",
+      "matchpoints": 12
+    },
+    {
+      "name": "William Elizondo",
+      "matchpoints": 12
+    },
+    {
+      "name": "Cesar Alvarez",
+      "matchpoints": 12
+    },
+    {
+      "name": "Rafael Mandujano",
+      "matchpoints": 12
+    },
+    {
+      "name": "Luis Alfredo Villalobos Ozuna",
+      "matchpoints": 12
+    },
+    {
+      "name": "Julio Cesar Tadeo Jacinto",
+      "matchpoints": 12
+    },
+    {
+      "name": "Juan Alberto Amaya",
+      "matchpoints": 12
+    },
+    {
+      "name": "Jose Francisco Samperio Martinez",
+      "matchpoints": 12
+    },
+    {
+      "name": "Sebastian Quintana",
+      "matchpoints": 12
+    },
+    {
+      "name": "Mario Andres Meza Villegas",
+      "matchpoints": 12
+    },
+    {
+      "name": "Emmanuel Anchia",
+      "matchpoints": 12
+    },
+    {
+      "name": "Manuel Alejandro Tijerina Reyna",
+      "matchpoints": 11
+    },
+    {
+      "name": "Rodrigo Alvarez Arevalo",
+      "matchpoints": 10
+    },
+    {
+      "name": "Chris Rangel",
+      "matchpoints": 10
+    },
+    {
+      "name": "Jorge de Jesus Gama Carrillo",
+      "matchpoints": 10
+    },
+    {
+      "name": "Yasikov Tadeo Samperio Martinez",
+      "matchpoints": 10
+    },
+    {
+      "name": "Julio Rivera",
+      "matchpoints": 10
+    },
+    {
+      "name": "Daniel Garcia",
+      "matchpoints": 10
+    },
+    {
+      "name": "Victor Perez",
+      "matchpoints": 10
+    },
+    {
+      "name": "Leoncio Pardo",
+      "matchpoints": 10
+    },
+    {
+      "name": "Jose Isidro Rivera",
+      "matchpoints": 10
+    },
+    {
+      "name": "Romeo Aaron Cameras Lievano",
+      "matchpoints": 9
+    },
+    {
+      "name": "Juan S Jimenez Galindo",
+      "matchpoints": 9
+    },
+    {
+      "name": "Jorge Cardenas Covarrubias",
+      "matchpoints": 9
+    },
+    {
+      "name": "Pablo Enrique Gonzalez Avila",
+      "matchpoints": 9
+    },
+    {
+      "name": "Carlos Huezo",
+      "matchpoints": 9
+    },
+    {
+      "name": "Aram Madriz A",
+      "matchpoints": 9
+    },
+    {
+      "name": "Erick Manuel Lopez Basulto",
+      "matchpoints": 9
+    },
+    {
+      "name": "Roberto Luna",
+      "matchpoints": 9
+    },
+    {
+      "name": "David Ortiz",
+      "matchpoints": 9
+    },
+    {
+      "name": "Alexis Garcia",
+      "matchpoints": 9
+    },
+    {
+      "name": "Imgard Nicolas Paredes Yanez",
+      "matchpoints": 9
+    },
+    {
+      "name": "Luis Vargas",
+      "matchpoints": 9
+    },
+    {
+      "name": "Luis Barrios",
+      "matchpoints": 9
+    },
+    {
+      "name": "Michael Anthony Morales Nesme",
+      "matchpoints": 9
+    },
+    {
+      "name": "Rodrigo San Juan",
+      "matchpoints": 9
+    },
+    {
+      "name": "Alexis Sanchez",
+      "matchpoints": 9
+    },
+    {
+      "name": "Javier Castellan",
+      "matchpoints": 9
+    },
+    {
+      "name": "Dante Gabriel Gonzalez Illescas",
+      "matchpoints": 9
+    },
+    {
+      "name": "Alberto BoLivar",
+      "matchpoints": 9
+    },
+    {
+      "name": "Valeria Aguilar",
+      "matchpoints": 9
+    },
+    {
+      "name": "Miguel Valdez",
+      "matchpoints": 9
+    },
+    {
+      "name": "Eduardo Lujan Arrieta",
+      "matchpoints": 9
+    },
+    {
+      "name": "Henry Cardozo Espinosa",
+      "matchpoints": 8
+    },
+    {
+      "name": "Bruno Ramirez de Arellano Garcia",
+      "matchpoints": 7
+    },
+    {
+      "name": "Jeffrey Maison",
+      "matchpoints": 7
+    },
+    {
+      "name": "Luis Manuel Flores Rivas",
+      "matchpoints": 7
+    },
+    {
+      "name": "Diego Rivas Tatay",
+      "matchpoints": 6
+    },
+    {
+      "name": "Victor Castillo",
+      "matchpoints": 6
+    },
+    {
+      "name": "Alejandro Winkler",
+      "matchpoints": 6
+    },
+    {
+      "name": "Fernando Juarez",
+      "matchpoints": 6
+    },
+    {
+      "name": "Sebastian Olivares Garcia",
+      "matchpoints": 6
+    },
+    {
+      "name": "Javier Calvo",
+      "matchpoints": 6
+    },
+    {
+      "name": "Marcelino Freeman",
+      "matchpoints": 6
+    },
+    {
+      "name": "Tlacaelel Jimenez",
+      "matchpoints": 6
+    },
+    {
+      "name": "Luis Patricio Tamez Jimenez",
+      "matchpoints": 6
+    },
+    {
+      "name": "Oscar Ruiz",
+      "matchpoints": 6
+    },
+    {
+      "name": "Pablo Alberto Ordonez Cisneros",
+      "matchpoints": 6
+    },
+    {
+      "name": "Rafael Ernesto Martinez Soriano",
+      "matchpoints": 6
+    },
+    {
+      "name": "Gustavo Alvarez",
+      "matchpoints": 6
+    },
+    {
+      "name": "Cesar Hernandez",
+      "matchpoints": 6
+    },
+    {
+      "name": "Marcos Martinez",
+      "matchpoints": 6
+    },
+    {
+      "name": "Cruz Isaias Cantu Barajas",
+      "matchpoints": 6
+    },
+    {
+      "name": "Luis Mondragon",
+      "matchpoints": 6
+    },
+    {
+      "name": "Ricardo Velazquez",
+      "matchpoints": 6
+    },
+    {
+      "name": "Daniel Cisneros",
+      "matchpoints": 6
+    },
+    {
+      "name": "Victor Miranda Gutierrez",
+      "matchpoints": 5
+    },
+    {
+      "name": "Jose Jairo Rosales Reyes",
+      "matchpoints": 5
+    },
+    {
+      "name": "Antonio Guzman Vazquez",
+      "matchpoints": 3
+    },
+    {
+      "name": "Artemio Abrego Carrasco",
+      "matchpoints": 3
+    },
+    {
+      "name": "Carlos Alvarado",
+      "matchpoints": 3
+    },
+    {
+      "name": "Arleni Netsai Sauri Rosado",
+      "matchpoints": 3
+    },
+    {
+      "name": "Bernabe Perez Popocatl",
+      "matchpoints": 3
+    },
+    {
+      "name": "Saul Diaz",
+      "matchpoints": 3
+    },
+    {
+      "name": "Pablo Mendez",
+      "matchpoints": 3
+    },
+    {
+      "name": "Ricardo Pliego Angeles",
+      "matchpoints": 3
+    },
+    {
+      "name": "Erick Pat",
+      "matchpoints": 3
+    },
+    {
+      "name": "Kevin Cano",
+      "matchpoints": 3
+    },
+    {
+      "name": "Juan Francisco Valladares Rodriguez",
+      "matchpoints": 3
+    },
+    {
+      "name": "Daniel Isaias",
+      "matchpoints": 3
+    },
+    {
+      "name": "Jorge Pompa",
+      "matchpoints": 3
+    },
+    {
+      "name": "Edward Ellin Carrillo",
+      "matchpoints": 3
+    },
+    {
+      "name": "Alejandro Gonzalez",
+      "matchpoints": 3
+    },
+    {
+      "name": "Victor Maya",
+      "matchpoints": 3
+    },
+    {
+      "name": "Renato Valles",
+      "matchpoints": 3
+    },
+    {
+      "name": "Daniel Rodriguez",
+      "matchpoints": 2
+    },
+    {
+      "name": "Conchita Flores",
+      "matchpoints": 2
+    },
+    {
+      "name": "Rafael Zavala Azcatl",
+      "matchpoints": 1
+    },
+    {
+      "name": "Luis Chavez",
+      "matchpoints": 0
+    },
+    {
+      "name": "Jose Alberto Cedeno Turcios",
+      "matchpoints": 0
+    },
+    {
+      "name": "Ivan Cortes",
+      "matchpoints": 0
+    },
+    {
+      "name": "Rafael Frade",
+      "matchpoints": 0
+    },
+    {
+      "name": "Victor Alejandro Lemus Herrejon",
+      "matchpoints": 0
+    },
+    {
+      "name": "Diego Fresan Sanchez",
+      "matchpoints": 0
+    },
+    {
+      "name": "Antonio Herran",
+      "matchpoints": 0
+    },
+    {
+      "name": "Roberto Guerra Allande",
+      "matchpoints": 0
+    },
+    {
+      "name": "Alfredo Aaron Angeles Servin",
+      "matchpoints": 0
+    },
+    {
+      "name": "Dalibor Trnka",
+      "matchpoints": 0
+    },
+    {
+      "name": "Rafael Perez Ojeda",
+      "matchpoints": 0
+    },
+    {
+      "name": "Daniel Olin Honorio",
+      "matchpoints": 0
+    }
+  ]
+}

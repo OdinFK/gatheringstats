@@ -12,7 +12,7 @@
     "logo": "mtg-yellow",
     "name": "MTG China Open: Beijing",
     "standings": [
-        {"name": "Yi Yang", "matchpoints": 23, "money": 5000},
+        {"name": "Yi Yang", "matchpoints": 23, "money": 5000, "deck": "gWXn044xTEOHS1z9Ec4M3A"},
         {"name": "Zihao Ji", "matchpoints": 23, "money": 2500},
         {"name": "Enhui Yang", "matchpoints": 24, "money": 1250},
         {"name": "Yang Chen", "matchpoints": 22, "money": 1250},

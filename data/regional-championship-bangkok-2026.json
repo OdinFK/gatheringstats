@@ -1,0 +1,649 @@
+{
+  "type": "Regional Championship",
+  "coverage": "https://magic.gg/events/sea-championship-final-bangkok-march-2026",
+  "date": "March 14-15, 2026",
+  "season": "2025-26",
+  "teamsize": 1,
+  "formats": [
+    "Standard"
+  ],
+  "medium": "Tabletop",
+  "id": "regional-championship-bangkok-2026",
+  "location": "Bangkok, Thailand",
+  "logo": "mtg-yellow",
+  "name": "South East Asia Championship Final: Bangkok",
+  "standings": [
+    {
+      "name": "Richmond Tan",
+      "matchpoints": 20,
+      "money": 4500
+    },
+    {
+      "name": "Mark Lawrence Tubola",
+      "matchpoints": 20,
+      "money": 2300
+    },
+    {
+      "name": "Paul Gabat",
+      "matchpoints": 19,
+      "money": 1100
+    },
+    {
+      "name": "Marco Philip Serafica",
+      "matchpoints": 19,
+      "money": 1100
+    },
+    {
+      "name": "Claire Tian",
+      "matchpoints": 20,
+      "money": 500
+    },
+    {
+      "name": "William Au",
+      "matchpoints": 19,
+      "money": 500
+    },
+    {
+      "name": "Timothy Chang",
+      "matchpoints": 19,
+      "money": 500
+    },
+    {
+      "name": "Billy Lesmana",
+      "matchpoints": 19,
+      "money": 500
+    },
+    {
+      "name": "Daston Lam",
+      "matchpoints": 19,
+      "money": 250
+    },
+    {
+      "name": "Winston Chamora",
+      "matchpoints": 19,
+      "money": 250
+    },
+    {
+      "name": "Tarnpetch Charonnwoodtipong",
+      "matchpoints": 18,
+      "money": 250
+    },
+    {
+      "name": "Danila Volkov",
+      "matchpoints": 18,
+      "money": 250
+    },
+    {
+      "name": "Anthony Cuello",
+      "matchpoints": 18,
+      "money": 250
+    },
+    {
+      "name": "Albert Budisanjaya",
+      "matchpoints": 18,
+      "money": 250
+    },
+    {
+      "name": "Chayanin Chatngern",
+      "matchpoints": 18,
+      "money": 250
+    },
+    {
+      "name": "Weng Heng Soh",
+      "matchpoints": 18,
+      "money": 250
+    },
+    {
+      "name": "Liang Choong Poh",
+      "matchpoints": 16,
+      "money": 125
+    },
+    {
+      "name": "Quinton Lip",
+      "matchpoints": 16,
+      "money": 125
+    },
+    {
+      "name": "Ruizi Lin",
+      "matchpoints": 16,
+      "money": 125
+    },
+    {
+      "name": "Corey Hill",
+      "matchpoints": 16,
+      "money": 125
+    },
+    {
+      "name": "Suchit Kunbuntomsin",
+      "matchpoints": 16,
+      "money": 125
+    },
+    {
+      "name": "Artyom Arepin",
+      "matchpoints": 16,
+      "money": 125
+    },
+    {
+      "name": "John Daroen Sahagun",
+      "matchpoints": 16,
+      "money": 125
+    },
+    {
+      "name": "Roy Raymund Rivero",
+      "matchpoints": 16,
+      "money": 125
+    },
+    {
+      "name": "Sukhum Kiwanont",
+      "matchpoints": 16,
+      "money": 125
+    },
+    {
+      "name": "Kelvin Chew",
+      "matchpoints": 16,
+      "money": 125
+    },
+    {
+      "name": "Nontagorn Naplong",
+      "matchpoints": 15,
+      "money": 125
+    },
+    {
+      "name": "Wilco Pinkster",
+      "matchpoints": 15,
+      "money": 125
+    },
+    {
+      "name": "Philip Christopher Rama",
+      "matchpoints": 15,
+      "money": 125
+    },
+    {
+      "name": "Terry Lim",
+      "matchpoints": 15,
+      "money": 125
+    },
+    {
+      "name": "William Joseph Mallari",
+      "matchpoints": 15,
+      "money": 125
+    },
+    {
+      "name": "Kirill Tsarkov",
+      "matchpoints": 15,
+      "money": 125
+    },
+    {
+      "name": "Clement Lesaege",
+      "matchpoints": 15
+    },
+    {
+      "name": "Meng Fu Lim",
+      "matchpoints": 15
+    },
+    {
+      "name": "Joshua Yang",
+      "matchpoints": 15
+    },
+    {
+      "name": "Jeremy Teo",
+      "matchpoints": 15
+    },
+    {
+      "name": "Kevin Gondowijoyo",
+      "matchpoints": 15
+    },
+    {
+      "name": "Rudi Jason Asinas",
+      "matchpoints": 15
+    },
+    {
+      "name": "Arwin Pratomo",
+      "matchpoints": 15
+    },
+    {
+      "name": "Chase Mutuc",
+      "matchpoints": 15
+    },
+    {
+      "name": "Samuel Henry Kurniawan",
+      "matchpoints": 15
+    },
+    {
+      "name": "El Carl Sontellinosa",
+      "matchpoints": 15
+    },
+    {
+      "name": "Luc Menard",
+      "matchpoints": 15
+    },
+    {
+      "name": "Akeem Jade Fabila",
+      "matchpoints": 15
+    },
+    {
+      "name": "Jan Ang",
+      "matchpoints": 15
+    },
+    {
+      "name": "Kari Shouur",
+      "matchpoints": 15
+    },
+    {
+      "name": "Alexander Dulawan",
+      "matchpoints": 15
+    },
+    {
+      "name": "Christian Wijaya",
+      "matchpoints": 13
+    },
+    {
+      "name": "Gavin Teo",
+      "matchpoints": 13
+    },
+    {
+      "name": "John Aldrin Dionisio",
+      "matchpoints": 13
+    },
+    {
+      "name": "Kelvin Hoon",
+      "matchpoints": 13
+    },
+    {
+      "name": "Nicholas Lee",
+      "matchpoints": 12
+    },
+    {
+      "name": "Weerawat Meenwatthana",
+      "matchpoints": 12
+    },
+    {
+      "name": "Wenghoong Ho",
+      "matchpoints": 12
+    },
+    {
+      "name": "Alvin Yeo",
+      "matchpoints": 12
+    },
+    {
+      "name": "Ramon Allan Oca",
+      "matchpoints": 12
+    },
+    {
+      "name": "Mark Tan",
+      "matchpoints": 12
+    },
+    {
+      "name": "Mark Angelo Tacderas",
+      "matchpoints": 12
+    },
+    {
+      "name": "Edward Chung",
+      "matchpoints": 12
+    },
+    {
+      "name": "Natasha Lim",
+      "matchpoints": 12
+    },
+    {
+      "name": "Henry Lim",
+      "matchpoints": 12
+    },
+    {
+      "name": "Andy Lai",
+      "matchpoints": 12
+    },
+    {
+      "name": "Peter Widia",
+      "matchpoints": 12
+    },
+    {
+      "name": "Zhengxin Gan",
+      "matchpoints": 12
+    },
+    {
+      "name": "Chayapol Poonsawat",
+      "matchpoints": 12
+    },
+    {
+      "name": "Ian Mark Gutierrez",
+      "matchpoints": 12
+    },
+    {
+      "name": "Forbes Chatchayanusorn",
+      "matchpoints": 12
+    },
+    {
+      "name": "Theeradet Yingviriyaprapan",
+      "matchpoints": 12
+    },
+    {
+      "name": "Nin Pangilinan",
+      "matchpoints": 12
+    },
+    {
+      "name": "Justin Rigor",
+      "matchpoints": 12
+    },
+    {
+      "name": "Nonthakorn Kositaporn",
+      "matchpoints": 12
+    },
+    {
+      "name": "Fredrick Fong",
+      "matchpoints": 11
+    },
+    {
+      "name": "Ricky John Santos",
+      "matchpoints": 10
+    },
+    {
+      "name": "Virakvuth Rith",
+      "matchpoints": 10
+    },
+    {
+      "name": "Marlon Kane Cruz",
+      "matchpoints": 10
+    },
+    {
+      "name": "RJ Yu",
+      "matchpoints": 9
+    },
+    {
+      "name": "Syed Zulkarnaen",
+      "matchpoints": 9
+    },
+    {
+      "name": "Farhan Zulkifli",
+      "matchpoints": 9
+    },
+    {
+      "name": "Weimin Lee",
+      "matchpoints": 9
+    },
+    {
+      "name": "Victoriano Lim",
+      "matchpoints": 9
+    },
+    {
+      "name": "John Paul Adrian Ronquillo",
+      "matchpoints": 9
+    },
+    {
+      "name": "Redza Arbee",
+      "matchpoints": 9
+    },
+    {
+      "name": "Nattawin Supapipat",
+      "matchpoints": 9
+    },
+    {
+      "name": "Maxime Rouilly",
+      "matchpoints": 9
+    },
+    {
+      "name": "Nikhilesh Mahendran",
+      "matchpoints": 9
+    },
+    {
+      "name": "Adier David",
+      "matchpoints": 9
+    },
+    {
+      "name": "Celsus Kintanar",
+      "matchpoints": 9
+    },
+    {
+      "name": "Jonathan Holmes",
+      "matchpoints": 9
+    },
+    {
+      "name": "Li Hsian Ngam",
+      "matchpoints": 9
+    },
+    {
+      "name": "Khomtanat Kaewboonruang",
+      "matchpoints": 9
+    },
+    {
+      "name": "Andrianto Saputro",
+      "matchpoints": 9
+    },
+    {
+      "name": "Justin Beltran",
+      "matchpoints": 9
+    },
+    {
+      "name": "Arak Padittaporn",
+      "matchpoints": 7
+    },
+    {
+      "name": "Chao Lung Yeh",
+      "matchpoints": 7
+    },
+    {
+      "name": "Evan Chandra",
+      "matchpoints": 6
+    },
+    {
+      "name": "Hojun Yoon",
+      "matchpoints": 6
+    },
+    {
+      "name": "Paeree Ichayapreug",
+      "matchpoints": 6
+    },
+    {
+      "name": "Ting Yong Lim",
+      "matchpoints": 6
+    },
+    {
+      "name": "Carlos Crespo",
+      "matchpoints": 6
+    },
+    {
+      "name": "Tengo Chong",
+      "matchpoints": 6
+    },
+    {
+      "name": "Denny Dunsford",
+      "matchpoints": 6
+    },
+    {
+      "name": "Jason Loh",
+      "matchpoints": 6
+    },
+    {
+      "name": "Alexey Shashov",
+      "matchpoints": 6
+    },
+    {
+      "name": "Elvin Joseph Dy Buncio",
+      "matchpoints": 6
+    },
+    {
+      "name": "Ash Kamal",
+      "matchpoints": 6
+    },
+    {
+      "name": "Trichai Techarattanakrai",
+      "matchpoints": 6
+    },
+    {
+      "name": "Wei Zhen",
+      "matchpoints": 6
+    },
+    {
+      "name": "Poorin Pitakratananukool",
+      "matchpoints": 6
+    },
+    {
+      "name": "Gino Lee",
+      "matchpoints": 6
+    },
+    {
+      "name": "Joel Cheah",
+      "matchpoints": 6
+    },
+    {
+      "name": "Justin Teo",
+      "matchpoints": 6
+    },
+    {
+      "name": "John Jerson Po",
+      "matchpoints": 6
+    },
+    {
+      "name": "Earl Dorado",
+      "matchpoints": 6
+    },
+    {
+      "name": "Simon Ivashkevych",
+      "matchpoints": 6
+    },
+    {
+      "name": "Kevin Ng",
+      "matchpoints": 6
+    },
+    {
+      "name": "Ivan Ong",
+      "matchpoints": 5
+    },
+    {
+      "name": "Alessandro Caffini",
+      "matchpoints": 4
+    },
+    {
+      "name": "Jason Ho",
+      "matchpoints": 3
+    },
+    {
+      "name": "Dylan Wong",
+      "matchpoints": 3
+    },
+    {
+      "name": "Ralph Joseph Villa",
+      "matchpoints": 3
+    },
+    {
+      "name": "Pawin Tanjasiri",
+      "matchpoints": 3
+    },
+    {
+      "name": "Zer Shiuan Peng",
+      "matchpoints": 3
+    },
+    {
+      "name": "Yuen Peir Teo",
+      "matchpoints": 3
+    },
+    {
+      "name": "Yung-Ming Huang",
+      "matchpoints": 3
+    },
+    {
+      "name": "Kenji Lee",
+      "matchpoints": 3
+    },
+    {
+      "name": "Nico Surinindran",
+      "matchpoints": 3
+    },
+    {
+      "name": "Chi Lin Goh",
+      "matchpoints": 3
+    },
+    {
+      "name": "Shawn Neo",
+      "matchpoints": 3
+    },
+    {
+      "name": "Andre Mitchell",
+      "matchpoints": 3
+    },
+    {
+      "name": "Andrea Mengucci",
+      "matchpoints": 3
+    },
+    {
+      "name": "Andhika Wicaksono",
+      "matchpoints": 3
+    },
+    {
+      "name": "Steve Goh",
+      "matchpoints": 3
+    },
+    {
+      "name": "Hanz Benedict Gaerlan",
+      "matchpoints": 1
+    },
+    {
+      "name": "Arthur Codsi",
+      "matchpoints": 0
+    },
+    {
+      "name": "Kelvin Soh",
+      "matchpoints": 0
+    },
+    {
+      "name": "Morgan Olivier",
+      "matchpoints": 0
+    },
+    {
+      "name": "Richard Fu",
+      "matchpoints": 0
+    },
+    {
+      "name": "Mikhail Nikaliukin",
+      "matchpoints": 0
+    },
+    {
+      "name": "Jaeseok Cho",
+      "matchpoints": 0
+    },
+    {
+      "name": "Ryan Loh",
+      "matchpoints": 0
+    },
+    {
+      "name": "Chay Chay Hii",
+      "matchpoints": 0
+    },
+    {
+      "name": "Soon Lye Ng",
+      "matchpoints": 0
+    },
+    {
+      "name": "Clarence Goh",
+      "matchpoints": 0
+    },
+    {
+      "name": "Franz Costales",
+      "matchpoints": 0
+    },
+    {
+      "name": "Isaac Petersen",
+      "matchpoints": 0
+    },
+    {
+      "name": "Ravikorn Nisitsukcharoen",
+      "matchpoints": 0
+    },
+    {
+      "name": "Sergei Chivilev",
+      "matchpoints": 0
+    },
+    {
+      "name": "Craig Shaun Garces",
+      "matchpoints": 0
+    },
+    {
+      "name": "Edward Pariwono",
+      "matchpoints": 0
+    },
+    {
+      "name": "Matthew Wilson",
+      "matchpoints": 0
+    }
+  ]
+}
